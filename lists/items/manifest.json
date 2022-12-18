@@ -1,0 +1,8 @@
+{
+	"title": "Enter the Gungeon - Items",
+	"logo": {
+		"src": "assets/heart-lunchbox.png",
+		"object-fit": "cover",
+		"pixelated": true
+	}
+}

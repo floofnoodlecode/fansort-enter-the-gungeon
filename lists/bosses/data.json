@@ -1,0 +1,290 @@
+{
+	"items": [
+		{
+			"name": "Bullet King",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bullet_King",
+				"img": {
+					"src": "assets/bullet-king.png",
+					"width": 191,
+					"height": 229
+				}
+			}
+		},
+		{
+			"name": "Gatling Gull",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gatling_Gull",
+				"img": {
+					"src": "assets/gatling-gull.png",
+					"width": 263,
+					"height": 230
+				}
+			}
+		},
+		{
+			"name": "Trigger Twins",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Trigger_Twins",
+				"img": {
+					"src": "assets/trigger-twins.png",
+					"width": 232,
+					"height": 168
+				}
+			}
+		},
+		{
+			"name": "Ammoconda",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Ammoconda",
+				"img": {
+					"src": "assets/ammoconda.png",
+					"width": 232,
+					"height": 181
+				}
+			}
+		},
+		{
+			"name": "Beholster",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Beholster",
+				"img": {
+					"src": "assets/beholster.png",
+					"width": 251,
+					"height": 186
+				}
+			}
+		},
+		{
+			"name": "Gorgun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/The_Gorgun",
+				"img": {
+					"src": "assets/gorgun.png",
+					"width": 334,
+					"height": 210
+				}
+			}
+		},
+		{
+			"name": "Cannonbalrog",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Cannonbalrog",
+				"img": {
+					"src": "assets/cannonbalrog.png",
+					"width": 276,
+					"height": 221
+				}
+			}
+		},
+		{
+			"name": "Mine Flayer",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Mine_Flayer",
+				"img": {
+					"src": "assets/mine-flayer.png",
+					"width": 239,
+					"height": 235
+				}
+			}
+		},
+		{
+			"name": "Treadnaught",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Treadnaught",
+				"img": {
+					"src": "assets/treadnaught.png",
+					"width": 312,
+					"height": 179
+				}
+			}
+		},
+		{
+			"name": "High Priest",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/High_Priest",
+				"img": {
+					"src": "assets/high-priest.png",
+					"width": 226,
+					"height": 199
+				}
+			}
+		},
+		{
+			"name": "Kill Pillars",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Kill_Pillars",
+				"img": {
+					"src": "assets/kill-pillars.png",
+					"width": 221,
+					"height": 201
+				}
+			}
+		},
+		{
+			"name": "Wallmonger",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Wallmonger",
+				"img": {
+					"src": "assets/wallmonger.png",
+					"width": 263,
+					"height": 169
+				}
+			}
+		},
+		{
+			"name": "High Dragun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/High_Dragun",
+				"img": {
+					"src": "assets/high-dragun.png",
+					"width": 406,
+					"height": 207
+				}
+			}
+		},
+		{
+			"name": "Blockner",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Blockner",
+				"img": {
+					"src": "assets/blockner.png",
+					"width": 224,
+					"height": 244
+				}
+			}
+		},
+		{
+			"name": "Door Lord",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Door_Lord",
+				"img": {
+					"src": "assets/door-lord.png",
+					"width": 128,
+					"height": 197
+				}
+			}
+		},
+		{
+			"name": "Blobulord",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Blobulord",
+				"img": {
+					"src": "assets/blobulord.png",
+					"width": 209,
+					"height": 184
+				}
+			}
+		},
+		{
+			"name": "Old King",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Old_King",
+				"img": {
+					"src": "assets/old-king.png",
+					"width": 140,
+					"height": 219
+				}
+			}
+		},
+		{
+			"name": "Resourceful Rat",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Resourceful_Rat#Boss",
+				"img": {
+					"src": "assets/resourceful-rat.png",
+					"width": 277,
+					"height": 217
+				}
+			}
+		},
+		{
+			"name": "Black Stache",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Black_Stache",
+				"img": {
+					"src": "assets/black-stache.png",
+					"width": 286,
+					"height": 190
+				}
+			}
+		},
+		{
+			"name": "Dr. Wolf's Monster",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Dr._Wolf%27s_Monster",
+				"img": {
+					"src": "assets/dr-wolf-s-monster.png",
+					"width": 282,
+					"height": 222
+				}
+			}
+		},
+		{
+			"name": "HS Absolution",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/HS_Absolution",
+				"img": {
+					"src": "assets/hs-absolution.png",
+					"width": 246,
+					"height": 240
+				}
+			}
+		},
+		{
+			"name": "Interdimensional Horror",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Interdimensional_Horror",
+				"img": {
+					"src": "assets/interdimensional-horror.png",
+					"width": 344,
+					"height": 240
+				}
+			}
+		},
+		{
+			"name": "Agunim",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Agunim",
+				"img": {
+					"src": "assets/agunim.png",
+					"width": 186,
+					"height": 213
+				}
+			}
+		},
+		{
+			"name": "Cannon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Cannon",
+				"img": {
+					"src": "assets/cannon.png",
+					"width": 228,
+					"height": 239
+				}
+			}
+		},
+		{
+			"name": "The Last Human",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/The_Last_Human",
+				"img": {
+					"src": "assets/the-last-human.png",
+					"width": 239,
+					"height": 211
+				}
+			}
+		},
+		{
+			"name": "Lich",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Lich",
+				"img": {
+					"src": "assets/lich.png",
+					"width": 415,
+					"height": 240
+				}
+			}
+		}
+	]
+}

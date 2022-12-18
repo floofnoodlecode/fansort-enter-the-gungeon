@@ -1,0 +1,4562 @@
+{
+	"items": [
+		{
+			"name": "Rusty Sidearm",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Rusty_Sidearm",
+				"img": {
+					"src": "assets/rusty-sidearm.png",
+					"width": 18,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Still Works. Mostly.",
+					"notes": "Starting gun of The Hunter. Does not crack secret walls.",
+					"Quality": "-",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Marine Sidearm",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Marine_Sidearm",
+				"img": {
+					"src": "assets/marine-sidearm.png",
+					"width": 14,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Always With You",
+					"notes": "Starting gun of The Marine. Does not crack secret walls.",
+					"Quality": "-",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Rogue Special",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Rogue_Special",
+				"img": {
+					"src": "assets/rogue-special.png",
+					"width": 12,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Underhanded And Efficient",
+					"notes": "Fires short-range, inaccurate lasers. Starting gun of The Pilot. Does not crack secret walls.",
+					"Quality": "-",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Budget Revolver",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Budget_Revolver",
+				"img": {
+					"src": "assets/budget-revolver.png",
+					"width": 13,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Affordable Arms",
+					"notes": "Starting gun of The Convict. Does not crack secret walls.",
+					"Quality": "-",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Dart Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Dart_Gun",
+				"img": {
+					"src": "assets/dart-gun.png",
+					"width": 12,
+					"height": 7
+				},
+				"fields": {
+					"quote": "Sticky",
+					"notes": "Fires sticky darts. Starting gun of The Cultist. Does not crack secret walls. Only available in co-op.",
+					"Quality": "-",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Robot's Right Hand",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Robot%27s_Right_Hand",
+				"img": {
+					"src": "assets/robot-s-right-hand.png",
+					"width": 7,
+					"height": 5
+				},
+				"fields": {
+					"quote": "Built To Kill",
+					"notes": "Starting gun of The Robot. Does not crack secret walls.",
+					"Quality": "-",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Slinger",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Slinger",
+				"img": {
+					"src": "assets/slinger.png",
+					"width": 19,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Farewell to arms",
+					"notes": "Starting weapon of The Gunslinger. Reloading throws the gun, which has a chance to stun enemies. Does not crack secret walls.",
+					"Quality": "-",
+					"Type": "Semiautomatic",
+					"Class": "NONE",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Blasphemy",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Blasphemy",
+				"img": {
+					"src": "assets/blasphemy.png",
+					"width": 29,
+					"height": 10
+				},
+				"fields": {
+					"quote": "To The Point",
+					"notes": "Starting weapon of The Bullet. Swings destroy nearby bullets. At full health, swings send out a piercing sword projectile. Does not crack secret walls.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Casey",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Casey",
+				"img": {
+					"src": "assets/casey.png",
+					"width": 28,
+					"height": 6
+				},
+				"fields": {
+					"quote": "Batting .50",
+					"notes": "Charged swings reflect nearby bullets. Does not crack secret walls. Increases curse by 2.",
+					"Quality": "D",
+					"Type": "Charged",
+					"Class": "SILLY",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "Pea Shooter",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Pea_Shooter",
+				"img": {
+					"src": "assets/pea-shooter.png",
+					"width": 14,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Baby's First Gun",
+					"notes": "Fires peas.",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "38 Special",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/38_Special",
+				"img": {
+					"src": "assets/38-special.png",
+					"width": 15,
+					"height": 11
+				},
+				"fields": {
+					"quote": "For The Inquisitive",
+					"notes": "Fires faster right after a dodge roll.",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Derringer",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Derringer",
+				"img": {
+					"src": "assets/derringer.png",
+					"width": 7,
+					"height": 6
+				},
+				"fields": {
+					"quote": "One Last Trick",
+					"notes": "",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Trank Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Trank_Gun",
+				"img": {
+					"src": "assets/trank-gun.png",
+					"width": 16,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Non Non Lethal",
+					"notes": "",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Unfinished Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Unfinished_Gun",
+				"img": {
+					"src": "assets/unfinished-gun.png",
+					"width": 23,
+					"height": 14
+				},
+				"fields": {
+					"quote": "Still Warm",
+					"notes": "Fires piercing bullets.",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "FIRE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Elimentaler",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Elimentaler",
+				"img": {
+					"src": "assets/elimentaler.png",
+					"width": 22,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Full of Holes",
+					"notes": "Encases enemies in cheese, freezing them. Enemies that die while cheesed spawn a large cheese pool, which cheeses any enemies that step in it.",
+					"Quality": "S",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+				}
+			}
+		},
+		{
+			"name": "Bullet",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bullet",
+				"img": {
+					"src": "assets/bullet.png",
+					"width": 14,
+					"height": 7
+				},
+				"fields": {
+					"quote": "Fires Guns",
+					"notes": "Fires rotating guns which fire bullets as they travel.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "Shell",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Shell",
+				"img": {
+					"src": "assets/shell.png",
+					"width": 21,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Fires Shotguns",
+					"notes": "Fires three shotguns, each of which fires three bullets upon hitting something.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "Hyper Light Blaster",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Hyper_Light_Blaster",
+				"img": {
+					"src": "assets/hyper-light-blaster.png",
+					"width": 17,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Skill Honed Sharp",
+					"notes": "Has very low ammo, but regenerates 1 ammo if a shot hits an enemy.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "Boxing Glove",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Boxing_Glove",
+				"img": {
+					"src": "assets/boxing-glove.png",
+					"width": 20,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Pistol Hondo",
+					"notes": "Shoots a boxing glove with a chance to stun. Gains a star each time it kills an enemy, up to 3. When at 3 stars, can be charged to consume the stars and fire a high-damage super punch. Increases curse by 1.",
+					"Quality": "C",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+				}
+			}
+		},
+		{
+			"name": "Makarov",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Makarov",
+				"img": {
+					"src": "assets/makarov.png",
+					"width": 13,
+					"height": 10
+				},
+				"fields": {
+					"quote": "The People's Gun",
+					"notes": "",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "M1911",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/M1911",
+				"img": {
+					"src": "assets/m1911.png",
+					"width": 17,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Classic",
+					"notes": "",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Magnum",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Magnum",
+				"img": {
+					"src": "assets/magnum.png",
+					"width": 17,
+					"height": 13
+				},
+				"fields": {
+					"quote": "5 Shots Or 6?",
+					"notes": "",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Colt 1851",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Colt_1851",
+				"img": {
+					"src": "assets/colt-1851.png",
+					"width": 19,
+					"height": 8
+				},
+				"fields": {
+					"quote": "You Dig",
+					"notes": "Fires a burst of two bullets.",
+					"Quality": "C",
+					"Type": "Burst",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "SAA",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/SAA",
+				"img": {
+					"src": "assets/saa.png",
+					"width": 14,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Exhilarating Reload Time",
+					"notes": "Fires bouncing bullets that aim towards enemies after bouncing.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Cold 45",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Cold_45",
+				"img": {
+					"src": "assets/cold-45.png",
+					"width": 18,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Shatterday Night Special",
+					"notes": "Fires bullets that freeze enemies.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "ICE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Polaris",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Polaris",
+				"img": {
+					"src": "assets/polaris.png",
+					"width": 16,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Storied",
+					"notes": "Has 3 levels. Killing enough enemies causes the gun to level up, increasing its damage. Taking damage decreases its level by 1.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Jolter",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Jolter",
+				"img": {
+					"src": "assets/jolter.png",
+					"width": 22,
+					"height": 12
+				},
+				"fields": {
+					"quote": ".95 Caliber",
+					"notes": "Fires large and rectangular bullets with high knockback.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Dungeon Eagle",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Dungeon_Eagle",
+				"img": {
+					"src": "assets/dungeon-eagle.png",
+					"width": 16,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Caw!",
+					"notes": "Can be charged to fire more powerful shots.",
+					"Quality": "C",
+					"Type": "Charged",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Grey Mauser",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Grey_Mauser",
+				"img": {
+					"src": "assets/grey-mauser.png",
+					"width": 21,
+					"height": 14
+				},
+				"fields": {
+					"quote": "Silent And Deadly",
+					"notes": "Reloading an empty clip makes the player invisible. Can be used to steal from shops.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Vorpal Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Vorpal_Gun",
+				"img": {
+					"src": "assets/vorpal-gun.png",
+					"width": 22,
+					"height": 13
+				},
+				"fields": {
+					"quote": ".50 Criticaliber",
+					"notes": "Has a chance to fire a critical shot which deals 20 times its damage.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "High Kaliber",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/High_Kaliber",
+				"img": {
+					"src": "assets/high-kaliber.png",
+					"width": 19,
+					"height": 18
+				},
+				"fields": {
+					"quote": "Soul Reaver",
+					"notes": "Causes enemy souls to leave their bodies. Touching a soul deals high damage to the enemy.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Shellegun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Shellegun",
+				"img": {
+					"src": "assets/shellegun.png",
+					"width": 15,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Circle Of Death",
+					"notes": "Reloading alternates between a pistol and a continuous beam. Increases curse by 1.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Dueling Pistol",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Dueling_Pistol",
+				"img": {
+					"src": "assets/dueling-pistol.png",
+					"width": 18,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Ricochet",
+					"notes": "Fires large piercing bullets that bounce twice.",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "AU Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/AU_Gun",
+				"img": {
+					"src": "assets/au-gun.png",
+					"width": 17,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Some Assembly Required",
+					"notes": "Fires a single powerful bullet.",
+					"Quality": "S",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Big Iron",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Big_Iron",
+				"img": {
+					"src": "assets/big-iron.png",
+					"width": 26,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Heavy",
+					"notes": "Fires a random spread of three bullets.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Composite Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Composite_Gun",
+				"img": {
+					"src": "assets/composite-gun.png",
+					"width": 15,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Undetectable",
+					"notes": "Charged shot consumes all ammo in magazine and will activate a blank effect when it hits a wall.",
+					"Quality": "S",
+					"Type": "Charged",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Flare Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Flare_Gun",
+				"img": {
+					"src": "assets/flare-gun.png",
+					"width": 17,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Over Here",
+					"notes": "Fires bullets that have a chance to burn enemies.",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "FIRE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Smiley's Revolver",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Smiley%27s_Revolver",
+				"img": {
+					"src": "assets/smiley-s-revolver.png",
+					"width": 17,
+					"height": 12
+				},
+				"fields": {
+					"quote": "All Smiles",
+					"notes": "Decreases shop prices while held.\nFire rate increased shortly after rolling.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Shades's Revolver",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Shades%27s_Revolver",
+				"img": {
+					"src": "assets/shades-s-revolver.png",
+					"width": 17,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Someone Loses An Eye",
+					"notes": "Increases coolness by 3.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Knight's Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Knight%27s_Gun",
+				"img": {
+					"src": "assets/knight-s-gun.png",
+					"width": 36,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Plowshare",
+					"notes": "Fires five bullets in an arrow shape. Gains some pickups when reloading an empty clip.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "GuNNER",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/GuNNER",
+				"img": {
+					"src": "assets/gunner.png",
+					"width": 19,
+					"height": 8
+				},
+				"fields": {
+					"quote": "Backpack Not Included",
+					"notes": "Taking damage while GuNNER is held drains 40 ammo and drops a skull that heals the player upon pickup.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "RIFLE",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Regular Shotgun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Regular_Shotgun",
+				"img": {
+					"src": "assets/regular-shotgun.png",
+					"width": 24,
+					"height": 5
+				},
+				"fields": {
+					"quote": "Cocked And Loaded",
+					"notes": "",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Big Shotgun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Big_Shotgun",
+				"img": {
+					"src": "assets/big-shotgun.png",
+					"width": 43,
+					"height": 12
+				},
+				"fields": {
+					"quote": "A Shotgun That's Big",
+					"notes": "Fires three exploding shots that burst into bullets. Reloading next to Shotgun Kin sucks them up, killing them and restoring 1 ammo.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+				}
+			}
+		},
+		{
+			"name": "Old Goldie",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Old_Goldie",
+				"img": {
+					"src": "assets/old-goldie.png",
+					"width": 30,
+					"height": 9
+				},
+				"fields": {
+					"quote": "For The Discerning",
+					"notes": "Increases coolness by 1.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Sawed-Off",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Sawed-Off",
+				"img": {
+					"src": "assets/sawed-off.png",
+					"width": 16,
+					"height": 5
+				},
+				"fields": {
+					"quote": "No Butts About It",
+					"notes": "Starting gun of The Convict.",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Winchester",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Winchester",
+				"img": {
+					"src": "assets/winchester.png",
+					"width": 18,
+					"height": 5
+				},
+				"fields": {
+					"quote": "Better Than A Box Of Roses",
+					"notes": "",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Rattler",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Rattler",
+				"img": {
+					"src": "assets/rattler.png",
+					"width": 23,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Snakes On A Gun",
+					"notes": "Simultaneously fires a shotgun blast and a beam that has a chance to poison enemies.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "POISON",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Bubble Blaster",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bubble_Blaster",
+				"img": {
+					"src": "assets/bubble-blaster.png",
+					"width": 11,
+					"height": 16
+				},
+				"fields": {
+					"quote": "The Suds",
+					"notes": "Fires bubbles which move slowly towards enemies. Reloading the gun launches bubbles away from the player at high speed.",
+					"Quality": "C",
+					"Type": "Automatic",
+					"Class": "SILLY",
+					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+				}
+			}
+		},
+		{
+			"name": "Elephant Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Elephant_Gun",
+				"img": {
+					"src": "assets/elephant-gun.png",
+					"width": 31,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Shoots Elephants",
+					"notes": "Fires a cone spread of bullets with high knockback.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Tangler",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Tangler",
+				"img": {
+					"src": "assets/tangler.png",
+					"width": 21,
+					"height": 6
+				},
+				"fields": {
+					"quote": "Get Wrecktangled",
+					"notes": "Fires a shotgun blast of rectangular bullets that bounce off walls. Enemies hit will be folded into a rectangle.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Void Shotgun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Void_Shotgun",
+				"img": {
+					"src": "assets/void-shotgun.png",
+					"width": 20,
+					"height": 8
+				},
+				"fields": {
+					"quote": "CQC",
+					"notes": "Fires 6 purple bullets with high knockback.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Mass Shotgun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Mass_Shotgun",
+				"img": {
+					"src": "assets/mass-shotgun.png",
+					"width": 23,
+					"height": 12
+				},
+				"fields": {
+					"quote": "My Favorite Gun",
+					"notes": "Shoots a large slow projectile that will split up in a barrage of small bullets shortly afterwards.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Shotgun Full of Hate",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Shotgun_Full_of_Hate",
+				"img": {
+					"src": "assets/shotgun-full-of-hate.png",
+					"width": 30,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Hate Is Power!",
+					"notes": "Shoots a shotgun burst of skulls, nails, regular bullets, and poison bullets that leave pools of poison goop.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Shotgun Full of Love",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Shotgun_Full_of_Love",
+				"img": {
+					"src": "assets/shotgun-full-of-love.png",
+					"width": 29,
+					"height": 14
+				},
+				"fields": {
+					"quote": "Kill With Kindness",
+					"notes": "Has a chance to Charm enemies.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "CHARM",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Shotgrub",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Shotgrub",
+				"img": {
+					"src": "assets/shotgrub.png",
+					"width": 25,
+					"height": 7
+				},
+				"fields": {
+					"quote": "No Worries!",
+					"notes": "Fires a spread of 5 bullets that leave small pools of poison goop.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "POISON",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Gilded Hydra",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gilded_Hydra",
+				"img": {
+					"src": "assets/gilded-hydra.png",
+					"width": 21,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Heads Up!",
+					"notes": "Fires a large burst of piercing, bouncing bullets. Clip size is increased by 1 for each half heart the player is missing, and healing decreases clip size.",
+					"Quality": "S",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Blunderbuss",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Blunderbuss",
+				"img": {
+					"src": "assets/blunderbuss.png",
+					"width": 29,
+					"height": 8
+				},
+				"fields": {
+					"quote": "Shoots Anything",
+					"notes": "Fires a short-ranged spray of bullets.",
+					"Quality": "D",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Pulse Cannon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Pulse_Cannon",
+				"img": {
+					"src": "assets/pulse-cannon.png",
+					"width": 26,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Time Of Death...",
+					"notes": "Fires a shotgun blast spread of 6 bullets.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Siren",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Siren",
+				"img": {
+					"src": "assets/siren.png",
+					"width": 34,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Mershotgun",
+					"notes": "Fires a shotgun blast of bullets that leave pools of water.  Negates fall damage and goop effects while equipped.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Zilla Shotgun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Zilla_Shotgun",
+				"img": {
+					"src": "assets/zilla-shotgun.png",
+					"width": 25,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Quadruple the fun!",
+					"notes": "Can be charged to fire the entire magazine at once, which will cause it to fire piercing, bouncing bullets.",
+					"Quality": "A",
+					"Type": "Charged",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Ice Breaker",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Ice_Breaker",
+				"img": {
+					"src": "assets/ice-breaker.png",
+					"width": 27,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Never Let Go",
+					"notes": "The first two shots fire a shotgun blast of ice bullets, and the final shot fires a single explosive shot.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "ICE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "The Membrane",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/The_Membrane",
+				"img": {
+					"src": "assets/the-membrane.png",
+					"width": 25,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Green Or Yellow?",
+					"notes": "Fires a shotgun blast of bouncing green bullets that split into more bouncing green bullets.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Huntsman",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Huntsman",
+				"img": {
+					"src": "assets/huntsman.png",
+					"width": 26,
+					"height": 14
+				},
+				"fields": {
+					"quote": "Axes Of Evil",
+					"notes": "Fires a shotgun blast of bullets. Reloading destroys nearby bullets. Increases curse by 1.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Blooper",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Blooper",
+				"img": {
+					"src": "assets/blooper.png",
+					"width": 23,
+					"height": 6
+				},
+				"fields": {
+					"quote": "Close Your Bloop",
+					"notes": "Fires shotgun blasts of blue bullets with high knockback.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "JK-47",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/JK-47",
+				"img": {
+					"src": "assets/jk-47.png",
+					"width": 23,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Substitute",
+					"notes": "Reloading inflicts fear on nearby enemies.",
+					"Quality": "C",
+					"Type": "Automatic",
+					"Class": "SILLY",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Bow",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bow",
+				"img": {
+					"src": "assets/bow.png",
+					"width": 17,
+					"height": 19
+				},
+				"fields": {
+					"quote": "Hold Fire To Charge",
+					"notes": "Fully charged shots pierce.",
+					"Quality": "C",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Charmed Bow",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Charmed_Bow",
+				"img": {
+					"src": "assets/charmed-bow.png",
+					"width": 17,
+					"height": 19
+				},
+				"fields": {
+					"quote": "<3-----<<<",
+					"notes": "Charms enemies when fully charged.",
+					"Quality": "B",
+					"Type": "Charged",
+					"Class": "CHARM",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Crossbow",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Crossbow",
+				"img": {
+					"src": "assets/crossbow.png",
+					"width": 21,
+					"height": 7
+				},
+				"fields": {
+					"quote": "The Original",
+					"notes": "Fires bolts. Starting gun of The Hunter.",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Sticky Crossbow",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Sticky_Crossbow",
+				"img": {
+					"src": "assets/sticky-crossbow.png",
+					"width": 13,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Reload, Explode",
+					"notes": "Fires bolts that stick to enemies and explode upon reloading.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Shotbow",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Shotbow",
+				"img": {
+					"src": "assets/shotbow.png",
+					"width": 28,
+					"height": 13
+				},
+				"fields": {
+					"quote": "A Teleporter Accident",
+					"notes": "Fires a shotgun blast of bolts.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Triple Crossbow",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Triple_Crossbow",
+				"img": {
+					"src": "assets/triple-crossbow.png",
+					"width": 22,
+					"height": 13
+				},
+				"fields": {
+					"quote": "3 > 1",
+					"notes": "Reloading alternates between triple bolts and single bolts that slow enemies.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SHOTGUN",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Crescent Crossbow",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Crescent_Crossbow",
+				"img": {
+					"src": "assets/crescent-crossbow.png",
+					"width": 24,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Moon Shot",
+					"notes": "Fires stars that split into smaller bouncing stars.",
+					"Quality": "A",
+					"Type": "Charged",
+					"Class": "CHARM",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Gunbow",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gunbow",
+				"img": {
+					"src": "assets/gunbow.png",
+					"width": 16,
+					"height": 20
+				},
+				"fields": {
+					"quote": "Failed Experiment",
+					"notes": "Fires a fast, piercing projectile that ricochets many times.",
+					"Quality": "A",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Klobbe",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Klobbe",
+				"img": {
+					"src": "assets/klobbe.png",
+					"width": 18,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Everyone's Favorite",
+					"notes": "Rapidly fires low-damage bullets.",
+					"Quality": "D",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Machine Pistol",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Machine_Pistol",
+				"img": {
+					"src": "assets/machine-pistol.png",
+					"width": 12,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Rapid Fire",
+					"notes": "",
+					"Quality": "D",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Thompson Sub-Machinegun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Thompson_Sub-Machinegun",
+				"img": {
+					"src": "assets/thompson-sub-machinegun.png",
+					"width": 21,
+					"height": 8
+				},
+				"fields": {
+					"quote": "Myeah, See!",
+					"notes": "",
+					"Quality": "C",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "AK-47",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/AK-47",
+				"img": {
+					"src": "assets/ak-47.png",
+					"width": 27,
+					"height": 7
+				},
+				"fields": {
+					"quote": "Accept No Substitutes",
+					"notes": "",
+					"Quality": "B",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Strafe Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Strafe_Gun",
+				"img": {
+					"src": "assets/strafe-gun.png",
+					"width": 37,
+					"height": 17
+				},
+				"fields": {
+					"quote": "Bleeding Edge Gameplay",
+					"notes": "Fires nails that explode upon releasing the trigger.",
+					"Quality": "S",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "AKEY-47",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/AKEY-47",
+				"img": {
+					"src": "assets/akey-47.png",
+					"width": 26,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Unlocked And Loaded!",
+					"notes": "Opening a locked chest or door with the gun equipped opens it for free. Alternatively, shooting a locked chest or door unlocks it.",
+					"Quality": "S",
+					"Type": "Automatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Stone Dome",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Stone_Dome",
+				"img": {
+					"src": "assets/stone-dome.png",
+					"width": 21,
+					"height": 19
+				},
+				"fields": {
+					"quote": "Big Head Mode",
+					"notes": "Sits on the player's head and rapidly fires homing bullets. While held, inflicts fear on nearby enemies. Increases curse by 1.",
+					"Quality": "B",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+				}
+			}
+		},
+		{
+			"name": "Crown of Guns",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Crown_of_Guns",
+				"img": {
+					"src": "assets/crown-of-guns.png",
+					"width": 25,
+					"height": 17
+				},
+				"fields": {
+					"quote": "All Hail",
+					"notes": "Sits atop the player's head and fires bullets in all directions.",
+					"Quality": "C",
+					"Type": "Automatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "M16",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/M16",
+				"img": {
+					"src": "assets/m16.png",
+					"width": 35,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Underslung",
+					"notes": "Reloading alternates between bursts of 3 bullets and a grenade launcher.",
+					"Quality": "A",
+					"Type": "Burst",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Combined Rifle",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Combined_Rifle",
+				"img": {
+					"src": "assets/combined-rifle.png",
+					"width": 32,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Halve Lives",
+					"notes": "Reloading alternates between a rapid-fire rifle and a bouncing, piercing energy ball.",
+					"Quality": "B",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+				}
+			}
+		},
+		{
+			"name": "Zorgun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Zorgun",
+				"img": {
+					"src": "assets/zorgun.png",
+					"width": 25,
+					"height": 15
+				},
+				"fields": {
+					"quote": "Don't Push The Red Button",
+					"notes": "Rapidly fires homing bullets. The final bullet in each clip fires a random explosive (grenade, rocket, or drill).",
+					"Quality": "A",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "The Fat Line",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/The_Fat_Line",
+				"img": {
+					"src": "assets/the-fat-line.png",
+					"width": 33,
+					"height": 15
+				},
+				"fields": {
+					"quote": "Technobabble",
+					"notes": "Fires purple bullets, which start at the wall the gun is aimed at and travel back towards the gun. Bullets will curve and home in on enemies as they travel.",
+					"Quality": "B",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Mr. Accretion Jr.",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Mr._Accretion_Jr.",
+				"img": {
+					"src": "assets/mr-accretion-jr.png",
+					"width": 26,
+					"height": 20
+				},
+				"fields": {
+					"quote": "Music of the Spheres",
+					"notes": "Fires planets which start orbiting the player if they hit a wall or obstacle.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+				}
+			}
+		},
+		{
+			"name": "VertebraeK-47",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/VertebraeK-47",
+				"img": {
+					"src": "assets/vertebraek-47.png",
+					"width": 28,
+					"height": 14
+				},
+				"fields": {
+					"quote": "Nervous Yet?",
+					"notes": "Bullets close to each other will form links between each other, which hurts enemies on touch.",
+					"Quality": "B",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Balloon Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Balloon_Gun",
+				"img": {
+					"src": "assets/balloon-gun.png",
+					"width": 30,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Hot Air",
+					"notes": "Fires small homing tornadoes. While held, grants flight but loses all ammo on taking damage.",
+					"Quality": "C",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "MAC10",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/MAC10",
+				"img": {
+					"src": "assets/mac10.png",
+					"width": 24,
+					"height": 14
+				},
+				"fields": {
+					"quote": "$#!^@ Never End",
+					"notes": "Fires a burst of four bullets.",
+					"Quality": "C",
+					"Type": "Burst",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Triple Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Triple_Gun",
+				"img": {
+					"src": "assets/triple-gun.png",
+					"width": 24,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Bullet the Stampede",
+					"notes": "Changes form based on how much ammo it has left.",
+					"Quality": "B",
+					"Type": "Varies",
+					"Class": "PISTOL",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Heck Blaster",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Heck_Blaster",
+				"img": {
+					"src": "assets/heck-blaster.png",
+					"width": 14,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Whoa, Nelly",
+					"notes": "Rapidly fires invisible bullets. Jammed enemies hit will revert to normal.",
+					"Quality": "B",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Patriot",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Patriot",
+				"img": {
+					"src": "assets/patriot.png",
+					"width": 26,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Gun Eater",
+					"notes": "Fires piercing bullets.\nFire rate increases rapidly as the trigger is held.",
+					"Quality": "S",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "AC-15",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/AC-15",
+				"img": {
+					"src": "assets/ac-15.png",
+					"width": 28,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Metalled Gear",
+					"notes": "Becomes more powerful if the player has armor.",
+					"Quality": "B",
+					"Type": "Automatic",
+					"Class": "SILLY",
+					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+				}
+			}
+		},
+		{
+			"name": "Vulcan Cannon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Vulcan_Cannon",
+				"img": {
+					"src": "assets/vulcan-cannon.png",
+					"width": 26,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Boundless Slaughter",
+					"notes": "",
+					"Quality": "S",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Plague Pistol",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Plague_Pistol",
+				"img": {
+					"src": "assets/plague-pistol.png",
+					"width": 20,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Chemical Warfare",
+					"notes": "Bullets create poison puddles on impact.",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "POISON",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Gungine",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gungine",
+				"img": {
+					"src": "assets/gungine.png",
+					"width": 26,
+					"height": 14
+				},
+				"fields": {
+					"quote": "12 Cylinder",
+					"notes": "Greatly increases movement speed while held. Reloading clears nearby goop and refills the gun's ammo.",
+					"Quality": "S",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "The Predator",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/The_Predator",
+				"img": {
+					"src": "assets/the-predator.png",
+					"width": 21,
+					"height": 10
+				},
+				"fields": {
+					"quote": "High-tech $#!*",
+					"notes": "Locks onto enemies and fires high speed homing lasers.  Invisibility while reloading an empty magazine.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Dragunfire",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Dragunfire",
+				"img": {
+					"src": "assets/dragunfire.png",
+					"width": 21,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Roar",
+					"notes": "Rapidly fires burning bullets that have a chance to inflict Burn.",
+					"Quality": "A",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Sniper Rifle",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Sniper_Rifle",
+				"img": {
+					"src": "assets/sniper-rifle.png",
+					"width": 30,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Scope Creep",
+					"notes": "Fires bullets that can pierce through one enemy.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "RIFLE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "A.W.P.",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/A.W.P.",
+				"img": {
+					"src": "assets/a-w-p.png",
+					"width": 30,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Noob Cannon",
+					"notes": "Fires bullets that can pierce through one enemy.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "RIFLE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "M1",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/M1",
+				"img": {
+					"src": "assets/m1.png",
+					"width": 31,
+					"height": 6
+				},
+				"fields": {
+					"quote": "Bolt Action",
+					"notes": "Fires high-speed piercing bullets.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "RIFLE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Winchester Rifle",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Winchester_Rifle",
+				"img": {
+					"src": "assets/winchester-rifle.png",
+					"width": 38,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Guns And Deviltry.",
+					"notes": "",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "RIFLE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Corsair",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Corsair",
+				"img": {
+					"src": "assets/corsair.png",
+					"width": 23,
+					"height": 15
+				},
+				"fields": {
+					"quote": "Plot A Course",
+					"notes": "Fires slow, bouncing bullets that accelerate and curve towards enemies.",
+					"Quality": "C",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Railgun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Railgun",
+				"img": {
+					"src": "assets/railgun.png",
+					"width": 47,
+					"height": 15
+				},
+				"fields": {
+					"quote": "Calibrating",
+					"notes": "Fires a fast-moving piercing bullet that bounces many times.",
+					"Quality": "S",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Prototype Railgun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Prototype_Railgun",
+				"img": {
+					"src": "assets/prototype-railgun.png",
+					"width": 33,
+					"height": 11
+				},
+				"fields": {
+					"quote": "DANGER: HIGH VOLTAGE",
+					"notes": "Fires a fast-moving piercing bullet.",
+					"Quality": "A",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Void Marshal",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Void_Marshal",
+				"img": {
+					"src": "assets/void-marshal.png",
+					"width": 16,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Acquired Under The Table",
+					"notes": "",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Deck4rd",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Deck4rd",
+				"img": {
+					"src": "assets/deck4rd.png",
+					"width": 17,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Unicorn Of Handguns",
+					"notes": "Fires a single powerful bullet that will explode upon impact.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "The Judge",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/The_Judge",
+				"img": {
+					"src": "assets/the-judge.png",
+					"width": 19,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Hot Shot",
+					"notes": "The final shot of each clip has a chance to poison, freeze or ignite enemies. (likely more effects possible)",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Mourning Star",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Mourning_Star",
+				"img": {
+					"src": "assets/mourning-star.png",
+					"width": 28,
+					"height": 15
+				},
+				"fields": {
+					"quote": "Satellite Rain",
+					"notes": "Calls down a controllable orbital laser.",
+					"Quality": "S",
+					"Type": "Beam",
+					"Class": "SILLY",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "Alien Sidearm",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Alien_Sidearm",
+				"img": {
+					"src": "assets/alien-sidearm.png",
+					"width": 16,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Shield Breaker",
+					"notes": "Charged shots are larger and deal more damage.",
+					"Quality": "D",
+					"Type": "Charged",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "RUBE-ADYNE Prototype",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/RUBE-ADYNE_Prototype",
+				"img": {
+					"src": "assets/rube-adyne-prototype.png",
+					"width": 18,
+					"height": 11
+				},
+				"fields": {
+					"quote": "It Never Quits",
+					"notes": "Fires lasers that bounce four times.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "RUBE-ADYNE MK.II",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/RUBE-ADYNE_MK.II",
+				"img": {
+					"src": "assets/rube-adyne-mk-ii.png",
+					"width": 20,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Polished Product",
+					"notes": "Fires bouncing lasers with limited range.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Rubenstein's Monster",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Rubenstein%27s_Monster",
+				"img": {
+					"src": "assets/rubenstein-s-monster.png",
+					"width": 40,
+					"height": 16
+				},
+				"fields": {
+					"quote": "Unit 00",
+					"notes": "Created when both RUBE-ADYNE Prototype and RUBE-ADYNE MK.II are picked up. Rapidly fires bouncing lasers.",
+					"Quality": "-",
+					"Type": "Automatic",
+					"Class": "SHITTY",
+					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+				}
+			}
+		},
+		{
+			"name": "Chamber Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Chamber_Gun",
+				"img": {
+					"src": "assets/chamber-gun.png",
+					"width": 20,
+					"height": 16
+				},
+				"fields": {
+					"quote": "Product of Environment",
+					"notes": "Transforms based on the current chamber.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "NONE",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Gunderfury",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gunderfury",
+				"img": {
+					"src": "assets/gunderfury.png",
+					"width": 30,
+					"height": 15
+				},
+				"fields": {
+					"quote": "Gun of Guncraft",
+					"notes": "Gains persist experience and levels up with kills, changing its appearance and stats.",
+					"Quality": "A",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Mine Cutter",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Mine_Cutter",
+				"img": {
+					"src": "assets/mine-cutter.png",
+					"width": 19,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Safety First",
+					"notes": "Reloading alternates between firing three small, piercing, parallel lasers and single large lasers.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Void Core Assault Rifle",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Void_Core_Assault_Rifle",
+				"img": {
+					"src": "assets/void-core-assault-rifle.png",
+					"width": 28,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Rapid Fire",
+					"notes": "Fires bursts of three lasers.",
+					"Quality": "B",
+					"Type": "Burst",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Flash Ray",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Flash_Ray",
+				"img": {
+					"src": "assets/flash-ray.png",
+					"width": 19,
+					"height": 15
+				},
+				"fields": {
+					"quote": "Ah Ahhh!",
+					"notes": "Shoots piercing lasers with a chance to stun.",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Wind Up Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Wind_Up_Gun",
+				"img": {
+					"src": "assets/wind-up-gun.png",
+					"width": 26,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Charge It",
+					"notes": "In each magazine, the first 10 bullets pierce. The last 10 deal half damage.",
+					"Quality": "D",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "H4mmer",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/H4mmer",
+				"img": {
+					"src": "assets/h4mmer.png",
+					"width": 17,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Many Bullets",
+					"notes": "Fires a barrage of bullets. The last shot in the magazine is a hammer, which deals extra damage and can stun enemies.",
+					"Quality": "B",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Snakemaker",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Snakemaker",
+				"img": {
+					"src": "assets/snakemaker.png",
+					"width": 21,
+					"height": 13
+				},
+				"fields": {
+					"quote": "SSSSSSSSSSS",
+					"notes": "Has a chance to transmogrify enemies into snakes.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Turbo-Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Turbo-Gun",
+				"img": {
+					"src": "assets/turbo-gun.png",
+					"width": 19,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Repetitive Strain",
+					"notes": "Damage increases for the next magazine depending on the number of reload attempts during its reload.",
+					"Quality": "C",
+					"Type": "Automatic",
+					"Class": "SHITTY",
+					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+				}
+			}
+		},
+		{
+			"name": "Hegemony Carbine",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Hegemony_Carbine",
+				"img": {
+					"src": "assets/hegemony-carbine.png",
+					"width": 29,
+					"height": 10
+				},
+				"fields": {
+					"quote": "All The Same",
+					"notes": "Shoots rapid fire white bolts of energy.",
+					"Quality": "C",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Screecher",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Screecher",
+				"img": {
+					"src": "assets/screecher.png",
+					"width": 18,
+					"height": 8
+				},
+				"fields": {
+					"quote": "Cover Your Ears!",
+					"notes": "Rapidly fires piercing sound waves that have a small chance to stun.",
+					"Quality": "C",
+					"Type": "Automatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Laser Lotus",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Laser_Lotus",
+				"img": {
+					"src": "assets/laser-lotus.png",
+					"width": 24,
+					"height": 15
+				},
+				"fields": {
+					"quote": "Level 5",
+					"notes": "Fires piercing lasers.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "RIFLE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Hegemony Rifle",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Hegemony_Rifle",
+				"img": {
+					"src": "assets/hegemony-rifle.png",
+					"width": 30,
+					"height": 12
+				},
+				"fields": {
+					"quote": "So Precise",
+					"notes": "Rapidly fires inaccurate white lasers.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "RIFLE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Fightsabre",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Fightsabre",
+				"img": {
+					"src": "assets/fightsabre.png",
+					"width": 36,
+					"height": 14
+				},
+				"fields": {
+					"quote": "Heresy",
+					"notes": "Reloading swings the gun around, reflecting nearby bullets. Increases curse by 2.",
+					"Quality": "S",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Helix",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Helix",
+				"img": {
+					"src": "assets/helix.png",
+					"width": 16,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Splice 'n' Dice",
+					"notes": "Fires two bullets in a helix pattern.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "POISON",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Laser Rifle",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Laser_Rifle",
+				"img": {
+					"src": "assets/laser-rifle.png",
+					"width": 27,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Blast Off!",
+					"notes": "Fires a burst of three lasers.",
+					"Quality": "C",
+					"Type": "Burst",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Crestfaller",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Crestfaller",
+				"img": {
+					"src": "assets/crestfaller.png",
+					"width": 26,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Cold Reality",
+					"notes": "Fires bullets that slow and have a chance to freeze.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "RIFLE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Rad Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Rad_Gun",
+				"img": {
+					"src": "assets/rad-gun.png",
+					"width": 20,
+					"height": 18
+				},
+				"fields": {
+					"quote": "Totally Rad",
+					"notes": "Increases coolness by 2. When reloading, if the reload button is hit at the right time, the gun's damage is increased. Failing a reload resets the damage.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "Thunderclap",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Thunderclap",
+				"img": {
+					"src": "assets/thunderclap.png",
+					"width": 21,
+					"height": 7
+				},
+				"fields": {
+					"quote": "Lightning In A Bullet",
+					"notes": "Fires balls of lightning.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "RIFLE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Charge Shot",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Charge_Shot",
+				"img": {
+					"src": "assets/charge-shot.png",
+					"width": 26,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Hold To Fire",
+					"notes": "Fires a large laser that pierces enemies and bounces off of walls two times. Laser deals higher damage after bouncing.",
+					"Quality": "B",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Dark Marker",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Dark_Marker",
+				"img": {
+					"src": "assets/dark-marker.png",
+					"width": 26,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Big Bang",
+					"notes": "Charge shot consumes the entire clip to create a room-wide explosion and blank effect.",
+					"Quality": "S",
+					"Type": "Semiautomatic",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Particulator",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Particulator",
+				"img": {
+					"src": "assets/particulator.png",
+					"width": 28,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Strange Matter",
+					"notes": "Fires a large bullet, which will split into 10 bullets which seek out enemies.",
+					"Quality": "S",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "The Emperor",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/The_Emperor",
+				"img": {
+					"src": "assets/the-emperor.png",
+					"width": 26,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Electric Terror",
+					"notes": "Fires a burst of four bullets connected by electricity.",
+					"Quality": "A",
+					"Type": "Burst",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "RPG",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/RPG",
+				"img": {
+					"src": "assets/rpg.png",
+					"width": 29,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Leveled Up",
+					"notes": "Fires grenades.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Grenade Launcher",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Grenade_Launcher",
+				"img": {
+					"src": "assets/grenade-launcher.png",
+					"width": 21,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Fwomp!",
+					"notes": "Shoots a grenade that bounces off of surfaces and explodes on impact with enemies.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Stinger",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Stinger",
+				"img": {
+					"src": "assets/stinger.png",
+					"width": 32,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Drone Warfare",
+					"notes": "Fires homing rockets that explode into bees.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "The Exotic",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/The_Exotic",
+				"img": {
+					"src": "assets/the-exotic.png",
+					"width": 40,
+					"height": 16
+				},
+				"fields": {
+					"quote": "Pack of Wolves",
+					"notes": "Fires rockets which burst into more homing rockets. While held, grants a ghost companion that follows the player and reveals the contents of nearby chests.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+				}
+			}
+		},
+		{
+			"name": "Com4nd0",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Com4nd0",
+				"img": {
+					"src": "assets/com4nd0.png",
+					"width": 27,
+					"height": 14
+				},
+				"fields": {
+					"quote": "You're Fired",
+					"notes": "Fires homing rockets.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "RC Rocket",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/RC_Rocket",
+				"img": {
+					"src": "assets/rc-rocket.png",
+					"width": 34,
+					"height": 16
+				},
+				"fields": {
+					"quote": "Avoid User Error",
+					"notes": "Fires rockets guided by the player's cursor.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Yari Launcher",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Yari_Launcher",
+				"img": {
+					"src": "assets/yari-launcher.png",
+					"width": 27,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Hell. Yes.",
+					"notes": "Rapidly fires homing rockets. Bypasses the boss DPS cap.",
+					"Quality": "S",
+					"Type": "Automatic",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Lil' Bomber",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Lil%27_Bomber",
+				"img": {
+					"src": "assets/lil-bomber.png",
+					"width": 23,
+					"height": 19
+				},
+				"fields": {
+					"quote": "ReFuse To Lose!",
+					"notes": "Fires a bomb that bounces off of walls and explodes on enemy contact.",
+					"Quality": "D",
+					"Type": "Charged",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Grasschopper",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Grasschopper",
+				"img": {
+					"src": "assets/grasschopper.png",
+					"width": 6,
+					"height": 4
+				},
+				"fields": {
+					"quote": "Noisy",
+					"notes": "Fires a single powerful blast that releases a small blank effect.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Void Core Cannon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Void_Core_Cannon",
+				"img": {
+					"src": "assets/void-core-cannon.png",
+					"width": 44,
+					"height": 17
+				},
+				"fields": {
+					"quote": "Critical Strike",
+					"notes": "Fires bursts of four large energy balls, which home in on enemies and explode upon impact.",
+					"Quality": "B",
+					"Type": "Burst",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Bundle of Wands",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bundle_of_Wands",
+				"img": {
+					"src": "assets/bundle-of-wands.png",
+					"width": 31,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Dark Arts",
+					"notes": "Has a chance to transmogrify.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Staff of Firepower",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Staff_of_Firepower",
+				"img": {
+					"src": "assets/staff-of-firepower.png",
+					"width": 20,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Missing Link",
+					"notes": "Reloading alternates between a rapid fire pistol and a beam weapon that can set enemies on fire.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Witch Pistol",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Witch_Pistol",
+				"img": {
+					"src": "assets/witch-pistol.png",
+					"width": 22,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Spells Your Doom",
+					"notes": "Fires bullets that have a chance to transmogrify enemies.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Hexagun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Hexagun",
+				"img": {
+					"src": "assets/hexagun.png",
+					"width": 41,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Light Fantastic",
+					"notes": "Fires piercing bullets that have a chance to transmogrify enemies.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "RIFLE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Phoenix",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Phoenix",
+				"img": {
+					"src": "assets/phoenix.png",
+					"width": 13,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Reborn In Flame",
+					"notes": "Shooting creates a small cone of fire in front of the player that burns enemies.",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "FIRE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Magic Lamp",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Magic_Lamp",
+				"img": {
+					"src": "assets/magic-lamp.png",
+					"width": 19,
+					"height": 11
+				},
+				"fields": {
+					"quote": "One Wish, Three Times",
+					"notes": "Hitting an enemy three times causes a genie to punch them.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Teapot",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Teapot",
+				"img": {
+					"src": "assets/teapot.png",
+					"width": 17,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Monocular Monster",
+					"notes": "While reloading, ignites nearby enemies.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Gunslinger's Ashes",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gunslinger%27s_Ashes",
+				"img": {
+					"src": "assets/gunslinger-s-ashes.png",
+					"width": 28,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Spirit, Willing",
+					"notes": "Fires slow homing ghosts that shoot and deal contact damage.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Luxin Cannon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Luxin_Cannon",
+				"img": {
+					"src": "assets/luxin-cannon.png",
+					"width": 26,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Omnichrome",
+					"notes": "Fires laser shots at enemies. The last bullet of magazine fires a crystal, which splits into 5 small crystals on impact.",
+					"Quality": "C",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Gunther",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gunther",
+				"img": {
+					"src": "assets/gunther.png",
+					"width": 25,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Jealous Weapon",
+					"notes": "Cannot be used to reveal hidden walls. Grows stronger with each room cleared.",
+					"Quality": "S",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Unicorn Horn",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Unicorn_Horn",
+				"img": {
+					"src": "assets/unicorn-horn.png",
+					"width": 31,
+					"height": 14
+				},
+				"fields": {
+					"quote": "Fires Friendship",
+					"notes": "Fires a rainbow beam that homes in on enemies. Increases curse by 1.",
+					"Quality": "A",
+					"Type": "Beam",
+					"Class": "BEAM",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Cobalt Hammer",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Cobalt_Hammer",
+				"img": {
+					"src": "assets/cobalt-hammer.png",
+					"width": 20,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Break Stuff",
+					"notes": "Fires blue lasers. Charging the weapon makes it fire lasers in four directions.",
+					"Quality": "A",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Frost Giant",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Frost_Giant",
+				"img": {
+					"src": "assets/frost-giant.png",
+					"width": 28,
+					"height": 19
+				},
+				"fields": {
+					"quote": "Icy Grasp",
+					"notes": "Fires big bullets that have a chance to freeze.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "ICE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Bullet Bore",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bullet_Bore",
+				"img": {
+					"src": "assets/bullet-bore.png",
+					"width": 24,
+					"height": 16
+				},
+				"fields": {
+					"quote": "Mind Muncher",
+					"notes": "Fires drills that home in on enemies, stun them, and explode after a short delay.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Cat Claw",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Cat_Claw",
+				"img": {
+					"src": "assets/cat-claw.png",
+					"width": 19,
+					"height": 16
+				},
+				"fields": {
+					"quote": "Kneadle Your Foes!",
+					"notes": "Fires darts that home in on enemies and explode after a short delay. The darts deal minimal damage on contact.",
+					"Quality": "A",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Megahand",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Megahand",
+				"img": {
+					"src": "assets/megahand.png",
+					"width": 11,
+					"height": 8
+				},
+				"fields": {
+					"quote": "-P-",
+					"notes": "Has 2 levels of damage depending on how long the gun has been charged.",
+					"Quality": "B",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Demon Head",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Demon_Head",
+				"img": {
+					"src": "assets/demon-head.png",
+					"width": 15,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Wanged",
+					"notes": "Fires a continuous beam that has a chance to inflict Burn and slightly homes in on enemies.",
+					"Quality": "B",
+					"Type": "Beam",
+					"Class": "BEAM",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Heroine",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Heroine",
+				"img": {
+					"src": "assets/heroine.png",
+					"width": 17,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Charge Beam Active",
+					"notes": "Has 3 levels of damage depending on how long the gun has been charged.",
+					"Quality": "B",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Mutation",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Mutation",
+				"img": {
+					"src": "assets/mutation.png",
+					"width": 8,
+					"height": 8
+				},
+				"fields": {
+					"quote": "Didn't Need Two Anyway",
+					"notes": "Fires a continuous beam and heavily pushes back the player.",
+					"Quality": "B",
+					"Type": "Beam",
+					"Class": "BEAM",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Flame Hand",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Flame_Hand",
+				"img": {
+					"src": "assets/flame-hand.png",
+					"width": 8,
+					"height": 14
+				},
+				"fields": {
+					"quote": "2D6 + Int Mod",
+					"notes": "Fires fireballs that pierce enemies and have a chance to set enemies on fire.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "FIRE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Sunlight Javelin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Sunlight_Javelin",
+				"img": {
+					"src": "assets/sunlight-javelin.png",
+					"width": 13,
+					"height": 14
+				},
+				"fields": {
+					"quote": "Brilliant Aura",
+					"notes": "Shoots fiery javelins that make enemies take damage over time.",
+					"Quality": "B",
+					"Type": "Charged",
+					"Class": "FIRE",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Machine Fist",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Machine_Fist",
+				"img": {
+					"src": "assets/machine-fist.png",
+					"width": 12,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Avalanche Of Bullets",
+					"notes": "Reloading alternates between firing a gatling gun, and a single shot exploding rocket punch that is guided by the player's reticle. The rocket punch consumes 10 ammo upon firing.",
+					"Quality": "A",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Robot's Left Hand",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Robot%27s_Left_Hand",
+				"img": {
+					"src": "assets/robot-s-left-hand.png",
+					"width": 21,
+					"height": 9
+				},
+				"fields": {
+					"quote": "See You Later",
+					"notes": "Rapidly fires blue lasers.",
+					"Quality": "A",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "Snowballer",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Snowballer",
+				"img": {
+					"src": "assets/snowballer.png",
+					"width": 20,
+					"height": 13
+				},
+				"fields": {
+					"quote": "May Contain Rocks",
+					"notes": "Fires snowballs that have a chance to freeze enemies.",
+					"Quality": "D",
+					"Type": "Automatic",
+					"Class": "ICE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Super Meat Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Super_Meat_Gun",
+				"img": {
+					"src": "assets/super-meat-gun.png",
+					"width": 14,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Very Fast",
+					"notes": "Fires piercing, bouncing saw blades. Slightly increases movement speed.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Anvillain",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Anvillain",
+				"img": {
+					"src": "assets/anvillain.png",
+					"width": 16,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Practical And Safe",
+					"notes": "Fires piercing anvils with high knockback and a chance to stun.",
+					"Quality": "C",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Fossilized Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Fossilized_Gun",
+				"img": {
+					"src": "assets/fossilized-gun.png",
+					"width": 23,
+					"height": 15
+				},
+				"fields": {
+					"quote": "Proof That Guns Once Existed",
+					"notes": "Fires a stream of oil. Reloading spits fire, which can ignite the oil.",
+					"Quality": "D",
+					"Type": "Beam",
+					"Class": "FIRE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Gamma Ray",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gamma_Ray",
+				"img": {
+					"src": "assets/gamma-ray.png",
+					"width": 14,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Mean Green",
+					"notes": "Fires a green laser that slightly curves towards enemies and can poison.",
+					"Quality": "C",
+					"Type": "Beam",
+					"Class": "BEAM",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Freeze Ray",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Freeze_Ray",
+				"img": {
+					"src": "assets/freeze-ray.png",
+					"width": 18,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Ice To Meet You",
+					"notes": "Fires a blue laser that has a chance to freeze enemies.",
+					"Quality": "A",
+					"Type": "Beam",
+					"Class": "ICE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Science Cannon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Science_Cannon",
+				"img": {
+					"src": "assets/science-cannon.png",
+					"width": 23,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Charged Particles",
+					"notes": "Fires a large laser after a short charge-up, which inflicts random status effects on enemies.",
+					"Quality": "B",
+					"Type": "Beam",
+					"Class": "BEAM",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Disintegrator",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Disintegrator",
+				"img": {
+					"src": "assets/disintegrator.png",
+					"width": 27,
+					"height": 14
+				},
+				"fields": {
+					"quote": "Return To Dust",
+					"notes": "Fires a large laser after a long charge-up.",
+					"Quality": "S",
+					"Type": "Beam",
+					"Class": "BEAM",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Proton Backpack",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Proton_Backpack",
+				"img": {
+					"src": "assets/proton-backpack.png",
+					"width": 25,
+					"height": 8
+				},
+				"fields": {
+					"quote": "Crossing Streams",
+					"notes": "Fires a homing laser.",
+					"Quality": "B",
+					"Type": "Beam",
+					"Class": "BEAM",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Mega Douser",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Mega_Douser",
+				"img": {
+					"src": "assets/mega-douser.png",
+					"width": 19,
+					"height": 8
+				},
+				"fields": {
+					"quote": "Contents Under Pressure",
+					"notes": "Fires a stream of water.",
+					"Quality": "D",
+					"Type": "Beam",
+					"Class": "BEAM",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Plunger",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Plunger",
+				"img": {
+					"src": "assets/plunger.png",
+					"width": 23,
+					"height": 7
+				},
+				"fields": {
+					"quote": "Take Your Best Shot!",
+					"notes": "Fires a stream of poison. Has a chance to poison enemies and leaves poison puddles on impact.",
+					"Quality": "C",
+					"Type": "Beam",
+					"Class": "POISON",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Raiden Coil",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Raiden_Coil",
+				"img": {
+					"src": "assets/raiden-coil.png",
+					"width": 30,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Shoot Em' Up",
+					"notes": "Fires a laser that homes in on all on-screen enemies.",
+					"Quality": "A",
+					"Type": "Beam",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Moonscraper",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Moonscraper",
+				"img": {
+					"src": "assets/moonscraper.png",
+					"width": 16,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Beeeeoooowwww!",
+					"notes": "Fires a beam that reflects off of solid objects once.",
+					"Quality": "C",
+					"Type": "Beam",
+					"Class": "BEAM",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Barrel",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Barrel",
+				"img": {
+					"src": "assets/barrel.png",
+					"width": 14,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Nothin' Easier",
+					"notes": "Fires a fish that has a chance to stun and leaves a pool of water on impact.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Trick Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Trick_Gun",
+				"img": {
+					"src": "assets/trick-gun.png",
+					"width": 15,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Reload To Transform",
+					"notes": "Reloading transforms the gun between a pistol and a shotgun.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Mailbox",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Mailbox",
+				"img": {
+					"src": "assets/mailbox.png",
+					"width": 14,
+					"height": 14
+				},
+				"fields": {
+					"quote": "Special Delivery",
+					"notes": "Fires mail at enemies. The last bullet of each magazine is a package, which can explode, leave confetti, burn, or poison.",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Nail Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Nail_Gun",
+				"img": {
+					"src": "assets/nail-gun.png",
+					"width": 8,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Pest Control",
+					"notes": "Fires a rapid stream of low damage nails. Fires faster if fire button is tapped rather than held.",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Light Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Light_Gun",
+				"img": {
+					"src": "assets/light-gun.png",
+					"width": 15,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Third-Party",
+					"notes": "Fires zaps of light at enemies. The last bullet in the magazine is a duck, which will automatically seek out the nearest enemy and attack them.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Dueling Laser",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Dueling_Laser",
+				"img": {
+					"src": "assets/dueling-laser.png",
+					"width": 21,
+					"height": 13
+				},
+				"fields": {
+					"quote": "More interesting this way!",
+					"notes": "Fires a large, piercing, high-damage laser. Needs to recharge after each shot.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "Wood Beam",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Wood_Beam",
+				"img": {
+					"src": "assets/wood-beam.png",
+					"width": 21,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Speak Softly",
+					"notes": "Melee weapon that extends itself to hit enemies. Increases curse by 1.",
+					"Quality": "B",
+					"Type": "Beam",
+					"Class": "SHITTY",
+					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+				}
+			}
+		},
+		{
+			"name": "Mahoguny",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Mahoguny",
+				"img": {
+					"src": "assets/mahoguny.png",
+					"width": 26,
+					"height": 14
+				},
+				"fields": {
+					"quote": "100% Organic",
+					"notes": "Fires bouncing explosive wood bullets and several leaves.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "The Scrambler",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/The_Scrambler",
+				"img": {
+					"src": "assets/the-scrambler.png",
+					"width": 15,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Bullet Or The Gun?",
+					"notes": "Fires bullets that hatch into many homing bullets upon hitting an enemy or obstacle.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Trashcannon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Trashcannon",
+				"img": {
+					"src": "assets/trashcannon.png",
+					"width": 31,
+					"height": 16
+				},
+				"fields": {
+					"quote": "Take It Out!",
+					"notes": "Fires a trash bag that explodes into poison projectiles that leave trails of poison goop.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "POISON",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Glacier",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Glacier",
+				"img": {
+					"src": "assets/glacier.png",
+					"width": 19,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Refill Your Trays",
+					"notes": "Fires bouncing ice cubes that explode and freeze enemies.",
+					"Quality": "A",
+					"Type": "Automatic",
+					"Class": "ICE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Origuni",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Origuni",
+				"img": {
+					"src": "assets/origuni.png",
+					"width": 19,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Thousand Cuts",
+					"notes": "Fires paper planes that follow the player's crosshair.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "The Kiln",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/The_Kiln",
+				"img": {
+					"src": "assets/the-kiln.png",
+					"width": 23,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Fires Pots",
+					"notes": "Fires pots that break into 3 bouncing crystals upon hitting something.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Skull Spitter",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Skull_Spitter",
+				"img": {
+					"src": "assets/skull-spitter.png",
+					"width": 23,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Hard Headed",
+					"notes": "Fires homing skulls.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Buzzkill",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Buzzkill",
+				"img": {
+					"src": "assets/buzzkill.png",
+					"width": 18,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Sawed On!",
+					"notes": "Fires piercing, bouncing sawblades.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Tear Jerker",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Tear_Jerker",
+				"img": {
+					"src": "assets/tear-jerker.png",
+					"width": 10,
+					"height": 6
+				},
+				"fields": {
+					"quote": "Q_Q",
+					"notes": "Fires tears that leave behind puddles of water.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Starpew",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Starpew",
+				"img": {
+					"src": "assets/starpew.png",
+					"width": 18,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Reap And Sow",
+					"notes": "Fires water droplets. Can be charged to increase the number of droplets fired.",
+					"Quality": "A",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "Eye of the Beholster",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Eye_of_the_Beholster",
+				"img": {
+					"src": "assets/eye-of-the-beholster.png",
+					"width": 22,
+					"height": 16
+				},
+				"fields": {
+					"quote": "What A Beauty!",
+					"notes": "The last shot of each clip spawns a friendly Beadie.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Molotov Launcher",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Molotov_Launcher",
+				"img": {
+					"src": "assets/molotov-launcher.png",
+					"width": 35,
+					"height": 9
+				},
+				"fields": {
+					"quote": "Exactly What You Think",
+					"notes": "Fires molotovs that create fire puddles on impact.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "FIRE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Glass Cannon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Glass_Cannon",
+				"img": {
+					"src": "assets/glass-cannon.png",
+					"width": 24,
+					"height": 15
+				},
+				"fields": {
+					"quote": "Fragile, Fatal",
+					"notes": "Fires a powerful beam. Loses all ammo upon taking damage.",
+					"Quality": "C",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Shock Rifle",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Shock_Rifle",
+				"img": {
+					"src": "assets/shock-rifle.png",
+					"width": 24,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Zap",
+					"notes": "Fires a zap of electricity.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "RIFLE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Bait Launcher",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bait_Launcher",
+				"img": {
+					"src": "assets/bait-launcher.png",
+					"width": 25,
+					"height": 15
+				},
+				"fields": {
+					"quote": "Meat Your Maker",
+					"notes": "Fires a steak that causes a tiger to appear and maul the target.",
+					"Quality": "C",
+					"Type": "Charged",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Brick Breaker",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Brick_Breaker",
+				"img": {
+					"src": "assets/brick-breaker.png",
+					"width": 28,
+					"height": 16
+				},
+				"fields": {
+					"quote": "Wrong Kind Of Mortar",
+					"notes": "Fires piercing turtle shells that bounce off of walls.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Betrayer's Shield",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Betrayer%27s_Shield",
+				"img": {
+					"src": "assets/betrayer-s-shield.png",
+					"width": 19,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Actually A Gun",
+					"notes": "Upon reloading, leaves a protective shield on the ground. Players in that area will be protected until the shield has absorbed a number of bullets.",
+					"Quality": "B",
+					"Type": "Automatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Lower Case r",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Lower_Case_r",
+				"img": {
+					"src": "assets/lower-case-r.png",
+					"width": 13,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Alphabetical!",
+					"notes": "Fires a burst of 6 bullets that spell out the word bullet.",
+					"Quality": "D",
+					"Type": "Burst",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Excaliber",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Excaliber",
+				"img": {
+					"src": "assets/excaliber.png",
+					"width": 39,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Once And Future",
+					"notes": "Fires a burst of three piercing sword projectiles. Reloading swings the sword, destroying nearby bullets and damaging nearby enemies. Increases curse by 2.5.",
+					"Quality": "B",
+					"Type": "Burst",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Face Melter",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Face_Melter",
+				"img": {
+					"src": "assets/face-melter.png",
+					"width": 32,
+					"height": 14
+				},
+				"fields": {
+					"quote": "Squiddley-squiddley-wheeyooo!",
+					"notes": "Simultaneously fires music notes in four directions. Places an amplifier on the ground at the player's position upon reloading. Whenever the Face Melter is fired, the amplifier will fire music notes in the same pattern. Reloading again will remove the amplifier and place a new one.",
+					"Quality": "B",
+					"Type": "Automatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Really Special Lute",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Really_Special_Lute",
+				"img": {
+					"src": "assets/really-special-lute.png",
+					"width": 18,
+					"height": 19
+				},
+				"fields": {
+					"quote": "Purple Prose",
+					"notes": "Fires in a very wide spread. Buffs the player's companions. Chance to Charm enemies.",
+					"Quality": "C",
+					"Type": "Automatic",
+					"Class": "SILLY",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Trident",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Trident",
+				"img": {
+					"src": "assets/trident.png",
+					"width": 33,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Under The Sea",
+					"notes": "Fires a long-range laser that pierces one enemy. Destroys nearby bullets and pushes enemies away while reloading.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Kruller Glaive",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Kruller_Glaive",
+				"img": {
+					"src": "assets/kruller-glaive.png",
+					"width": 13,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Studied the Blade",
+					"notes": "Throws a boomerang-like projectile that homes in on multiple enemies, damaging and sometimes stunning them.",
+					"Quality": "B",
+					"Type": "Charged",
+					"Class": "NONE",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Abyssal Tentacle",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Abyssal_Tentacle",
+				"img": {
+					"src": "assets/abyssal-tentacle.png",
+					"width": 22,
+					"height": 15
+				},
+				"fields": {
+					"quote": "Look Away",
+					"notes": "Fires a tentacle that homes in on and grips enemies, damaging them.",
+					"Quality": "A",
+					"Type": "Beam",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Quad Laser",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Quad_Laser",
+				"img": {
+					"src": "assets/quad-laser.png",
+					"width": 18,
+					"height": 10
+				},
+				"fields": {
+					"quote": "No One Can Defeat It",
+					"notes": "Fires a large, square, extremely slow bullet.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Tetrominator",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Tetrominator",
+				"img": {
+					"src": "assets/tetrominator.png",
+					"width": 30,
+					"height": 15
+				},
+				"fields": {
+					"quote": "LINE PIECE!",
+					"notes": "Fires random tetrominoes that stick to enemies. Line pieces explode, dealing more damage the more tetrominoes are stuck to an enemy.",
+					"Quality": "B",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Pitchfork",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Pitchfork",
+				"img": {
+					"src": "assets/pitchfork.png",
+					"width": 7,
+					"height": 17
+				},
+				"fields": {
+					"quote": "Get Forked!",
+					"notes": "Fires piercing fireballs that burn.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "FIRE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Evolver",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Evolver",
+				"img": {
+					"src": "assets/evolver.png",
+					"width": 20,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Tamagunchi",
+					"notes": "Killing enemies evolves the gun through 6 forms.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Gungeon Ant",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gungeon_Ant",
+				"img": {
+					"src": "assets/gungeon-ant.png",
+					"width": 27,
+					"height": 11
+				},
+				"fields": {
+					"quote": "What Army?",
+					"notes": "In oil mode, creates oil puddles on impact. In fire mode, fires fireballs that pierce and burn. Reloading switches modes.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "FIRE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Life Orb",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Life_Orb",
+				"img": {
+					"src": "assets/life-orb.png",
+					"width": 12,
+					"height": 12
+				},
+				"fields": {
+					"quote": "Your Soul is Mine",
+					"notes": "After killing an enemy, reloading damages all enemies in the room.",
+					"Quality": "A",
+					"Type": "Beam",
+					"Class": "BEAM",
+					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+				}
+			}
+		},
+		{
+			"name": "Alien Engine",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Alien_Engine",
+				"img": {
+					"src": "assets/alien-engine.png",
+					"width": 23,
+					"height": 15
+				},
+				"fields": {
+					"quote": "The Dangerzone",
+					"notes": "Rapid fire weapon that has a very short range, only damaging enemies that come into contact with the muzzle flash. Enemies damaged have a chance to catch on fire. Extremely high recoil.",
+					"Quality": "B",
+					"Type": "Automatic",
+					"Class": "FIRE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Microtransaction Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Microtransaction_Gun",
+				"img": {
+					"src": "assets/microtransaction-gun.png",
+					"width": 20,
+					"height": 19
+				},
+				"fields": {
+					"quote": "Pay To Win",
+					"notes": "Shoots various figurines, books, and gems at the cost of 1 coin per shot.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Poxcannon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Poxcannon",
+				"img": {
+					"src": "assets/poxcannon.png",
+					"width": 28,
+					"height": 13
+				},
+				"fields": {
+					"quote": "Lousy T-Shirt",
+					"notes": "Shoots poisonous t-shirts with high knockback. Poisoned enemies create a poison puddle on death.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "T-Shirt Cannon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/T-Shirt_Cannon",
+				"img": {
+					"src": "assets/t-shirt-cannon.png",
+					"width": 22,
+					"height": 8
+				},
+				"fields": {
+					"quote": "Machine Gun Wash Only!",
+					"notes": "Fires t-shirts that have high knockback.",
+					"Quality": "D",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Banana",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Banana",
+				"img": {
+					"src": "assets/banana.png",
+					"width": 7,
+					"height": 14
+				},
+				"fields": {
+					"quote": "Planpain",
+					"notes": "Fires an explosive banana that sends out three more bouncing explosive bananas.",
+					"Quality": "C",
+					"Type": "Charged",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Bee Hive",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bee_Hive",
+				"img": {
+					"src": "assets/bee-hive.png",
+					"width": 11,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Bzzzzzzz!",
+					"notes": "Fires bees that home in on and damage enemies.",
+					"Quality": "B",
+					"Type": "Automatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Silencer",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Silencer",
+				"img": {
+					"src": "assets/silencer.png",
+					"width": 24,
+					"height": 24
+				},
+				"fields": {
+					"quote": "300 Dead Count",
+					"notes": "Fires zippers. Hitting an enemy with the swing of the weapon will stun the enemy.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Camera",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Camera",
+				"img": {
+					"src": "assets/camera.png",
+					"width": 14,
+					"height": 20
+				},
+				"fields": {
+					"quote": "Say Cheese",
+					"notes": "Damages all enemies in the room, with a chance to stun.",
+					"Quality": "C",
+					"Type": "Charged",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Directional Pad",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Directional_Pad",
+				"img": {
+					"src": "assets/directional-pad.png",
+					"width": 17,
+					"height": 18
+				},
+				"fields": {
+					"quote": "Input Output",
+					"notes": "Fires bullets in four directions. Combos can be entered to fire fireballs or a grappling hook. After running out of ammo, it is destroyed but spawns a chest.",
+					"Quality": "B",
+					"Type": "Burst",
+					"Class": "PISTOL",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "3rd Party Controller",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/3rd_Party_Controller",
+				"img": {
+					"src": "assets/3rd-party-controller.png",
+					"width": 14,
+					"height": 6
+				},
+				"fields": {
+					"quote": "Assuming Direct Control",
+					"notes": "Upon hitting an enemy, they will move in the same direction the player moves, and shoot towards the crosshair if the player shoots.",
+					"Quality": "A",
+					"Type": "Semiautomatic",
+					"Class": "CHARM",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		},
+		{
+			"name": "Gunzheng",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gunzheng",
+				"img": {
+					"src": "assets/gunzheng.png",
+					"width": 21,
+					"height": 22
+				},
+				"fields": {
+					"quote": "Hustle",
+					"notes": "Rapidly fires inaccurate, piercing, homing arrows.",
+					"Quality": "B",
+					"Type": "Automatic",
+					"Class": "FULLAUTO",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Sling",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Sling",
+				"img": {
+					"src": "assets/sling.png",
+					"width": 5,
+					"height": 10
+				},
+				"fields": {
+					"quote": "Outrageous!",
+					"notes": "Fires bouncing rocks. Deals 2.5x damage to bosses and 2x damage after bouncing.",
+					"Quality": "D",
+					"Type": "Charged",
+					"Class": "CHARGE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Cactus",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Cactus",
+				"img": {
+					"src": "assets/cactus.png",
+					"width": 25,
+					"height": 11
+				},
+				"fields": {
+					"quote": "1000 Needles!",
+					"notes": "Fires needles.",
+					"Quality": "C",
+					"Type": "Automatic",
+					"Class": "SHITTY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Black Hole Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Black_Hole_Gun",
+				"img": {
+					"src": "assets/black-hole-gun.png",
+					"width": 33,
+					"height": 16
+				},
+				"fields": {
+					"quote": "Won't You Come",
+					"notes": "Fires black holes that attract enemies and enemy bullets.",
+					"Quality": "A",
+					"Type": "Charged",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "BSG",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/BSG",
+				"img": {
+					"src": "assets/bsg.png",
+					"width": 25,
+					"height": 14
+				},
+				"fields": {
+					"quote": "Big Shooty Gun",
+					"notes": "Slowly charges up to fire a large high-damage projectile.",
+					"Quality": "S",
+					"Type": "Charged",
+					"Class": "EXPLOSIVE",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Compressed Air Tank",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Compressed_Air_Tank",
+				"img": {
+					"src": "assets/compressed-air-tank.png",
+					"width": 30,
+					"height": 10
+				},
+				"fields": {
+					"quote": "You Know My Work",
+					"notes": "Fires sharks that swim around the room, seeking enemies and biting them.",
+					"Quality": "A",
+					"Type": "Charged",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Serious Cannon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Serious_Cannon",
+				"img": {
+					"src": "assets/serious-cannon.png",
+					"width": 25,
+					"height": 11
+				},
+				"fields": {
+					"quote": "Seriously MENTAL",
+					"notes": "Fires large bouncing cannonballs.",
+					"Quality": "A",
+					"Type": "Charged",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Makeshift Cannon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Makeshift_Cannon",
+				"img": {
+					"src": "assets/makeshift-cannon.png",
+					"width": 26,
+					"height": 11
+				},
+				"fields": {
+					"quote": "You Only Get One Shot",
+					"notes": "Fires a single blast that deals a large amount of damage.",
+					"Quality": "S",
+					"Type": "Charged",
+					"Class": "SILLY",
+					"Introduced in": "v1.0: Release"
+				}
+			}
+		},
+		{
+			"name": "Devolver",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Devolver",
+				"img": {
+					"src": "assets/devolver.png",
+					"width": 21,
+					"height": 15
+				},
+				"fields": {
+					"quote": "Degenerates",
+					"notes": "Has a chance to devolve enemies into simpler enemies.",
+					"Quality": "C",
+					"Type": "Semiautomatic",
+					"Class": "SILLY",
+					"Introduced in": "v1.1: Supply Drop Update"
+				}
+			}
+		},
+		{
+			"name": "Finished Gun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Finished_Gun",
+				"img": {
+					"src": "assets/finished-gun.png",
+					"width": 23,
+					"height": 14
+				},
+				"fields": {
+					"quote": "Thanks For Playing",
+					"notes": "Replaces Unfinished Gun once the Ammonomicon is complete.",
+					"Quality": [
+						"D",
+						"S"
+					],
+					"Type": "Semiautomatic",
+					"Class": "PISTOL",
+					"Introduced in": "v2.1: A Farewell to Arms Update"
+				}
+			}
+		}
+	],
+	"attrs": [
+		{
+			"pointer": "/props/fields/Quality"
+		},
+		{
+			"pointer": "/props/fields/Introduced in"
+		},
+		{
+			"pointer": "/props/fields/Type"
+		},
+		{
+			"pointer": "/props/fields/Class"
+		}
+	]
+}

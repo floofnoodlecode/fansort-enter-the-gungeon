@@ -1,0 +1,1474 @@
+{
+	"items": [
+		{
+			"name": "Bullet Kin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bullet_Kin",
+				"img": {
+					"src": "assets/bullet-kin.png",
+					"width": 12,
+					"height": 23
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, firing bullets."
+				}
+			}
+		},
+		{
+			"name": "Bandana Bullet Kin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bandana_Bullet_Kin",
+				"img": {
+					"src": "assets/bandana-bullet-kin.png",
+					"width": 14,
+					"height": 23
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, rapidly firing bullets."
+				}
+			}
+		},
+		{
+			"name": "Veteran Bullet Kin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Veteran_Bullet_Kin",
+				"img": {
+					"src": "assets/veteran-bullet-kin.png",
+					"width": 12,
+					"height": 23
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, attempting to fire bullets at where the player will be."
+				}
+			}
+		},
+		{
+			"name": "Tanker",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Tanker",
+				"img": {
+					"src": "assets/tanker.png",
+					"width": 16,
+					"height": 23
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, rapidly firing bullets."
+				}
+			}
+		},
+		{
+			"name": "Minelet",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Minelet",
+				"img": {
+					"src": "assets/minelet.png",
+					"width": 14,
+					"height": 21
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, firing bullets. Occasionally hides under its hard hat, temporarily deflecting bullets, then pops out and releases bullets in all directions."
+				}
+			}
+		},
+		{
+			"name": "Cardinal",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Cardinal",
+				"img": {
+					"src": "assets/cardinal.png",
+					"width": 16,
+					"height": 28
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, firing bullets. Occasionally fires a cluster of 5 bullets that homes in on the player."
+				}
+			}
+		},
+		{
+			"name": "Shroomer",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Shroomer",
+				"img": {
+					"src": "assets/shroomer.png",
+					"width": 22,
+					"height": 22
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, firing two bullets in a V shape."
+				}
+			}
+		},
+		{
+			"name": "Ashen Bullet Kin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Ashen_Bullet_Kin",
+				"img": {
+					"src": "assets/ashen-bullet-kin.png",
+					"width": 12,
+					"height": 23
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, firing fast-moving bullets. Can sometimes spawn from statues in certain rooms."
+				}
+			}
+		},
+		{
+			"name": "Mutant Bullet Kin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Mutant_Bullet_Kin",
+				"img": {
+					"src": "assets/mutant-bullet-kin.png",
+					"width": 15,
+					"height": 23
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, firing bullets. Occasionally spits out a small cone of poison creep."
+				}
+			}
+		},
+		{
+			"name": "Fallen Bullet Kin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Fallen_Bullet_Kin",
+				"img": {
+					"src": "assets/fallen-bullet-kin.png",
+					"width": 14,
+					"height": 23
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, firing spreads of three fast-moving bullets. Leaves behind fire upon death."
+				}
+			}
+		},
+		{
+			"name": "Chance Kin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Chance_Kin",
+				"img": {
+					"src": "assets/chance-kin.png",
+					"width": 14,
+					"height": 25
+				},
+				"fields": {
+					"description": "Runs away from the player and disappears if not killed. Turns into a cube which drops a random pickup upon death."
+				}
+			}
+		},
+		{
+			"name": "Keybullet Kin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Keybullet_Kin",
+				"img": {
+					"src": "assets/keybullet-kin.png",
+					"width": 12,
+					"height": 32
+				},
+				"fields": {
+					"description": "Runs away from the player and disappears if not killed. Drops a key upon death."
+				}
+			}
+		},
+		{
+			"name": "Confirmed",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Confirmed",
+				"img": {
+					"src": "assets/confirmed.png",
+					"width": 16,
+					"height": 27
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, periodically firing four slithering lines of bullets."
+				}
+			}
+		},
+		{
+			"name": "Red Shotgun Kin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Red_Shotgun_Kin",
+				"img": {
+					"src": "assets/red-shotgun-kin.png",
+					"width": 12,
+					"height": 29
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, occasionally firing a tight spread of 5 bullets. Has a chance to fire 6 bullets in all directions upon death."
+				}
+			}
+		},
+		{
+			"name": "Blue Shotgun Kin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Blue_Shotgun_Kin",
+				"img": {
+					"src": "assets/blue-shotgun-kin.png",
+					"width": 12,
+					"height": 29
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, occasionally firing a wide spread of 5 bullets quickly followed by a wide spread of 4 bullets. Has a chance to fire 6 bullets in all directions upon death."
+				}
+			}
+		},
+		{
+			"name": "Veteran Shotgun Kin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Veteran_Shotgun_Kin",
+				"img": {
+					"src": "assets/veteran-shotgun-kin.png",
+					"width": 12,
+					"height": 26
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, occasionally firing a V-shaped spread of 5 fast-moving bullets and predicting the player's movements. Fires many bullets in all directions upon death that travel at varying speeds."
+				}
+			}
+		},
+		{
+			"name": "Mutant Shotgun Kin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Mutant_Shotgun_Kin",
+				"img": {
+					"src": "assets/mutant-shotgun-kin.png",
+					"width": 15,
+					"height": 27
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, firing tight spreads of 5 fast-moving bullets. Always fires 6 bullets in all directions upon death."
+				}
+			}
+		},
+		{
+			"name": "Executioner",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Executioner",
+				"img": {
+					"src": "assets/executioner.png",
+					"width": 17,
+					"height": 33
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, firing chaotic spreads of bullets. Occasionally stops to fire 3 bullet chains towards the player, attaching them to walls. These chains disappear shortly afterwards.\nSometimes fires a bullet chain upon death, accompanied by a burst of 6 bullets in all directions."
+				}
+			}
+		},
+		{
+			"name": "Ashen Shotgun Kin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Ashen_Shotgun_Kin",
+				"img": {
+					"src": "assets/ashen-shotgun-kin.png",
+					"width": 12,
+					"height": 29
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, firing 3 tight spreads of 5 fast-moving bullets. Can sometimes spawn from statues in certain rooms."
+				}
+			}
+		},
+		{
+			"name": "Shotgrub",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Shotgrub_(Enemy)",
+				"img": {
+					"src": "assets/shotgrub.png",
+					"width": 15,
+					"height": 29
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, firing spreads of bullets which release more waving bullets upon hitting an obstacle."
+				}
+			}
+		},
+		{
+			"name": "Sniper Shell",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Sniper_Shell",
+				"img": {
+					"src": "assets/sniper-shell.png",
+					"width": 12,
+					"height": 35
+				},
+				"fields": {
+					"description": "Periodically aims at the player with a red laser, then fires a single high-speed bullet."
+				}
+			}
+		},
+		{
+			"name": "Professional",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Professional",
+				"img": {
+					"src": "assets/professional.png",
+					"width": 16,
+					"height": 35
+				},
+				"fields": {
+					"description": "Periodically aims at the player with a green laser, then fires a single high-speed bullet that explodes into bullets in all directions upon impact."
+				}
+			}
+		},
+		{
+			"name": "Gummy",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gummy",
+				"img": {
+					"src": "assets/gummy.png",
+					"width": 12,
+					"height": 23
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, rapidly firing bullets. Occasionally pauses to summon a large jammed Spent that periodically shoots a spread of bullets in all directions."
+				}
+			}
+		},
+		{
+			"name": "Skullet",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Skullet",
+				"img": {
+					"src": "assets/skullet.png",
+					"width": 12,
+					"height": 23
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, occasionally firing two spreads of triangular bullets."
+				}
+			}
+		},
+		{
+			"name": "Skullmet",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Skullmet",
+				"img": {
+					"src": "assets/skullmet.png",
+					"width": 15,
+					"height": 24
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, occasionally firing two spreads of triangular bullets."
+				}
+			}
+		},
+		{
+			"name": "Spent",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Spent",
+				"img": {
+					"src": "assets/spent.png",
+					"width": 12,
+					"height": 18
+				},
+				"fields": {
+					"description": "Walks towards the player and attempts to deal contact damage."
+				}
+			}
+		},
+		{
+			"name": "Creech",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Creech",
+				"img": {
+					"src": "assets/creech.png",
+					"width": 18,
+					"height": 29
+				},
+				"fields": {
+					"description": "Walks towards the player, periodically releasing very fast bouncing bullets in all directions."
+				}
+			}
+		},
+		{
+			"name": "Hollowpoint",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Hollowpoint",
+				"img": {
+					"src": "assets/hollowpoint.png",
+					"width": 12,
+					"height": 23
+				},
+				"fields": {
+					"description": "Floats towards the player, rapidly firing bullets. Periodically disappears and reappears elsewhere in the room."
+				}
+			}
+		},
+		{
+			"name": "Bombshee",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bombshee",
+				"img": {
+					"src": "assets/bombshee.png",
+					"width": 18,
+					"height": 27
+				},
+				"fields": {
+					"description": "Follows other enemies around, frequently emitting a short-ranged shriek that destroys the player's bullets. If all the other enemies die, the Bombshee will launch itself at the player, exploding on contact."
+				}
+			}
+		},
+		{
+			"name": "Rubber Kin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Rubber_Kin",
+				"img": {
+					"src": "assets/rubber-kin.png",
+					"width": 12,
+					"height": 19
+				},
+				"fields": {
+					"description": "Attempts to launch itself towards the player, knocking the player back upon contact. Cannot deal direct damage to players, but does predict players’ movements."
+				}
+			}
+		},
+		{
+			"name": "Tazie",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Tazie",
+				"img": {
+					"src": "assets/tazie.png",
+					"width": 12,
+					"height": 18
+				},
+				"fields": {
+					"description": "Launches itself towards the predicted location of the player, dealing damage upon contact."
+				}
+			}
+		},
+		{
+			"name": "King Bullat",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/King_Bullat",
+				"img": {
+					"src": "assets/king-bullat.png",
+					"width": 50,
+					"height": 23
+				},
+				"fields": {
+					"description": "Periodically fires bouncing bullets in all directions. Spawns 3-4 Bullats and Shotgats upon death."
+				}
+			}
+		},
+		{
+			"name": "Pinhead",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Pinhead",
+				"img": {
+					"src": "assets/pinhead.png",
+					"width": 16,
+					"height": 22
+				},
+				"fields": {
+					"description": "Walks towards the player and explodes upon death. If the player gets too close, it will leap towards the player and explode."
+				}
+			}
+		},
+		{
+			"name": "Nitra",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Nitra",
+				"img": {
+					"src": "assets/nitra.png",
+					"width": 12,
+					"height": 32
+				},
+				"fields": {
+					"description": "Walks towards the player and creates a line of explosions upon death, away from the player. If the player gets too close, it will detonate itself and the line of explosions will try to aim towards the player."
+				}
+			}
+		},
+		{
+			"name": "Arrowkin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Arrowkin",
+				"img": {
+					"src": "assets/arrowkin.png",
+					"width": 15,
+					"height": 22
+				},
+				"fields": {
+					"description": "Walks towards the player then stops at a distance. Charges and fires arrows towards the player."
+				}
+			}
+		},
+		{
+			"name": "Blobulin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Blobulin",
+				"img": {
+					"src": "assets/blobulin.png",
+					"width": 9,
+					"height": 8
+				},
+				"fields": {
+					"description": "Quickly moves towards the player and attempts to deal contact damage."
+				}
+			}
+		},
+		{
+			"name": "Blobuloid",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Blobuloid",
+				"img": {
+					"src": "assets/blobuloid.png",
+					"width": 15,
+					"height": 14
+				},
+				"fields": {
+					"description": "Moves towards the player and attempts to deal contact damage. Splits into two Blobulins upon death."
+				}
+			}
+		},
+		{
+			"name": "Blobulon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Blobulon",
+				"img": {
+					"src": "assets/blobulon.png",
+					"width": 19,
+					"height": 20
+				},
+				"fields": {
+					"description": "Moves towards the player and attempts to deal contact damage. Splits into two Blobuloids upon death."
+				}
+			}
+		},
+		{
+			"name": "Poisbulin",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Poisbulin",
+				"img": {
+					"src": "assets/poisbulin.png",
+					"width": 12,
+					"height": 7
+				},
+				"fields": {
+					"description": "Quickly moves towards the player, leaving a trail of poison creep."
+				}
+			}
+		},
+		{
+			"name": "Poisbuloid",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Poisbuloid",
+				"img": {
+					"src": "assets/poisbuloid.png",
+					"width": 20,
+					"height": 12
+				},
+				"fields": {
+					"description": "Moves towards the player, leaving a trail of poison creep. Splits into two Poisbulins upon death."
+				}
+			}
+		},
+		{
+			"name": "Poisbulon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Poisbulon",
+				"img": {
+					"src": "assets/poisbulon.png",
+					"width": 19,
+					"height": 20
+				},
+				"fields": {
+					"description": "Moves towards the player, leaving a trail of poison creep. Turns into one Poisbuloid upon death."
+				}
+			}
+		},
+		{
+			"name": "Blizzbulon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Blizzbulon",
+				"img": {
+					"src": "assets/blizzbulon.png",
+					"width": 19,
+					"height": 20
+				},
+				"fields": {
+					"description": "Fires triangular bullets in all directions, followed by 2 spreads of 3 triangular bullets towards the player."
+				}
+			}
+		},
+		{
+			"name": "Leadbulon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Leadbulon",
+				"img": {
+					"src": "assets/leadbulon.png",
+					"width": 17,
+					"height": 14
+				},
+				"fields": {
+					"description": "Moves towards the player and attempts to deal contact damage. Becomes enraged after taking enough damage, moving faster and leaving a trail of fire. Once enraged, will slowly shrink and lose health."
+				}
+			}
+		},
+		{
+			"name": "Poopulon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Poopulon",
+				"img": {
+					"src": "assets/poopulon.png",
+					"width": 19,
+					"height": 18
+				},
+				"fields": {
+					"description": "Occasionally spins, releasing a large amount of spiraling bullets in all directions."
+				}
+			}
+		},
+		{
+			"name": "Bloodbulon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bloodbulon",
+				"img": {
+					"src": "assets/bloodbulon.png",
+					"width": 19,
+					"height": 20
+				},
+				"fields": {
+					"description": "Moves towards the player and attempts to deal contact damage. Becomes larger and slower as it takes damage. Releases many bullets in all directions upon death."
+				}
+			}
+		},
+		{
+			"name": "Skusket",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Skusket",
+				"img": {
+					"src": "assets/skusket.png",
+					"width": 15,
+					"height": 18
+				},
+				"fields": {
+					"description": "Has two lines of bullets orbiting it. Slowly floats towards the player, firing skulls that home in on the player and split into 6 bullets upon being destroyed."
+				}
+			}
+		},
+		{
+			"name": "Bookllet",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bookllet",
+				"img": {
+					"src": "assets/bookllet.png",
+					"width": 13,
+					"height": 14
+				},
+				"fields": {
+					"description": "Occasionally fires bullets towards the player in various patterns, such as R, N, and Φ shapes."
+				}
+			}
+		},
+		{
+			"name": "Blue Bookllet",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Blue_Bookllet",
+				"img": {
+					"src": "assets/blue-bookllet.png",
+					"width": 13,
+					"height": 14
+				},
+				"fields": {
+					"description": "Occasionally fires bullets towards the player in various patterns, such as R, N, and Φ shapes or rings of bullets that pulse back and forth."
+				}
+			}
+		},
+		{
+			"name": "Green Bookllet",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Green_Bookllet",
+				"img": {
+					"src": "assets/green-bookllet.png",
+					"width": 13,
+					"height": 14
+				},
+				"fields": {
+					"description": "Occasionally fires bullets towards the player in various patterns, such as R, N, and Φ shapes or a large clover shape."
+				}
+			}
+		},
+		{
+			"name": "Gigi",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gigi",
+				"img": {
+					"src": "assets/gigi.png",
+					"width": 23,
+					"height": 20
+				},
+				"fields": {
+					"description": "Flies towards the player, periodically spitting an egg that releases a swarm of squirming bullets towards the player."
+				}
+			}
+		},
+		{
+			"name": "Muzzle Wisp",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Muzzle_Wisp",
+				"img": {
+					"src": "assets/muzzle-wisp.png",
+					"width": 28,
+					"height": 27
+				},
+				"fields": {
+					"description": "Dashes three times in random directions, then releases a ring of flaming bullets. Leaves behind a patch of fire upon death. Sets the player on fire upon contact."
+				}
+			}
+		},
+		{
+			"name": "Muzzle Flare",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Muzzle_Flare",
+				"img": {
+					"src": "assets/muzzle-flare.png",
+					"width": 28,
+					"height": 26
+				},
+				"fields": {
+					"description": "Dashes three times in random directions, firing three bullets towards the player with each dash, then releases a ring of flaming bullets. Leaves behind a patch of fire upon death. Sets the player on fire upon contact."
+				}
+			}
+		},
+		{
+			"name": "Cubulon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Cubulon",
+				"img": {
+					"src": "assets/cubulon.png",
+					"width": 22,
+					"height": 20
+				},
+				"fields": {
+					"description": "Frequently fires bullets in all directions in a diamond shape."
+				}
+			}
+		},
+		{
+			"name": "Chancebulon",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Chancebulon",
+				"img": {
+					"src": "assets/chancebulon.png",
+					"width": 27,
+					"height": 27
+				},
+				"fields": {
+					"description": "Fires random attacks from other Blobulon enemies, along with groups of bullets that look like dice. Has a chance to fire multiple attacks at the same time, and has a chance to die instead of attacking."
+				}
+			}
+		},
+		{
+			"name": "Cubulead",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Cubulead",
+				"img": {
+					"src": "assets/cubulead.png",
+					"width": 22,
+					"height": 20
+				},
+				"fields": {
+					"description": "Fires bullets in all directions in a diamond shape, then pulls its bullets back towards itself."
+				}
+			}
+		},
+		{
+			"name": "Apprentice Gunjurer",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Apprentice_Gunjurer",
+				"img": {
+					"src": "assets/apprentice-gunjurer.png",
+					"width": 20,
+					"height": 19
+				},
+				"fields": {
+					"description": "Fires bullets in a variety of rotating shapes, such as a square, circle, triangle, or X that predict the player's movements. Occasionally disappears and reappears elsewhere in the room."
+				}
+			}
+		},
+		{
+			"name": "Gunjurer",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gunjurer",
+				"img": {
+					"src": "assets/gunjurer.png",
+					"width": 15,
+					"height": 19
+				},
+				"fields": {
+					"description": "Summons 6 bullets, during which time any bullets fired at it will be absorbed. The 6 bullets along with any absorbed bullets are then fired at the player. Occasionally disappears and reappears elsewhere in the room."
+				}
+			}
+		},
+		{
+			"name": "High Gunjurer",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/High_Gunjurer",
+				"img": {
+					"src": "assets/high-gunjurer.png",
+					"width": 16,
+					"height": 18
+				},
+				"fields": {
+					"description": "Fires large rings of bullets at the player. Occasionally disappears and reappears elsewhere in the room."
+				}
+			}
+		},
+		{
+			"name": "Lore Gunjurer",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Lore_Gunjurer",
+				"img": {
+					"src": "assets/lore-gunjurer.png",
+					"width": 23,
+					"height": 23
+				},
+				"fields": {
+					"description": "Summons one of 3 bullet familiars, each with distinct behaviors.\nWarrior: The bullet will home in on the player until it vanishes.\nRogue: The bullet will home in on the player and then teleport behind them in an attempt to catch them off-guard.\nMage: The bullet follows the player closely and will shoot smaller bullets at them."
+				}
+			}
+		},
+		{
+			"name": "Gunsinger",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gunsinger",
+				"img": {
+					"src": "assets/gunsinger.png",
+					"width": 21,
+					"height": 22
+				},
+				"fields": {
+					"description": "Buffs an enemy in the room, increasing their health and speed. They will cancel their spell and run away if the player is too close or they take damage."
+				}
+			}
+		},
+		{
+			"name": "Aged Gunsinger",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Aged_Gunsinger",
+				"img": {
+					"src": "assets/aged-gunsinger.png",
+					"width": 21,
+					"height": 25
+				},
+				"fields": {
+					"description": "Buffs all enemies in the room, increasing their health and speed. They will cancel their spell and run away if the player is too close or they take damage."
+				}
+			}
+		},
+		{
+			"name": "Ammomancer",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Ammomancer",
+				"img": {
+					"src": "assets/ammomancer.png",
+					"width": 14,
+					"height": 22
+				},
+				"fields": {
+					"description": "Attempts to summon Shelletons. They will cancel their summoning ritual and run away if the player is too close or they take damage. If the Ammonancer is killed while their Shelleton is still alive, then the Shelleton will collapse."
+				}
+			}
+		},
+		{
+			"name": "Jammomancer",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Jammomancer",
+				"img": {
+					"src": "assets/jammomancer.png",
+					"width": 14,
+					"height": 34
+				},
+				"fields": {
+					"description": "Jams an enemy in the room, increasing their health, speed, and damage. They will cancel their spell and run away if the player gets too close or they take damage."
+				}
+			}
+		},
+		{
+			"name": "Jamerlengo",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Jamerlengo",
+				"img": {
+					"src": "assets/jamerlengo.png",
+					"width": 25,
+					"height": 40
+				},
+				"fields": {
+					"description": "Jams all enemies in the room, increasing their health, speed, and damage. They will cancel their spell and run away if the player gets too close or they take damage."
+				}
+			}
+		},
+		{
+			"name": "Wizbang",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Wizbang",
+				"img": {
+					"src": "assets/wizbang.png",
+					"width": 34,
+					"height": 33
+				},
+				"fields": {
+					"description": "Teleports around the room, occasionally creating a projection of itself near the player that explodes into bullets in all directions."
+				}
+			}
+		},
+		{
+			"name": "Mimic",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Mimic",
+				"img": {
+					"src": "assets/mimic.png",
+					"width": 25,
+					"height": 23
+				},
+				"fields": {
+					"description": "Rapidly fires bullets towards the player with different patterns depending on the quality of the chest. Drops items and/or pickups upon death. When the player attempts to open a Mimic or shoot it for the first time, it will shoot a jammed shot at the player that explodes into six bullets on contact with a wall or after traveling a certain distance."
+				}
+			}
+		},
+		{
+			"name": "Gun Fairy",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gun_Fairy",
+				"img": {
+					"src": "assets/gun-fairy.png",
+					"width": 18,
+					"height": 14
+				},
+				"fields": {
+					"description": "Wanders around the room, rapidly firing bullets towards the player. Occasionally spawned by breaking pots."
+				}
+			}
+		},
+		{
+			"name": "Bullat",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bullat",
+				"img": {
+					"src": "assets/bullat.png",
+					"width": 33,
+					"height": 11
+				},
+				"fields": {
+					"description": "Launches itself at the player, dying in the process."
+				}
+			}
+		},
+		{
+			"name": "Shotgat",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Shotgat",
+				"img": {
+					"src": "assets/shotgat.png",
+					"width": 33,
+					"height": 11
+				},
+				"fields": {
+					"description": "Launches two projectiles in a V shape at the player, dying in the process."
+				}
+			}
+		},
+		{
+			"name": "Grenat",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Grenat",
+				"img": {
+					"src": "assets/grenat.png",
+					"width": 33,
+					"height": 11
+				},
+				"fields": {
+					"description": "Launches an exploding projectile at the player, dying in the process."
+				}
+			}
+		},
+		{
+			"name": "Spirat",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Spirat",
+				"img": {
+					"src": "assets/spirat.png",
+					"width": 33,
+					"height": 11
+				},
+				"fields": {
+					"description": "Launches itself at the player, dying in the process. Predicts the player's movements, and can reposition itself several times before hitting walls."
+				}
+			}
+		},
+		{
+			"name": "Coaler",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Coaler",
+				"img": {
+					"src": "assets/coaler.png",
+					"width": 22,
+					"height": 21
+				},
+				"fields": {
+					"description": "Occasionally fires bullets at the player. Catches on fire upon taking damage, running around erratically and sending flaming bullets out in random directions."
+				}
+			}
+		},
+		{
+			"name": "Gat",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gat",
+				"img": {
+					"src": "assets/gat.png",
+					"width": 15,
+					"height": 18
+				},
+				"fields": {
+					"description": "Bounces around the room and deflects bullets. Occasionally opens up to fire three spreads of four bullets towards the player."
+				}
+			}
+		},
+		{
+			"name": "Det",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Det",
+				"img": {
+					"src": "assets/det.png",
+					"width": 32,
+					"height": 26
+				},
+				"fields": {
+					"description": "Periodically fires four lasers in a + or × formation. Explodes upon death."
+				}
+			}
+		},
+		{
+			"name": "Gunzookie",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gunzookie",
+				"img": {
+					"src": "assets/gunzookie.png",
+					"width": 18,
+					"height": 16
+				},
+				"fields": {
+					"description": "Periodically spits up bubbles that, upon popping, fire a bullet that predicts the player's movements."
+				}
+			}
+		},
+		{
+			"name": "Gunzockie",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gunzockie",
+				"img": {
+					"src": "assets/gunzockie.png",
+					"width": 18,
+					"height": 16
+				},
+				"fields": {
+					"description": "Periodically spits up four bubbles that, upon popping, fire a bullet that predicts the player's movements."
+				}
+			}
+		},
+		{
+			"name": "Bullet Shark",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Bullet_Shark",
+				"img": {
+					"src": "assets/bullet-shark.png",
+					"width": 18,
+					"height": 17
+				},
+				"fields": {
+					"description": "Charges towards the player, releasing bullets to the sides of itself."
+				}
+			}
+		},
+		{
+			"name": "Great Bullet Shark",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Great_Bullet_Shark",
+				"img": {
+					"src": "assets/great-bullet-shark.png",
+					"width": 16,
+					"height": 33
+				},
+				"fields": {
+					"description": "Charges towards the player, releasing many bullets to the sides of itself."
+				}
+			}
+		},
+		{
+			"name": "Tombstoner",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Tombstoner",
+				"img": {
+					"src": "assets/tombstoner.png",
+					"width": 14,
+					"height": 21
+				},
+				"fields": {
+					"description": "Walks towards the player, firing bullets in a cross formation."
+				}
+			}
+		},
+		{
+			"name": "Gun Cultist",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gun_Cultist",
+				"img": {
+					"src": "assets/gun-cultist.png",
+					"width": 15,
+					"height": 19
+				},
+				"fields": {
+					"description": "Erratically moves around the room and wildly shoots at the player. Has the ability to dodge roll."
+				}
+			}
+		},
+		{
+			"name": "Beadie",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Beadie",
+				"img": {
+					"src": "assets/beadie.png",
+					"width": 18,
+					"height": 21
+				},
+				"fields": {
+					"description": "Fires bullets towards the player and explodes upon death."
+				}
+			}
+		},
+		{
+			"name": "Gun Nut",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gun_Nut",
+				"img": {
+					"src": "assets/gun-nut.png",
+					"width": 45,
+					"height": 50
+				},
+				"fields": {
+					"description": "Periodically strikes the ground with its sword, releasing a wide 90 degree arc of bullets towards the player. Can only aim in the eight compass directions."
+				}
+			}
+		},
+		{
+			"name": "Spectral Gun Nut",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Spectral_Gun_Nut",
+				"img": {
+					"src": "assets/spectral-gun-nut.png",
+					"width": 40,
+					"height": 37
+				},
+				"fields": {
+					"description": "Periodically fires a wide 90 degree arc of bullets towards the player, along with a larger jammed bullet that explodes into bullets in all directions upon impact."
+				}
+			}
+		},
+		{
+			"name": "Chain Gunner",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Chain_Gunner",
+				"img": {
+					"src": "assets/chain-gunner.png",
+					"width": 39,
+					"height": 45
+				},
+				"fields": {
+					"description": "Slowly walks towards the player while swinging a ball and chain made of bullets. If it is the only enemy left in the room, its eyes will glow red and it will launch the ball and chain at the player."
+				}
+			}
+		},
+		{
+			"name": "Fungun",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Fungun",
+				"img": {
+					"src": "assets/fungun.png",
+					"width": 25,
+					"height": 28
+				},
+				"fields": {
+					"description": "Periodically releases clouds of bullets. Leaves a small pool of poison creep upon death."
+				}
+			}
+		},
+		{
+			"name": "Spogre",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Spogre",
+				"img": {
+					"src": "assets/spogre.png",
+					"width": 40,
+					"height": 50
+				},
+				"fields": {
+					"description": "Periodically releases large clouds of bullets. Releases a smaller cloud of bullets upon death."
+				}
+			}
+		},
+		{
+			"name": "Mountain Cube",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Mountain_Cube",
+				"img": {
+					"src": "assets/mountain-cube.png",
+					"width": 36,
+					"height": 47
+				},
+				"fields": {
+					"description": "Slides towards the player if they line up with it horizontally or vertically. Can be killed, causing it to explode and freeze any other enemies inside the blast radius. The explosion cannot damage the player. Dies upon completing the room."
+				}
+			}
+		},
+		{
+			"name": "Lead Cube",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Lead_Cube",
+				"img": {
+					"src": "assets/lead-cube.png",
+					"width": 28,
+					"height": 36
+				},
+				"fields": {
+					"description": "Slides towards the player if they line up with it horizontally or vertically. Cannot be killed until the room is completed."
+				}
+			}
+		},
+		{
+			"name": "Flesh Cube",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Flesh_Cube",
+				"img": {
+					"src": "assets/flesh-cube.png",
+					"width": 28,
+					"height": 38
+				},
+				"fields": {
+					"description": "Slides towards the player if they line up with it horizontally or vertically, leaving behind a trail of fire. Releases bullets in all directions upon colliding with an obstacle. Cannot be killed. Dies when the room is completed."
+				}
+			}
+		},
+		{
+			"name": "Dead Blow",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Dead_Blow",
+				"img": {
+					"src": "assets/dead-blow.png",
+					"width": 61,
+					"height": 53
+				},
+				"fields": {
+					"description": "Pounds the ground, leaving a patch of fire and sending fire bullets in all directions. Cannot be killed, and disappears when the room is completed. In some rooms, the Dead Blow will follow the player."
+				}
+			}
+		},
+		{
+			"name": "Lead Maiden",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Lead_Maiden",
+				"img": {
+					"src": "assets/lead-maiden.png",
+					"width": 29,
+					"height": 60
+				},
+				"fields": {
+					"description": "Hops around, then opens up and fires three rings of triangular bullets that stick to walls, then fire towards the player. Cannot be damaged while closed. Explodes upon death."
+				}
+			}
+		},
+		{
+			"name": "Misfire Beast",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Misfire_Beast",
+				"img": {
+					"src": "assets/misfire-beast.png",
+					"width": 79,
+					"height": 45
+				},
+				"fields": {
+					"description": "Camouflages itself and creates projections that attack the player with bullet whips."
+				}
+			}
+		},
+		{
+			"name": "Phaser Spider",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Phaser_Spider",
+				"img": {
+					"src": "assets/phaser-spider.png",
+					"width": 36,
+					"height": 51
+				},
+				"fields": {
+					"description": "Fires large web-shaped sprays of bullets at the player that leave slowing cobwebs on the floor. Frequently burrows into the ground and reappears elsewhere in the room."
+				}
+			}
+		},
+		{
+			"name": "Killithid",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Killithid",
+				"img": {
+					"src": "assets/killithid.png",
+					"width": 28,
+					"height": 44
+				},
+				"fields": {
+					"description": "Summons portals around the room that fire bullets towards the player. Occasionally splits into three copies of itself, two of which are illusions."
+				}
+			}
+		},
+		{
+			"name": "Gripmaster",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gripmaster",
+				"img": {
+					"src": "assets/gripmaster.png",
+					"width": 59,
+					"height": 34
+				},
+				"fields": {
+					"description": "Hovers over the player and attempts to grab them. If the player is successfully grabbed, it will shoot the player to a previously cleared room, which will be reset and have all enemies respawned. Automatically dies if all other enemies in the room are killed."
+				}
+			}
+		},
+		{
+			"name": "Tarnisher",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Tarnisher",
+				"img": {
+					"src": "assets/tarnisher.png",
+					"width": 38,
+					"height": 39
+				},
+				"fields": {
+					"description": "Sinks into the floor and chases the player.  If it successfully catches the player, it will deal damage, partially drain the current gun's ammo, and reduce the magazine size of all of the player's guns until they pick up ammo."
+				}
+			}
+		},
+		{
+			"name": "Shambling Round",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Shambling_Round",
+				"img": {
+					"src": "assets/shambling-round.png",
+					"width": 50,
+					"height": 73
+				},
+				"fields": {
+					"description": "Has three stages that it progresses through as it takes damage. In its first stage, it fires rings of bullets in all directions. In its second stage, it rapidly alternates between firing bullets out of its left and right sides. In its third stage, it sprays numerous bullets in all directions. Upon death, it leaves behind a cap that explodes after a short delay."
+				}
+			}
+		},
+		{
+			"name": "Shelleton",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Shelleton",
+				"img": {
+					"src": "assets/shelleton.png",
+					"width": 32,
+					"height": 38
+				},
+				"fields": {
+					"description": "Slowly walks towards the player, frequently firing two wide bursts of bullets at the player. Occasionally fires a laser at the player. Collapses upon death, and will revive if not destroyed after a short period of time."
+				}
+			}
+		},
+		{
+			"name": "Agonizer",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Agonizer",
+				"img": {
+					"src": "assets/agonizer.png",
+					"width": 46,
+					"height": 61
+				},
+				"fields": {
+					"description": "Periodically spews bullets in all directions."
+				}
+			}
+		},
+		{
+			"name": "Revolvenant",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Revolvenant",
+				"img": {
+					"src": "assets/revolvenant.png",
+					"width": 35,
+					"height": 78
+				},
+				"fields": {
+					"description": "Stretches its arm towards the player, attaching it to a wall. The arm will then release bullets perpendicular to itself. The arms might also form a circle around the player, which follows the movement of the player and will shoot bullets at them."
+				}
+			}
+		},
+		{
+			"name": "Gunreaper",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Gunreaper",
+				"img": {
+					"src": "assets/gunreaper.png",
+					"width": 58,
+					"height": 62
+				},
+				"fields": {
+					"description": "Swings its scythe, sending a homing arc of bullets towards the player. Cannot be killed, and disappears upon completing the room."
+				}
+			}
+		},
+		{
+			"name": "Lord of the Jammed",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Lord_of_the_Jammed",
+				"img": {
+					"src": "assets/lord-of-the-jammed.png",
+					"width": 58,
+					"height": 64
+				},
+				"fields": {
+					"description": "Swings its scythe, sending bullets in all directions. Cannot be killed, and follows the player through rooms and across floors."
+				}
+			}
+		},
+		{
+			"name": "Fuselier",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Fuselier",
+				"img": {
+					"src": "assets/fuselier.png",
+					"width": 64,
+					"height": 101
+				},
+				"fields": {
+					"description": "A mini-boss that flies around the top of the screen and rains down various attacks."
+				}
+			}
+		},
+		{
+			"name": "Blockner (Ghost)",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Blockner",
+				"img": {
+					"src": "assets/blockner-ghost.png",
+					"width": 19,
+					"height": 28
+				},
+				"fields": {
+					"description": "A mini-boss that can appear after killing Blockner in Black Powder Mine. Has the same attacks that Blockner has, except he does not start with two Gun Nuts present in the room."
+				}
+			}
+		},
+		{
+			"name": "Shadow Magician",
+			"props": {
+				"url": "https://enterthegungeon.fandom.com/wiki/Shadow_Magician",
+				"img": {
+					"src": "assets/shadow-magician.png",
+					"width": 37,
+					"height": 71
+				},
+				"fields": {
+					"description": "Fires bullets in magical spell patterns and twirls across the room."
+				}
+			}
+		}
+	]
+}

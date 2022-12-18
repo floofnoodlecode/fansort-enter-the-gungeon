@@ -1,0 +1,9 @@
+{
+	"title": "Enter the Gungeon",
+	"lists": [
+		"lists/bosses",
+		"lists/enemies",
+		"lists/guns",
+		"lists/items"
+	]
+}

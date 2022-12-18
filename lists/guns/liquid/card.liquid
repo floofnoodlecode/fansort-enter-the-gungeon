@@ -1,0 +1,43 @@
+{% assign props = __item__.props %}
+
+<div class="text-center border border-1 rounded-1 border-dark">
+	<a href="{{props.url}}">
+		<h6 class="fs-6 mb-0 pe-1 ps-1">{{__item__.name}}</h6>
+	</a>
+	<div class="bg-light">
+		{% if props.img.first %}
+			{% assign imgs = props.img %}
+		{% else %}
+			{% assign imgs = "" | split %}
+			{% assign imgs = props.img | concat: imgs %}
+		{% endif %}
+
+		{% for img in imgs %}
+			<div class="m-1">
+				<img class="img-fluid pixelated" src="{{img.src}}"
+					width="{{img.width | times: 6}}" height="{{img.height | times: 6}}"/>
+			</div>
+		{% endfor %}
+	</div>
+
+	{% if props.fields %}
+		<table class="table table-sm small align-middle mb-0"><tbody>
+			{% for field in props.fields %}
+				<tr>
+					<th scope="row" class="text-capitalize">
+							{{field[0]}}
+					</th>
+					<td>
+						{% if field[1].first %}
+							{% assign value = field[1] | join: ' | ' %}
+						{% else %}
+							{% assign value = field[1] %}
+						{% endif %}
+
+						{{value}}
+					</td>
+				</tr>
+			{% endfor %}
+		</table>
+	{% endif %}
+</div>
