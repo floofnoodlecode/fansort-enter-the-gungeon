@@ -1,8 +1,9 @@
 {
 	"title": "Enter the Gungeon - Guns",
-	"logo": {
-		"src": "assets/dragunfire.png",
-		"object-fit": "contain",
-		"pixelated": true
+	"props": {
+		"logo": {
+			"src": "assets/dragunfire.png",
+			"style": "object-fit: contain"
+		}
 	}
 }

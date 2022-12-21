@@ -1,9 +1,10 @@
 {
 	"title": "Enter the Gungeon - Enemies",
-	"logo": {
-		"src": "assets/bullet-kin.png",
-		"object-fit": "contain",
-		"pixelated": true
+	"props": {
+		"logo": {
+			"src": "assets/bullet-kin.png",
+			"style": "object-fit: contain"
+		}
 	}
 
 }

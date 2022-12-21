@@ -1,8 +1,9 @@
 {
 	"title": "Enter the Gungeon - Bosses",
-	"logo": {
-		"src": "assets/beholster.png",
-		"object-fit": "cover",
-		"pixelated": true
+	"props": {
+		"logo": {
+			"src": "assets/beholster.png",
+			"style": "object-fit: cover"
+		}
 	}
 }

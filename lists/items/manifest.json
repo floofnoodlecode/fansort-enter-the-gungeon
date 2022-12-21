@@ -1,8 +1,9 @@
 {
 	"title": "Enter the Gungeon - Items",
-	"logo": {
-		"src": "assets/heart-lunchbox.png",
-		"object-fit": "cover",
-		"pixelated": true
+	"props": {
+		"logo": {
+			"src": "assets/heart-lunchbox.png",
+			"style": "object-fit: cover"
+		}
 	}
 }
