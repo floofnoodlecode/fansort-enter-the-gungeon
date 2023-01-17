@@ -1,7 +1,3 @@
 {% assign props = item.props %}
-{
-	"src": {{props.img.src}},
-	"width": {{props.img.width | times: 4}},
-	"height": {{props.img.height | times: 4}},
-	"pixelated": true
-}
+
+<image src="{{props.img.src}}" width="{{props.img.width | times: 4}}" height="{{props.img.height | times: 4}}" pixelated="true"/>
