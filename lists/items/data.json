@@ -12,6 +12,11 @@
 	"items": [
 		{
 			"name": "Master Round I",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Master_Round",
 				"img": {
@@ -20,16 +25,18 @@
 					"height": 26
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "First Chamber",
-					"effect": "Grants a heart container.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a heart container."
 				}
 			}
 		},
 		{
 			"name": "Master Round II",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Master_Round",
 				"img": {
@@ -38,16 +45,18 @@
 					"height": 27
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Second Chamber",
-					"effect": "Grants a heart container.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a heart container."
 				}
 			}
 		},
 		{
 			"name": "Master Round III",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Master_Round",
 				"img": {
@@ -56,16 +65,18 @@
 					"height": 28
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Third Chamber",
-					"effect": "Grants a heart container.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a heart container."
 				}
 			}
 		},
 		{
 			"name": "Master Round IV",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Master_Round",
 				"img": {
@@ -74,16 +85,18 @@
 					"height": 27
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Fourth Chamber",
-					"effect": "Grants a heart container.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a heart container."
 				}
 			}
 		},
 		{
 			"name": "Master Round V",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Master_Round",
 				"img": {
@@ -92,16 +105,18 @@
 					"height": 33
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Fifth Chamber",
-					"effect": "Grants a heart container.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a heart container."
 				}
 			}
 		},
 		{
 			"name": "Prime Primer",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Prime_Primer",
 				"img": {
@@ -110,16 +125,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Old Magic",
-					"effect": "Ingredient for the Bullet That Can Kill The Past.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Ingredient for the Bullet That Can Kill The Past."
 				}
 			}
 		},
 		{
 			"name": "Arcane Gunpowder",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Arcane_Gunpowder",
 				"img": {
@@ -128,16 +145,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "From The Deep",
-					"effect": "Ingredient for the Bullet That Can Kill The Past, cannot be used.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Ingredient for the Bullet That Can Kill The Past, cannot be used."
 				}
 			}
 		},
 		{
 			"name": "Planar Lead",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Planar_Lead",
 				"img": {
@@ -146,16 +165,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Astral Slug",
-					"effect": "Ingredient for the Bullet That Can Kill The Past.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Ingredient for the Bullet That Can Kill The Past."
 				}
 			}
 		},
 		{
 			"name": "Obsidian Shell Casing",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Obsidian_Shell_Casing",
 				"img": {
@@ -164,16 +185,18 @@
 					"height": 20
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Indestructible",
-					"effect": "Ingredient for the Bullet That Can Kill The Past.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Ingredient for the Bullet That Can Kill The Past."
 				}
 			}
 		},
 		{
 			"name": "Meatbun",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Meatbun",
 				"img": {
@@ -182,16 +205,18 @@
 					"height": 10
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "On A Roll",
-					"effect": "Single use. Heals the player for one heart. Grants double damage until the player takes damage.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Single use. Heals the player for one heart. Grants double damage until the player takes damage."
 				}
 			}
 		},
 		{
 			"name": "Medkit",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Medkit",
 				"img": {
@@ -200,16 +225,18 @@
 					"height": 9
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Heals",
-					"effect": "Single use. Heals the player for 4 hearts.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Single use. Heals the player for 4 hearts."
 				}
 			}
 		},
 		{
 			"name": "Ration",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ration",
 				"img": {
@@ -218,16 +245,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Calories, Mate",
-					"effect": "Single use. Heals the player for two hearts. Automatically used if the player runs out of health.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Single use. Heals the player for two hearts. Automatically used if the player runs out of health."
 				}
 			}
 		},
 		{
 			"name": "Orange",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Orange",
 				"img": {
@@ -236,16 +265,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "You're Not Alexander",
-					"effect": "Single use. Fully heals the player, grants a heart container, and increases coolness by 2.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Single use. Fully heals the player, grants a heart container, and increases coolness by 2."
 				}
 			}
 		},
 		{
 			"name": "Friendship Cookie",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Friendship_Cookie",
 				"img": {
@@ -254,16 +285,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "It's Delicious",
-					"effect": "Single use. Resurrects your co-op partner with full health.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Single use. Resurrects your co-op partner with full health."
 				}
 			}
 		},
 		{
 			"name": "Bottle",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Bottle",
 				"img": {
@@ -272,16 +305,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Heart Container",
-					"effect": "Holds hearts or ammo for use later.",
-					"Quality": "D",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Holds hearts or ammo for use later."
 				}
 			}
 		},
 		{
 			"name": "Bomb",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Bomb",
 				"img": {
@@ -290,16 +325,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Use For Boom",
-					"effect": "Throws a bomb that explodes after a short delay.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Throws a bomb that explodes after a short delay."
 				}
 			}
 		},
 		{
 			"name": "Ice Bomb",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ice_Bomb",
 				"img": {
@@ -308,16 +345,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Cool It!",
-					"effect": "Throws a bomb that freezes enemies.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Throws a bomb that freezes enemies."
 				}
 			}
 		},
 		{
 			"name": "Chaff Grenade",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Chaff_Grenade",
 				"img": {
@@ -326,16 +365,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Dazed And Confused",
-					"effect": "Stuns enemies. Can be used to steal items from shops.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Stuns enemies. Can be used to steal items from shops."
 				}
 			}
 		},
 		{
 			"name": "Proximity Mine",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Proximity_Mine",
 				"img": {
@@ -344,16 +385,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Use To Place",
-					"effect": "Places a mine that explodes when an enemy comes near it.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Places a mine that explodes when an enemy comes near it."
 				}
 			}
 		},
 		{
 			"name": "Cluster Mine",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Cluster_Mine",
 				"img": {
@@ -362,16 +405,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Area Hazard",
-					"effect": "Places 5 small mines that explode when an enemy comes into contact with them.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Places 5 small mines that explode when an enemy comes into contact with them."
 				}
 			}
 		},
 		{
 			"name": "C4",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/C4",
 				"img": {
@@ -380,16 +425,18 @@
 					"height": 11
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Stick Boom",
-					"effect": "Places explosives on the ground which then can be detonated by using the item again.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Places explosives on the ground which then can be detonated by using the item again."
 				}
 			}
 		},
 		{
 			"name": "Weird Egg",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Weird_Egg",
 				"img": {
@@ -398,16 +445,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Miracle of Gun",
-					"effect": "Using the egg while missing health fully heals the player. Dropping the egg and shooting it spawns a gun, item, or yolk creature. Dropping the egg into fire spawns a serpent.",
-					"Quality": "D",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Using the egg while missing health fully heals the player. Dropping the egg and shooting it spawns a gun, item, or yolk creature. Dropping the egg into fire spawns a serpent."
 				}
 			}
 		},
 		{
 			"name": "Molotov",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Molotov",
 				"img": {
@@ -416,16 +465,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Feel The Burn",
-					"effect": "Throws a Molotov that sets an area on fire.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Throws a Molotov that sets an area on fire."
 				}
 			}
 		},
 		{
 			"name": "Air Strike",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Air_Strike",
 				"img": {
@@ -434,16 +485,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Superior!",
-					"effect": "Calls down a bombardment on a large rectangular area.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Calls down a bombardment on a large rectangular area."
 				}
 			}
 		},
 		{
 			"name": "Napalm Strike",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Napalm_Strike",
 				"img": {
@@ -452,16 +505,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Smells Great!",
-					"effect": "Sets a large rectangular area on fire.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Sets a large rectangular area on fire."
 				}
 			}
 		},
 		{
 			"name": "Big Boy",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Big_Boy",
 				"img": {
@@ -470,16 +525,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Set The World On Fire",
-					"effect": "Calls down a missile at the crosshair, causing a large explosion that leaves behind a large pool of poison creep. Increases curse by 1 while held.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Calls down a missile at the crosshair, causing a large explosion that leaves behind a large pool of poison creep. Increases curse by 1 while held."
 				}
 			}
 		},
 		{
 			"name": "Roll Bomb",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Roll_Bomb",
 				"img": {
@@ -488,16 +545,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Power Charge",
-					"effect": "Dodge rolling leaves behind a bomb.",
-					"Quality": "C",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Dodge rolling leaves behind a bomb."
 				}
 			}
 		},
 		{
 			"name": "iBomb Companion App",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/IBomb_Companion_App",
 				"img": {
@@ -506,16 +565,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "One For That",
-					"effect": "Detonates all explosives and explosive enemies in the room.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Detonates all explosives and explosive enemies in the room."
 				}
 			}
 		},
 		{
 			"name": "Supply Drop",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Supply_Drop",
 				"img": {
@@ -524,16 +585,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "I Need Mags!",
-					"effect": "Single use. Spawns ammo box.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Single use. Spawns ammo box."
 				}
 			}
 		},
 		{
 			"name": "Ammo Synthesizer",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ammo_Synthesizer",
 				"img": {
@@ -542,16 +605,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Ammo Chance On Kills",
-					"effect": "Adds a chance to regain ammo upon killing an enemy.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Adds a chance to regain ammo upon killing an enemy."
 				}
 			}
 		},
 		{
 			"name": "Armor Synthesizer",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Armor_Synthesizer",
 				"img": {
@@ -560,16 +625,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Play Well, Get Armor",
-					"effect": "Adds a chance to get armor upon completing a room.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Adds a chance to get armor upon completing a room."
 				}
 			}
 		},
 		{
 			"name": "Heart Synthesizer",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Heart_Synthesizer",
 				"img": {
@@ -578,16 +645,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Play Well, Get Hearts",
-					"effect": "Adds a chance to get hearts upon completing a room.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Adds a chance to get hearts upon completing a room."
 				}
 			}
 		},
 		{
 			"name": "Master of Unlocking",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Master_of_Unlocking",
 				"img": {
@@ -596,16 +665,18 @@
 					"height": 10
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Play Well, Get Keys",
-					"effect": "Adds a chance to get keys upon completing rooms.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Adds a chance to get keys upon completing rooms."
 				}
 			}
 		},
 		{
 			"name": "Utility Belt",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Utility_Belt",
 				"img": {
@@ -614,16 +685,18 @@
 					"height": 9
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "All Capacity Up!",
-					"effect": "Grants an extra active item slot and increases maximum ammo by 20%.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants an extra active item slot and increases maximum ammo by 20%."
 				}
 			}
 		},
 		{
 			"name": "Macho Brace",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Macho_Brace",
 				"img": {
@@ -632,16 +705,18 @@
 					"height": 26
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Value For Effort",
-					"effect": "Shots are more powerful when coming out of a dodge roll.",
-					"Quality": "C",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Shots are more powerful when coming out of a dodge roll."
 				}
 			}
 		},
 		{
 			"name": "Hidden Compartment",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Hidden_Compartment",
 				"img": {
@@ -650,16 +725,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Extra Space",
-					"effect": "Grants an extra active item slot and increased maximum ammo by 10%.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants an extra active item slot and increased maximum ammo by 10%."
 				}
 			}
 		},
 		{
 			"name": "Backpack",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Backpack",
 				"img": {
@@ -668,16 +745,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Item Capacity Up!",
-					"effect": "Allows the player to hold an extra active item.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Allows the player to hold an extra active item."
 				}
 			}
 		},
 		{
 			"name": "Loot Bag",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Loot_Bag",
 				"img": {
@@ -686,16 +765,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Doesn't Float",
-					"effect": "Enemies drop more money, but the player drops money upon taking damage. Selling other items to the Sell Creep grants twice as much money.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Enemies drop more money, but the player drops money upon taking damage. Selling other items to the Sell Creep grants twice as much money."
 				}
 			}
 		},
 		{
 			"name": "Drill",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Drill",
 				"img": {
@@ -704,16 +785,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Sawgeant",
-					"effect": "If used on a locked chest, forces the player to fight two waves of enemies and unlocks the chest if they survive. If used on a locked door, opens it for free.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "If used on a locked chest, forces the player to fight two waves of enemies and unlocks the chest if they survive. If used on a locked door, opens it for free."
 				}
 			}
 		},
 		{
 			"name": "Clown Mask",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Clown_Mask",
 				"img": {
@@ -722,16 +805,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Anonymity Aid",
-					"effect": "Summons a random familiar with a clown mask who either stuns enemies, protects the player with mini blanks, or attacks enemies with a shotgun. An additional familiar is spawned for each additional Payday item the player has.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Summons a random familiar with a clown mask who either stuns enemies, protects the player with mini blanks, or attacks enemies with a shotgun. An additional familiar is spawned for each additional Payday item the player has."
 				}
 			}
 		},
 		{
 			"name": "Scope",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Scope",
 				"img": {
@@ -740,16 +825,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Steady Aim",
-					"effect": "Decreases bullet spread by 60%.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Decreases bullet spread by 60%."
 				}
 			}
 		},
 		{
 			"name": "Scouter",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v2.1: A Farewell to Arms Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Scouter",
 				"img": {
@@ -758,16 +845,18 @@
 					"height": 8
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Quality Assured",
-					"effect": "Shows enemy health and damage done. Increases damage and accuracy. Increases curse by 1.",
-					"Quality": "C",
-					"Introduced in": "v2.1: A Farewell to Arms Update"
+					"effect": "Shows enemy health and damage done. Increases damage and accuracy. Increases curse by 1."
 				}
 			}
 		},
 		{
 			"name": "Laser Sight",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Laser_Sight",
 				"img": {
@@ -776,16 +865,18 @@
 					"height": 11
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "King Of The Dot",
-					"effect": "Decreases bullet spread by 50% and adds a red laser sight to the player's weapons.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Decreases bullet spread by 50% and adds a red laser sight to the player's weapons."
 				}
 			}
 		},
 		{
 			"name": "Ammo Belt",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ammo_Belt",
 				"img": {
@@ -794,16 +885,18 @@
 					"height": 9
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Ammo Capacity Up!",
-					"effect": "Increases maximum ammo by 20%.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases maximum ammo by 20%."
 				}
 			}
 		},
 		{
 			"name": "Bullet Time",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Bullet_Time",
 				"img": {
@@ -812,16 +905,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Dodge This",
-					"effect": "Slows down time while active.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Slows down time while active."
 				}
 			}
 		},
 		{
 			"name": "Aged Bell",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Aged_Bell",
 				"img": {
@@ -830,16 +925,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Lacuna",
-					"effect": "Briefly stops enemies and enemy bullets. Can be used to steal from shops.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Briefly stops enemies and enemy bullets. Can be used to steal from shops."
 				}
 			}
 		},
 		{
 			"name": "Singularity",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Singularity",
 				"img": {
@@ -848,16 +945,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Sucks",
-					"effect": "Spawns a black hole that attracts enemies and bullets.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Spawns a black hole that attracts enemies and bullets."
 				}
 			}
 		},
 		{
 			"name": "Decoy",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Decoy",
 				"img": {
@@ -866,16 +965,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Get Him!",
-					"effect": "Places a decoy that enemies will target. The decoy will be destroyed after taking enough damage. Can be used to steal from shops.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Places a decoy that enemies will target. The decoy will be destroyed after taking enough damage. Can be used to steal from shops."
 				}
 			}
 		},
 		{
 			"name": "Shadow Clone",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v2.1: A Farewell to Arms Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Shadow_Clone",
 				"img": {
@@ -884,16 +985,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "No Jutsu",
-					"effect": "Creates a copy of the player that mimics their movements in reverse and fires alongside them.",
-					"Quality": "D",
-					"Introduced in": "v2.1: A Farewell to Arms Update"
+					"effect": "Creates a copy of the player that mimics their movements in reverse and fires alongside them."
 				}
 			}
 		},
 		{
 			"name": "Explosive Decoy",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Explosive_Decoy",
 				"img": {
@@ -902,16 +1005,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "KABOOM!",
-					"effect": "Places a decoy that enemies will target. The decoy will explode after taking enough damage. Can be used to steal from shops.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Places a decoy that enemies will target. The decoy will explode after taking enough damage. Can be used to steal from shops."
 				}
 			}
 		},
 		{
 			"name": "Melted Rock",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Melted_Rock",
 				"img": {
@@ -920,16 +1025,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Corpses Explode",
-					"effect": "Causes enemy corpses to explode on use.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Causes enemy corpses to explode on use."
 				}
 			}
 		},
 		{
 			"name": "Trusty Lockpicks",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Trusty_Lockpicks",
 				"img": {
@@ -938,16 +1045,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Who Needs Keys?",
-					"effect": "Has a 50% chance to unlock a lock or locked chest. If it fails, the lock will no longer function.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Has a 50% chance to unlock a lock or locked chest. If it fails, the lock will no longer function."
 				}
 			}
 		},
 		{
 			"name": "Smoke Bomb",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Smoke_Bomb",
 				"img": {
@@ -956,16 +1065,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Vanish!",
-					"effect": "Temporarily become invisible to enemies. Can be used to steal from the Shop.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Temporarily become invisible to enemies. Can be used to steal from the Shop."
 				}
 			}
 		},
 		{
 			"name": "Box",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Box",
 				"img": {
@@ -974,16 +1085,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Just A Box",
-					"effect": "If the player enters a room while under the box, enemies will not target the player. Firing a weapon will remove the box. Has no effect if used while enemies are already targeting the player. Can be used to steal items from shops.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "If the player enters a room while under the box, enemies will not target the player. Firing a weapon will remove the box. Has no effect if used while enemies are already targeting the player. Can be used to steal items from shops."
 				}
 			}
 		},
 		{
 			"name": "Fortune's Favor",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Fortune%27s_Favor",
 				"img": {
@@ -992,16 +1105,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Use For Luck",
-					"effect": "While active, bullets will curve around the player.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "While active, bullets will curve around the player."
 				}
 			}
 		},
 		{
 			"name": "Jar of Bees",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Jar_of_Bees",
 				"img": {
@@ -1010,16 +1125,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "The Pain!",
-					"effect": "Spawns bees that home in on and damage enemies.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Spawns bees that home in on and damage enemies."
 				}
 			}
 		},
 		{
 			"name": "Potion of Lead Skin",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Potion_of_Lead_Skin",
 				"img": {
@@ -1028,16 +1145,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "I'm Invincible!",
-					"effect": "While active, the player reflects enemy bullets.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "While active, the player reflects enemy bullets."
 				}
 			}
 		},
 		{
 			"name": "Double Vision",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Double_Vision",
 				"img": {
@@ -1046,16 +1165,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "One For Each Of You",
-					"effect": "While active, doubles the player's bullets.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "While active, doubles the player's bullets."
 				}
 			}
 		},
 		{
 			"name": "Chest Teleporter",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "A",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Chest_Teleporter",
 				"img": {
@@ -1064,16 +1185,18 @@
 					"height": 22
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Zap",
-					"effect": "Teleports a chest to the next floor, with a chance to upgrade its quality.",
-					"Quality": "A",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Teleports a chest to the next floor, with a chance to upgrade its quality."
 				}
 			}
 		},
 		{
 			"name": "Relodestone",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "S",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Relodestone",
 				"img": {
@@ -1082,16 +1205,18 @@
 					"height": 19
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Magunetic North",
-					"effect": "Halves reload times. While active, the player absorbs enemy bullets and regains ammo.",
-					"Quality": "S",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Halves reload times. While active, the player absorbs enemy bullets and regains ammo."
 				}
 			}
 		},
 		{
 			"name": "Poison Vial",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Poison_Vial",
 				"img": {
@@ -1100,16 +1225,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "For External Use Only",
-					"effect": "Creates a pool of poison creep.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Creates a pool of poison creep."
 				}
 			}
 		},
 		{
 			"name": "Potion of Gun Friendship",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Potion_of_Gun_Friendship",
 				"img": {
@@ -1118,16 +1245,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Temporary +1 To Gun",
-					"effect": "While active, increases damage, fire rate, knockback, and reload speed.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "While active, increases damage, fire rate, knockback, and reload speed."
 				}
 			}
 		},
 		{
 			"name": "Portable Turret",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Portable_Turret",
 				"img": {
@@ -1136,16 +1265,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Some Assembly Required",
-					"effect": "Places a stationary turret that shoots at enemies. The turret will be destroyed if it takes enough damage.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Places a stationary turret that shoots at enemies. The turret will be destroyed if it takes enough damage."
 				}
 			}
 		},
 		{
 			"name": "Knife Shield",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Knife_Shield",
 				"img": {
@@ -1154,16 +1285,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Use Again To Launch!",
-					"effect": "Creates a ring of knives around the player that damage enemies and block enemy bullets. Knives vanish after taking enough damage. If used again while the shield is active, the knives are launched forward. Increases curse by 1 while held.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Creates a ring of knives around the player that damage enemies and block enemy bullets. Knives vanish after taking enough damage. If used again while the shield is active, the knives are launched forward. Increases curse by 1 while held."
 				}
 			}
 		},
 		{
 			"name": "Grappling Hook",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Grappling_Hook",
 				"img": {
@@ -1172,16 +1305,18 @@
 					"height": 7
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Rapid Transit",
-					"effect": "Allows players to hook onto and then pull themselves towards walls at a fast speed. Hitting enemies with the hook will deal minor damage and stun them for a short duration. Allows players to steal items from the shop. The hook has an unlimited range.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Allows players to hook onto and then pull themselves towards walls at a fast speed. Hitting enemies with the hook will deal minor damage and stun them for a short duration. Allows players to steal items from the shop. The hook has an unlimited range."
 				}
 			}
 		},
 		{
 			"name": "Stuffed Star",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Stuffed_Star",
 				"img": {
@@ -1190,16 +1325,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Protective Plush",
-					"effect": "While active, the player is invincible.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "While active, the player is invincible."
 				}
 			}
 		},
 		{
 			"name": "Boomerang",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Boomerang",
 				"img": {
@@ -1208,16 +1345,18 @@
 					"height": 11
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Usually Comes Back",
-					"effect": "Throws a boomerang that travels around the room and attempts to stun all enemies.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Throws a boomerang that travels around the room and attempts to stun all enemies."
 				}
 			}
 		},
 		{
 			"name": "Shield of the Maiden",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Shield_of_the_Maiden",
 				"img": {
@@ -1226,16 +1365,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Block And Load",
-					"effect": "Pulls up a shield to protect players from bullets. Players are immobile while using the shield.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Pulls up a shield to protect players from bullets. Players are immobile while using the shield."
 				}
 			}
 		},
 		{
 			"name": "Crisis Stone",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Crisis_Stone",
 				"img": {
@@ -1244,16 +1385,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Reload. Reload. Reload.",
-					"effect": "The player is invulnerable while reloading an empty magazine.",
-					"Quality": "A",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "The player is invulnerable while reloading an empty magazine."
 				}
 			}
 		},
 		{
 			"name": "Portable Table Device",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Portable_Table_Device",
 				"img": {
@@ -1262,16 +1405,18 @@
 					"height": 9
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Know When To Fold 'Em",
-					"effect": "Spawns a small table that can be flipped.",
-					"Quality": "D",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Spawns a small table that can be flipped."
 				}
 			}
 		},
 		{
 			"name": "Daruma",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "B",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Daruma",
 				"img": {
@@ -1280,16 +1425,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Good Fortune",
-					"effect": "Can be used immediately after dodging a bullet to activate a blank effect.",
-					"Quality": "B",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Can be used immediately after dodging a bullet to activate a blank effect."
 				}
 			}
 		},
 		{
 			"name": "Partially-Eaten Cheese",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "A",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Partially-Eaten_Cheese",
 				"img": {
@@ -1298,16 +1445,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Aged Almost 40 Years",
-					"effect": "While active, the player is invincible and instantly kills enemies they come in contact with.",
-					"Quality": "A",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "While active, the player is invincible and instantly kills enemies they come in contact with."
 				}
 			}
 		},
 		{
 			"name": "+1 Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/%2B1_Bullets",
 				"img": {
@@ -1316,16 +1465,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "+1 To Bullet",
-					"effect": "Increases damage by 25%.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases damage by 25%."
 				}
 			}
 		},
 		{
 			"name": "Rocket-Powered Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Rocket-Powered_Bullets",
 				"img": {
@@ -1334,16 +1485,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Faster Bullets",
-					"effect": "Increases the player's bullet speed by 50%, increases damage by 10%, and increases rate of fire by 10%.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases the player's bullet speed by 50%, increases damage by 10%, and increases rate of fire by 10%."
 				}
 			}
 		},
 		{
 			"name": "Shock Rounds",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Shock_Rounds",
 				"img": {
@@ -1352,16 +1505,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Electrified!",
-					"effect": "Creates a beam of electricity between fired bullets.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Creates a beam of electricity between fired bullets."
 				}
 			}
 		},
 		{
 			"name": "Devolver Rounds",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Devolver_Rounds",
 				"img": {
@@ -1370,16 +1525,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Two Steps Back",
-					"effect": "Bullets have a chance to devolve enemies into simpler enemies.",
-					"Quality": "B",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Bullets have a chance to devolve enemies into simpler enemies."
 				}
 			}
 		},
 		{
 			"name": "Vorpal Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Vorpal_Bullets",
 				"img": {
@@ -1388,16 +1545,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Through and Through",
-					"effect": "Whenever the player fires, occasionally fires a special high-damage bullet.",
-					"Quality": "A",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Whenever the player fires, occasionally fires a special high-damage bullet."
 				}
 			}
 		},
 		{
 			"name": "Katana Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v2.1: A Farewell to Arms Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Katana_Bullets",
 				"img": {
@@ -1406,16 +1565,18 @@
 					"height": 21
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Folded Lead",
-					"effect": "Upon killing an enemy, bullets have a chance to unleash a flurry of slashes along the path of the original bullet, damaging enemies. Increases curse by 1.",
-					"Quality": "C",
-					"Introduced in": "v2.1: A Farewell to Arms Update"
+					"effect": "Upon killing an enemy, bullets have a chance to unleash a flurry of slashes along the path of the original bullet, damaging enemies. Increases curse by 1."
 				}
 			}
 		},
 		{
 			"name": "Hungry Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Hungry_Bullets",
 				"img": {
@@ -1424,16 +1585,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Hungry Hungry",
-					"effect": "Adds a chance for the player's bullets to block enemy projectiles, growing in damage and size as they do so.",
-					"Quality": "A",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Adds a chance for the player's bullets to block enemy projectiles, growing in damage and size as they do so."
 				}
 			}
 		},
 		{
 			"name": "Heavy Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Heavy_Bullets",
 				"img": {
@@ -1442,16 +1605,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Thunk!",
-					"effect": "Increases damage by 25% and doubles knockback but halves bullet speed.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases damage by 25% and doubles knockback but halves bullet speed."
 				}
 			}
 		},
 		{
 			"name": "Bouncy Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Bouncy_Bullets",
 				"img": {
@@ -1460,16 +1625,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Boiyoiyoing!",
-					"effect": "Grants bullets the ability to bounce off objects.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants bullets the ability to bounce off objects."
 				}
 			}
 		},
 		{
 			"name": "Explosive Rounds",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Explosive_Rounds",
 				"img": {
@@ -1478,16 +1645,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Mega Blast",
-					"effect": "Adds a chance to fire bullets that explode upon hitting an enemy or object.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Adds a chance to fire bullets that explode upon hitting an enemy or object."
 				}
 			}
 		},
 		{
 			"name": "Ghost Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ghost_Bullets",
 				"img": {
@@ -1496,16 +1665,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Shoot Through",
-					"effect": "Bullets pass through enemies and obstacles.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Bullets pass through enemies and obstacles."
 				}
 			}
 		},
 		{
 			"name": "Alpha Bullet",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Alpha_Bullet",
 				"img": {
@@ -1514,16 +1685,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "First!",
-					"effect": "The first shot of a weapon's magazine will deal 80% more damage.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "The first shot of a weapon's magazine will deal 80% more damage."
 				}
 			}
 		},
 		{
 			"name": "Omega Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Omega_Bullets",
 				"img": {
@@ -1532,16 +1705,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Last!",
-					"effect": "The final shot of each magazine deals double damage.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "The final shot of each magazine deals double damage."
 				}
 			}
 		},
 		{
 			"name": "Scattershot",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Scattershot",
 				"img": {
@@ -1550,16 +1725,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Quantity Over Quality",
-					"effect": "Guns fire a spread of tripled bullets which deal less damage.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Guns fire a spread of tripled bullets which deal less damage."
 				}
 			}
 		},
 		{
 			"name": "Irradiated Lead",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Irradiated_Lead",
 				"img": {
@@ -1568,16 +1745,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Poison Shot",
-					"effect": "Adds a chance to fire bullets that poison enemies.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Adds a chance to fire bullets that poison enemies."
 				}
 			}
 		},
 		{
 			"name": "Hot Lead",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Hot_Lead",
 				"img": {
@@ -1586,16 +1765,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Chance To Ignite",
-					"effect": "Adds a chance to fire bullets that ignite enemies.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Adds a chance to fire bullets that ignite enemies."
 				}
 			}
 		},
 		{
 			"name": "Battery Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Battery_Bullets",
 				"img": {
@@ -1604,16 +1785,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Zap!",
-					"effect": "Causes water that bullets pass over to become electrified, damaging enemies. Decreases shot spread by 50%.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Causes water that bullets pass over to become electrified, damaging enemies. Decreases shot spread by 50%."
 				}
 			}
 		},
 		{
 			"name": "Frost Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Frost_Bullets",
 				"img": {
@@ -1622,16 +1805,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Icy Fire",
-					"effect": "Adds a chance to fire bullets that freeze enemies.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Adds a chance to fire bullets that freeze enemies."
 				}
 			}
 		},
 		{
 			"name": "Charming Rounds",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Charming_Rounds",
 				"img": {
@@ -1640,16 +1825,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Made With Love",
-					"effect": "Adds a chance to fire bullets that charm enemies.",
-					"Quality": "B",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Adds a chance to fire bullets that charm enemies."
 				}
 			}
 		},
 		{
 			"name": "Magic Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Magic_Bullets",
 				"img": {
@@ -1658,16 +1845,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Sufficiently Advanced",
-					"effect": "Grants all of the player's bullets a small chance to transmogrify enemies into chickens.",
-					"Quality": "B",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Grants all of the player's bullets a small chance to transmogrify enemies into chickens."
 				}
 			}
 		},
 		{
 			"name": "Fat Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Fat_Bullets",
 				"img": {
@@ -1676,16 +1865,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Fatter = Stronger",
-					"effect": "Doubles bullet size and knockback, increases damage by 30%, and decreases maximum ammo by 10%.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Doubles bullet size and knockback, increases damage by 30%, and decreases maximum ammo by 10%."
 				}
 			}
 		},
 		{
 			"name": "Angry Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Angry_Bullets",
 				"img": {
@@ -1694,16 +1885,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Hungry For More",
-					"effect": "Hitting an enemy refires the projectile at a nearby enemy.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Hitting an enemy refires the projectile at a nearby enemy."
 				}
 			}
 		},
 		{
 			"name": "Blank Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v2.1: A Farewell to Arms Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Blank_Bullets",
 				"img": {
@@ -1712,16 +1905,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "The Best Defense...",
-					"effect": "Projectile impacts can trigger a short range blank. Increases curse by 1.5.",
-					"Quality": "S",
-					"Introduced in": "v2.1: A Farewell to Arms Update"
+					"effect": "Projectile impacts can trigger a short range blank. Increases curse by 1.5."
 				}
 			}
 		},
 		{
 			"name": "Orbital Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v2.1: A Farewell to Arms Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Orbital_Bullets",
 				"img": {
@@ -1730,16 +1925,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Deadly Revolution",
-					"effect": "Missed shots orbit the player.",
-					"Quality": "A",
-					"Introduced in": "v2.1: A Farewell to Arms Update"
+					"effect": "Missed shots orbit the player."
 				}
 			}
 		},
 		{
 			"name": "Homing Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Homing_Bullets",
 				"img": {
@@ -1748,16 +1945,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Fire And Forget",
-					"effect": "Bullets have a chance to home in on enemies.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Bullets have a chance to home in on enemies."
 				}
 			}
 		},
 		{
 			"name": "Shadow Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Shadow_Bullets",
 				"img": {
@@ -1766,16 +1965,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Double Tap",
-					"effect": "Firing a weapon has a chance to fire an additional projectile.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Firing a weapon has a chance to fire an additional projectile."
 				}
 			}
 		},
 		{
 			"name": "Easy Reload Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Easy_Reload_Bullets",
 				"img": {
@@ -1784,16 +1985,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Rolling Reload",
-					"effect": "Dodge rolling reloads one bullet.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Dodge rolling reloads one bullet."
 				}
 			}
 		},
 		{
 			"name": "Stout Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Stout_Bullets",
 				"img": {
@@ -1802,16 +2005,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Up Close and Personal",
-					"effect": "Increases damage at close range and decreases as bullets travel.",
-					"Quality": "B",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Increases damage at close range and decreases as bullets travel."
 				}
 			}
 		},
 		{
 			"name": "Snowballets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Snowballets",
 				"img": {
@@ -1820,16 +2025,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Powder Power",
-					"effect": "Bullets increase in size and damage as they travel.",
-					"Quality": "A",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Bullets increase in size and damage as they travel."
 				}
 			}
 		},
 		{
 			"name": "Remote Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Remote_Bullets",
 				"img": {
@@ -1838,16 +2045,18 @@
 					"height": 21
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "The Unseen Hand",
-					"effect": "Fired bullets curve towards the player's crosshair. Increases damage by 10%.",
-					"Quality": "C",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Fired bullets curve towards the player's crosshair. Increases damage by 10%."
 				}
 			}
 		},
 		{
 			"name": "Zombie Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Zombie_Bullets",
 				"img": {
@@ -1856,16 +2065,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Unfinished Business",
-					"effect": "Adds a chance to refund ammo when a shot misses.",
-					"Quality": "C",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Adds a chance to refund ammo when a shot misses."
 				}
 			}
 		},
 		{
 			"name": "Flak Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Flak_Bullets",
 				"img": {
@@ -1874,16 +2085,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Catch Some!",
-					"effect": "Whenever a bullet hits an enemy or wall, it splits into several smaller, lower-damage bullets.",
-					"Quality": "C",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Whenever a bullet hits an enemy or wall, it splits into several smaller, lower-damage bullets."
 				}
 			}
 		},
 		{
 			"name": "Silver Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Silver_Bullets",
 				"img": {
@@ -1892,16 +2105,18 @@
 					"height": 20
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Blessed Metal",
-					"effect": "Increases damage to jammed enemies by 225% and Increases damage to bosses by 25%.",
-					"Quality": "C",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Increases damage to jammed enemies by 225% and Increases damage to bosses by 25%."
 				}
 			}
 		},
 		{
 			"name": "Gilded Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Gilded_Bullets",
 				"img": {
@@ -1910,16 +2125,18 @@
 					"height": 23
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "The Gun Percent",
-					"effect": "Increases damage based on the amount of money the player has.",
-					"Quality": "B",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Increases damage based on the amount of money the player has."
 				}
 			}
 		},
 		{
 			"name": "Platinum Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Platinum_Bullets",
 				"img": {
@@ -1928,16 +2145,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Over One Million Served",
-					"effect": "Increases damage and fire rate with every bullet that hits an enemy.",
-					"Quality": "S",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Increases damage and fire rate with every bullet that hits an enemy."
 				}
 			}
 		},
 		{
 			"name": "Chaos Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Chaos_Bullets",
 				"img": {
@@ -1946,16 +2165,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Taste The Painbow",
-					"effect": "Adds random bullet effects to the player's bullets.",
-					"Quality": "A",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Adds random bullet effects to the player's bullets."
 				}
 			}
 		},
 		{
 			"name": "Cursed Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Cursed_Bullets",
 				"img": {
@@ -1964,16 +2185,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Too Spooky",
-					"effect": "Increases damage depending on how much curse the player has. Increases curse by 1 while held.",
-					"Quality": "C",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Increases damage depending on how much curse the player has. Increases curse by 1 while held."
 				}
 			}
 		},
 		{
 			"name": "Chance Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Chance_Bullets",
 				"img": {
@@ -1982,16 +2205,18 @@
 					"height": 22
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Good RNG",
-					"effect": "Upon firing, adds a chance to fire projectiles from the player's other guns.",
-					"Quality": "B",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Upon firing, adds a chance to fire projectiles from the player's other guns."
 				}
 			}
 		},
 		{
 			"name": "Helix Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Helix_Bullets",
 				"img": {
@@ -2000,16 +2225,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Praise Be",
-					"effect": "Doubles fired bullets and makes them move in a helix pattern, but slightly decreases damage.",
-					"Quality": "B",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Doubles fired bullets and makes them move in a helix pattern, but slightly decreases damage."
 				}
 			}
 		},
 		{
 			"name": "Bumbullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Bumbullets",
 				"img": {
@@ -2018,16 +2245,18 @@
 					"height": 19
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Bumblecore",
-					"effect": "Upon firing, adds a chance to fire a bee, which homes in on and damages enemies.",
-					"Quality": "B",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Upon firing, adds a chance to fire a bee, which homes in on and damages enemies."
 				}
 			}
 		},
 		{
 			"name": "Bloody 9mm",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Bloody_9mm",
 				"img": {
@@ -2036,16 +2265,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Be Realistic",
-					"effect": "Adds a chance to fire a fast, homing bullet that flies around the room damaging enemies.",
-					"Quality": "B",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Adds a chance to fire a fast, homing bullet that flies around the room damaging enemies."
 				}
 			}
 		},
 		{
 			"name": "Bionic Leg",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Bionic_Leg",
 				"img": {
@@ -2054,16 +2285,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "More Machine Than Man",
-					"effect": "Increases movement speed and grants a piece of armor.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases movement speed and grants a piece of armor."
 				}
 			}
 		},
 		{
 			"name": "Shotgun Coffee",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Shotgun_Coffee",
 				"img": {
@@ -2072,16 +2305,18 @@
 					"height": 10
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Speed Up",
-					"effect": "Increases movement speed.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases movement speed."
 				}
 			}
 		},
 		{
 			"name": "Shotga Cola",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Shotga_Cola",
 				"img": {
@@ -2090,16 +2325,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Speed Up",
-					"effect": "Increases movement speed.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases movement speed."
 				}
 			}
 		},
 		{
 			"name": "Ballistic Boots",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ballistic_Boots",
 				"img": {
@@ -2108,16 +2345,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Speedier Than A Bullet",
-					"effect": "Increases movement speed.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases movement speed."
 				}
 			}
 		},
 		{
 			"name": "Magic Sweet",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Magic_Sweet",
 				"img": {
@@ -2126,16 +2365,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Free Stats",
-					"effect": "Grants a heart container, increases damage by 15%, increases movement speed, and increases coolness by 1.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a heart container, increases damage by 15%, increases movement speed, and increases coolness by 1."
 				}
 			}
 		},
 		{
 			"name": "Disarming Personality",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Disarming_Personality",
 				"img": {
@@ -2144,16 +2385,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "For You?",
-					"effect": "Decreases shop prices by 15%.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Decreases shop prices by 15%."
 				}
 			}
 		},
 		{
 			"name": "Mustache",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Mustache",
 				"img": {
@@ -2162,16 +2405,18 @@
 					"height": 5
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "A Familiar Face",
-					"effect": "Heals the player half a heart upon purchasing an item.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Heals the player half a heart upon purchasing an item."
 				}
 			}
 		},
 		{
 			"name": "Lichy Trigger Finger",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Lichy_Trigger_Finger",
 				"img": {
@@ -2180,16 +2425,18 @@
 					"height": 10
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Rate of Fire Up",
-					"effect": "Increases rate of fire by 25%.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases rate of fire by 25%."
 				}
 			}
 		},
 		{
 			"name": "Lich's Eye Bullets",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v2.1: A Farewell to Arms Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Lich%27s_Eye_Bullets",
 				"img": {
@@ -2198,16 +2445,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Iron Sights",
-					"effect": "Makes all guns act as if they have all their synergies.",
-					"Quality": "S",
-					"Introduced in": "v2.1: A Farewell to Arms Update"
+					"effect": "Makes all guns act as if they have all their synergies."
 				}
 			}
 		},
 		{
 			"name": "Enraging Photo",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Enraging_Photo",
 				"img": {
@@ -2216,16 +2465,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Don't Believe His Lies",
-					"effect": "Taking damage makes the player briefly deal double damage and instantly reloads their weapon.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Taking damage makes the player briefly deal double damage and instantly reloads their weapon."
 				}
 			}
 		},
 		{
 			"name": "Ballot",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ballot",
 				"img": {
@@ -2234,16 +2485,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Vote Of Confidence!",
-					"effect": "Increases the player's coolness by 3, which decreases the cooldown of active items and increases luck.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases the player's coolness by 3, which decreases the cooldown of active items and increases luck."
 				}
 			}
 		},
 		{
 			"name": "Live Ammo",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Live_Ammo",
 				"img": {
@@ -2252,16 +2505,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "I'm A Bullet Too!",
-					"effect": "Provides immunity to contact damage, and dodge rolls deal increased damage to enemies.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Provides immunity to contact damage, and dodge rolls deal increased damage to enemies."
 				}
 			}
 		},
 		{
 			"name": "Eyepatch",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Eyepatch",
 				"img": {
@@ -2270,16 +2525,18 @@
 					"height": 11
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Hit Harder Less Often",
-					"effect": "Increases damage by 35% but decreases accuracy.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases damage by 35% but decreases accuracy."
 				}
 			}
 		},
 		{
 			"name": "Military Training",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Military_Training",
 				"img": {
@@ -2288,16 +2545,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Hold Facing Enemy",
-					"effect": "Increases weapon accuracy and reload speed.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases weapon accuracy and reload speed."
 				}
 			}
 		},
 		{
 			"name": "Ring of the Resourceful Rat",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ring_of_the_Resourceful_Rat",
 				"img": {
@@ -2306,16 +2565,18 @@
 					"height": 23
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Fufufufufufu",
-					"effect": "Once per floor, if the Resourceful Rat takes an item or gun, he will give another item or gun of equal quality in return. Unused trades carry over to subsequent floors.",
-					"Quality": "B",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Once per floor, if the Resourceful Rat takes an item or gun, he will give another item or gun of equal quality in return. Unused trades carry over to subsequent floors."
 				}
 			}
 		},
 		{
 			"name": "Cartographer's Ring",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Cartographer%27s_Ring",
 				"img": {
@@ -2324,16 +2585,18 @@
 					"height": 22
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Some Floors Are Familiar",
-					"effect": "New floors have a chance to be mapped out.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "New floors have a chance to be mapped out."
 				}
 			}
 		},
 		{
 			"name": "Amulet of the Pit Lord",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Amulet_of_the_Pit_Lord",
 				"img": {
@@ -2342,16 +2605,18 @@
 					"height": 22
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "No Fall Damage",
-					"effect": "Falling into pits no longer deals damage.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Falling into pits no longer deals damage."
 				}
 			}
 		},
 		{
 			"name": "Ring of Fire Resistance",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ring_of_Fire_Resistance",
 				"img": {
@@ -2360,16 +2625,18 @@
 					"height": 21
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "No Burns",
-					"effect": "Grants immunity to fire.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants immunity to fire."
 				}
 			}
 		},
 		{
 			"name": "Ring of Miserly Protection",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ring_of_Miserly_Protection",
 				"img": {
@@ -2378,16 +2645,18 @@
 					"height": 23
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Aids The Fiscally Responsible",
-					"effect": "Grants two heart containers. Disappears upon spending money.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants two heart containers. Disappears upon spending money."
 				}
 			}
 		},
 		{
 			"name": "Unity",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Unity",
 				"img": {
@@ -2396,16 +2665,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Our Powers Combined",
-					"effect": "Increases damage based on the other guns the player has.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases damage based on the other guns the player has."
 				}
 			}
 		},
 		{
 			"name": "Ring of Chest Vampirism",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ring_of_Chest_Vampirism",
 				"img": {
@@ -2414,16 +2685,18 @@
 					"height": 24
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Blood From Wood",
-					"effect": "Breaking chests heals the player.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Breaking chests heals the player."
 				}
 			}
 		},
 		{
 			"name": "Cloranthy Ring",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Cloranthy_Ring",
 				"img": {
@@ -2432,16 +2705,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Dodge Power Up",
-					"effect": "Greatly shortens the time at the end of a dodge roll where the player is vulnerable.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Greatly shortens the time at the end of a dodge roll where the player is vulnerable."
 				}
 			}
 		},
 		{
 			"name": "Ring of Chest Friendship",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ring_of_Chest_Friendship",
 				"img": {
@@ -2450,16 +2725,18 @@
 					"height": 22
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Chest Friends Forever",
-					"effect": "Increases the chance of finding chests.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases the chance of finding chests."
 				}
 			}
 		},
 		{
 			"name": "Ring of Mimic Friendship",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ring_of_Mimic_Friendship",
 				"img": {
@@ -2468,16 +2745,18 @@
 					"height": 23
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Unlikely Allies",
-					"effect": "Chests will not turn into Mimics.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Chests will not turn into Mimics."
 				}
 			}
 		},
 		{
 			"name": "Ring of Triggers",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ring_of_Triggers",
 				"img": {
@@ -2486,16 +2765,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Items == Guns",
-					"effect": "Using an active item fires the currently held weapon in all directions.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Using an active item fires the currently held weapon in all directions."
 				}
 			}
 		},
 		{
 			"name": "Ring of Ethereal Form",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ring_of_Ethereal_Form",
 				"img": {
@@ -2504,16 +2785,18 @@
 					"height": 20
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Get Ethereal!",
-					"effect": "While active, the player is invincible and has flight. Allows user to steal items from shops.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "While active, the player is invincible and has flight. Allows user to steal items from shops."
 				}
 			}
 		},
 		{
 			"name": "Gundromeda Strain",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Gundromeda_Strain",
 				"img": {
@@ -2522,16 +2805,18 @@
 					"height": 20
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "All Enemies Weaker!",
-					"effect": "Decreases health of all enemies encountered by 25%.",
-					"Quality": "S",
-					"Introduced in": "v1.0: Release"
+					"effect": "Decreases health of all enemies encountered by 25%."
 				}
 			}
 		},
 		{
 			"name": "Broccoli",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Broccoli",
 				"img": {
@@ -2540,16 +2825,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Makes You Strong",
-					"effect": "Increases damage by 10%, adds a 10% chance to negate damage, and increases movement speed.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases damage by 10%, adds a 10% chance to negate damage, and increases movement speed."
 				}
 			}
 		},
 		{
 			"name": "Crutch",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Crutch",
 				"img": {
@@ -2558,16 +2845,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "You Need It",
-					"effect": "Causes bullets to slightly curve towards enemies.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Causes bullets to slightly curve towards enemies."
 				}
 			}
 		},
 		{
 			"name": "Spice",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Spice",
 				"img": {
@@ -2576,16 +2865,18 @@
 					"height": 21
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "A tantalizing cube of power.",
-					"effect": "Single use. Increases certain stats upon use, depending on how many times it has been used. Each time a spice cube is used, more spice cubes will spawn in place of items or pickups.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Single use. Increases certain stats upon use, depending on how many times it has been used. Each time a spice cube is used, more spice cubes will spawn in place of items or pickups."
 				}
 			}
 		},
 		{
 			"name": "Liquid Valkyrie",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Liquid_Valkyrie",
 				"img": {
@@ -2594,16 +2885,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Maximum Pain",
-					"effect": "Decreases enemy bullet speed by 20%.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Decreases enemy bullet speed by 20%."
 				}
 			}
 		},
 		{
 			"name": "Bloody Eye",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Bloody_Eye",
 				"img": {
@@ -2612,16 +2905,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Slower Enemy Bullets",
-					"effect": "Decreases enemy bullet speed by 15%.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Decreases enemy bullet speed by 15%."
 				}
 			}
 		},
 		{
 			"name": "Gunknight Helmet",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Gunknight_Helmet",
 				"img": {
@@ -2630,16 +2925,18 @@
 					"height": 19
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Armor Every Floor",
-					"effect": "Grants two pieces of armor upon pickup and one piece of armor every floor.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants two pieces of armor upon pickup and one piece of armor every floor."
 				}
 			}
 		},
 		{
 			"name": "Gunknight Greaves",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Gunknight_Greaves",
 				"img": {
@@ -2648,16 +2945,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Armor Every Floor",
-					"effect": "Grants a piece of armor upon pickup and another piece of armor every floor.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a piece of armor upon pickup and another piece of armor every floor."
 				}
 			}
 		},
 		{
 			"name": "Gunknight Gauntlet",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Gunknight_Gauntlet",
 				"img": {
@@ -2666,16 +2965,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Armor Every Floor",
-					"effect": "Grants a piece of armor upon pickup and another piece of armor every floor.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a piece of armor upon pickup and another piece of armor every floor."
 				}
 			}
 		},
 		{
 			"name": "Gunknight Armor",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Gunknight_Armor",
 				"img": {
@@ -2684,16 +2985,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Armor Every Floor",
-					"effect": "Grants a piece of armor upon pickup and another piece of armor every floor.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a piece of armor upon pickup and another piece of armor every floor."
 				}
 			}
 		},
 		{
 			"name": "Old Knight's Shield",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Old_Knight%27s_Shield",
 				"img": {
@@ -2702,16 +3005,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Heavy With Experience",
-					"effect": "Grants two pieces of armor.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants two pieces of armor."
 				}
 			}
 		},
 		{
 			"name": "Old Knight's Helm",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Old_Knight%27s_Helm",
 				"img": {
@@ -2720,16 +3025,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Protects Knowledge",
-					"effect": "Grants two pieces of armor.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants two pieces of armor."
 				}
 			}
 		},
 		{
 			"name": "Old Knight's Flask",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Old_Knight%27s_Flask",
 				"img": {
@@ -2738,16 +3045,18 @@
 					"height": 21
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Heals Per Floor",
-					"effect": "Heals the player for one heart upon use. Gains 2 charges each floor.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Heals the player for one heart upon use. Gains 2 charges each floor."
 				}
 			}
 		},
 		{
 			"name": "Old Crest",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Old_Crest",
 				"img": {
@@ -2756,16 +3065,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Armor Up",
-					"effect": "Grants a piece of armor. Consumed upon taking any damage.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a piece of armor. Consumed upon taking any damage."
 				}
 			}
 		},
 		{
 			"name": "Armor of Thorns",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Armor_of_Thorns",
 				"img": {
@@ -2774,16 +3085,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Your Body Is A Weapon",
-					"effect": "Provides immunity to contact damage, and increases damage dealt by dodge rolling into enemies. Grants armor upon pickup.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Provides immunity to contact damage, and increases damage dealt by dodge rolling into enemies. Grants armor upon pickup."
 				}
 			}
 		},
 		{
 			"name": "Full Metal Jacket",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Full_Metal_Jacket",
 				"img": {
@@ -2792,16 +3105,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Automated Defenses",
-					"effect": "Automatically activates one of the player's blanks when they are about to take damage.",
-					"Quality": "B",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Automatically activates one of the player's blanks when they are about to take damage."
 				}
 			}
 		},
 		{
 			"name": "Ticket",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "A",
+				"Introduced in": "v2.1: A Farewell to Arms Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ticket",
 				"img": {
@@ -2810,16 +3125,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Do You Have Yours?",
-					"effect": "Summons Gatling Gull as a temporary ally.",
-					"Quality": "A",
-					"Introduced in": "v2.1: A Farewell to Arms Update"
+					"effect": "Summons Gatling Gull as a temporary ally."
 				}
 			}
 		},
 		{
 			"name": "Heavy Boots",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Heavy_Boots",
 				"img": {
@@ -2828,16 +3145,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Low Center Of Mass",
-					"effect": "Prevents the player from being affected by enemy knockback, gun recoil, and conveyor belts.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Prevents the player from being affected by enemy knockback, gun recoil, and conveyor belts."
 				}
 			}
 		},
 		{
 			"name": "Bug Boots",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Bug_Boots",
 				"img": {
@@ -2846,16 +3165,18 @@
 					"height": 19
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Yikes!",
-					"effect": "Dodge rolling leaves a trail of poison creep. Makes the player immune to poison.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Dodge rolling leaves a trail of poison creep. Makes the player immune to poison."
 				}
 			}
 		},
 		{
 			"name": "Gunboots",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Gunboots",
 				"img": {
@@ -2864,16 +3185,18 @@
 					"height": 20
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "They Go Down Well",
-					"effect": "Dodge rolling fires a spread of five bullets backwards. Slightly increases movement speed.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Dodge rolling fires a spread of five bullets backwards. Slightly increases movement speed."
 				}
 			}
 		},
 		{
 			"name": "Springheel Boots",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Springheel_Boots",
 				"img": {
@@ -2882,16 +3205,18 @@
 					"height": 20
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Double Jump",
-					"effect": "Allows the player to roll again mid-roll.",
-					"Quality": "D",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Allows the player to roll again mid-roll."
 				}
 			}
 		},
 		{
 			"name": "Rat Boots",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Rat_Boots",
 				"img": {
@@ -2900,16 +3225,18 @@
 					"height": 20
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Hover Craft",
-					"effect": "Grants temporary invulnerability and flight when the player steps over a pit.",
-					"Quality": "C",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Grants temporary invulnerability and flight when the player steps over a pit."
 				}
 			}
 		},
 		{
 			"name": "Coin Crown",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Coin_Crown",
 				"img": {
@@ -2918,16 +3245,18 @@
 					"height": 21
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Play Well, Get Money",
-					"effect": "Increases the chance to find  shells upon completing rooms.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases the chance to find  shells upon completing rooms."
 				}
 			}
 		},
 		{
 			"name": "Oiled Cylinder",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Oiled_Cylinder",
 				"img": {
@@ -2936,16 +3265,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Reload Faster",
-					"effect": "Halves reload time.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Halves reload time."
 				}
 			}
 		},
 		{
 			"name": "Ice Cube",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ice_Cube",
 				"img": {
@@ -2954,16 +3285,18 @@
 					"height": 11
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Items Recharge While Active",
-					"effect": "Reduces the cooldown timer of active items. Increases coolness by 3.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Reduces the cooldown timer of active items. Increases coolness by 3."
 				}
 			}
 		},
 		{
 			"name": "Rolling Eye",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Rolling_Eye",
 				"img": {
@@ -2972,16 +3305,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Back At You",
-					"effect": "Rolling through bullets reflects them at enemies.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Rolling through bullets reflects them at enemies."
 				}
 			}
 		},
 		{
 			"name": "Cigarettes",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Cigarettes",
 				"img": {
@@ -2990,16 +3325,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Hazardous To Health",
-					"effect": "Damages the player for half a heart and increases their coolness by 1 per use. Coolness decreases the cooldown of active items and increases luck.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Damages the player for half a heart and increases their coolness by 1 per use. Coolness decreases the cooldown of active items and increases luck."
 				}
 			}
 		},
 		{
 			"name": "Magazine Rack",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v2.1: A Farewell to Arms Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Magazine_Rack",
 				"img": {
@@ -3008,16 +3345,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Instant Mail Order",
-					"effect": "Place to create a zone of infinite ammo.",
-					"Quality": "C",
-					"Introduced in": "v2.1: A Farewell to Arms Update"
+					"effect": "Place to create a zone of infinite ammo."
 				}
 			}
 		},
 		{
 			"name": "Charm Horn",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Charm_Horn",
 				"img": {
@@ -3026,16 +3365,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "The Call Of Duty",
-					"effect": "Charms enemies around the player upon use. Can be used to steal from shops.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Charms enemies around the player upon use. Can be used to steal from shops."
 				}
 			}
 		},
 		{
 			"name": "Cog of Battle",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Cog_of_Battle",
 				"img": {
@@ -3044,16 +3385,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Active Reload",
-					"effect": "When reloading, pressing reload again when the indicator passes a certain mark on the reload bar will instantly reload the weapon, decreasing the reload time and increasing the damage and accuracy of the next magazine.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "When reloading, pressing reload again when the indicator passes a certain mark on the reload bar will instantly reload the weapon, decreasing the reload time and increasing the damage and accuracy of the next magazine."
 				}
 			}
 		},
 		{
 			"name": "Metronome",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Metronome",
 				"img": {
@@ -3062,16 +3405,18 @@
 					"height": 9
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Better And Better",
-					"effect": "Grants a damage bonus for each enemy killed. The bonus is reset if the player takes damage or changes guns.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a damage bonus for each enemy killed. The bonus is reset if the player takes damage or changes guns."
 				}
 			}
 		},
 		{
 			"name": "Honeycomb",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Honeycomb",
 				"img": {
@@ -3080,16 +3425,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Bee Prepared",
-					"effect": "Taking damage spawns bees that seek out and damage enemies.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Taking damage spawns bees that seek out and damage enemies."
 				}
 			}
 		},
 		{
 			"name": "Map",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Map",
 				"img": {
@@ -3098,16 +3445,18 @@
 					"height": 21
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Floor Revealed",
-					"effect": "Reveals the entire map for the current floor.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Reveals the entire map for the current floor."
 				}
 			}
 		},
 		{
 			"name": "Gungeon Blueprint",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Gungeon_Blueprint",
 				"img": {
@@ -3116,16 +3465,18 @@
 					"height": 21
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Procedurally Updates",
-					"effect": "Reveals all floor-maps for the rest of the run.",
-					"Quality": "S",
-					"Introduced in": "v1.0: Release"
+					"effect": "Reveals all floor-maps for the rest of the run."
 				}
 			}
 		},
 		{
 			"name": "Sense of Direction",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Sense_of_Direction",
 				"img": {
@@ -3134,16 +3485,18 @@
 					"height": 20
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Surprisingly Rare.",
-					"effect": "Points in the direction of the floor's exit.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Points in the direction of the floor's exit."
 				}
 			}
 		},
 		{
 			"name": "Duct Tape",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Duct_Tape",
 				"img": {
@@ -3152,16 +3505,18 @@
 					"height": 10
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Friend Of Gunsmiths",
-					"effect": "Single use. Combines 2 guns by granting one gun the projectiles that the other gun fires.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Single use. Combines 2 guns by granting one gun the projectiles that the other gun fires."
 				}
 			}
 		},
 		{
 			"name": "Gungeon Pepper",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Gungeon_Pepper",
 				"img": {
@@ -3170,16 +3525,18 @@
 					"height": 11
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "The Heat Is On!",
-					"effect": "Deals damage to nearby enemies.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Deals damage to nearby enemies."
 				}
 			}
 		},
 		{
 			"name": "Antibody",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Antibody",
 				"img": {
@@ -3188,16 +3545,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Heals Up",
-					"effect": "Adds a chance to heal the player for an extra half a heart whenever they receive healing.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Adds a chance to heal the player for an extra half a heart whenever they receive healing."
 				}
 			}
 		},
 		{
 			"name": "Resourceful Sack",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "A",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Resourceful_Sack",
 				"img": {
@@ -3206,16 +3565,18 @@
 					"height": 22
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Pack Rat's Rat Pack",
-					"effect": "Rolling through bullets collects them in the sack. Using the sack empties the sack and fires a piece of explosive cheese for every bullet collected. Grants 3 extra active item slots.",
-					"Quality": "A",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Rolling through bullets collects them in the sack. Using the sack empties the sack and fires a piece of explosive cheese for every bullet collected. Grants 3 extra active item slots."
 				}
 			}
 		},
 		{
 			"name": "Pink Guon Stone",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Pink_Guon_Stone",
 				"img": {
@@ -3224,16 +3585,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Increased Health",
-					"effect": "Orbits the player, blocking enemy shots on contact. Grants one extra heart container.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Orbits the player, blocking enemy shots on contact. Grants one extra heart container."
 				}
 			}
 		},
 		{
 			"name": "White Guon Stone",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/White_Guon_Stone",
 				"img": {
@@ -3242,16 +3605,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Kindles Blanks",
-					"effect": "Orbits the player, blocking enemy shots on contact. Grants an extra blank per floor.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Orbits the player, blocking enemy shots on contact. Grants an extra blank per floor."
 				}
 			}
 		},
 		{
 			"name": "Orange Guon Stone",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Orange_Guon_Stone",
 				"img": {
@@ -3260,16 +3625,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Hot Rock",
-					"effect": "Orbits the player, blocking enemy shots on contact. Shoots at enemies.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Orbits the player, blocking enemy shots on contact. Shoots at enemies."
 				}
 			}
 		},
 		{
 			"name": "Clear Guon Stone",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Clear_Guon_Stone",
 				"img": {
@@ -3278,16 +3645,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Pure",
-					"effect": "Orbits the player, blocking enemy shots on contact. Negates poison damage.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Orbits the player, blocking enemy shots on contact. Negates poison damage."
 				}
 			}
 		},
 		{
 			"name": "Green Guon Stone",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Green_Guon_Stone",
 				"img": {
@@ -3296,16 +3665,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Chance To Heal",
-					"effect": "Orbits the player, blocking enemy shots on contact. Chance to heal upon taking damage.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Orbits the player, blocking enemy shots on contact. Chance to heal upon taking damage."
 				}
 			}
 		},
 		{
 			"name": "Red Guon Stone",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Red_Guon_Stone",
 				"img": {
@@ -3314,16 +3685,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Dodge Up",
-					"effect": "Orbits the player, blocking enemy shots on contact. Improves dodging.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Orbits the player, blocking enemy shots on contact. Improves dodging."
 				}
 			}
 		},
 		{
 			"name": "Blue Guon Stone",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Blue_Guon_Stone",
 				"img": {
@@ -3332,16 +3705,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "On My Side",
-					"effect": "Orbits the player, blocking enemy shots on contact. Upon taking damage, briefly slows time.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Orbits the player, blocking enemy shots on contact. Upon taking damage, briefly slows time."
 				}
 			}
 		},
 		{
 			"name": "Glass Guon Stone",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Glass_Guon_Stone",
 				"img": {
@@ -3350,16 +3725,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Fleeting Defense",
-					"effect": "Orbits the player, blocking enemy shots on contact. Destroyed upon taking damage.",
-					"Quality": "-",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Orbits the player, blocking enemy shots on contact. Destroyed upon taking damage."
 				}
 			}
 		},
 		{
 			"name": "Iron Coin",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Iron_Coin",
 				"img": {
@@ -3368,16 +3745,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Valar Morgunis",
-					"effect": "3 uses. Kills all enemies in a random room on the floor. Increases coolness by 2 and grants a 20% discount at shops while held.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "3 uses. Kills all enemies in a random room on the floor. Increases coolness by 2 and grants a 20% discount at shops while held."
 				}
 			}
 		},
 		{
 			"name": "Super Hot Watch",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Super_Hot_Watch",
 				"img": {
@@ -3386,16 +3765,18 @@
 					"height": 22
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Suuuuuuper",
-					"effect": "Slows down time immensely while standing still. Moving speeds up time back to normal.",
-					"Quality": "S",
-					"Introduced in": "v1.0: Release"
+					"effect": "Slows down time immensely while standing still. Moving speeds up time back to normal."
 				}
 			}
 		},
 		{
 			"name": "Drum Clip",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Drum_Clip",
 				"img": {
@@ -3404,16 +3785,18 @@
 					"height": 26
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "One Size Fits All",
-					"effect": "Increases the magazine size of all weapons by 50%.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases the magazine size of all weapons by 50%."
 				}
 			}
 		},
 		{
 			"name": "Holey Grail",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Holey_Grail",
 				"img": {
@@ -3422,16 +3805,18 @@
 					"height": 22
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Withered Vessel",
-					"effect": "Upon taking damage, triggers a blank effect and refills 50% of the ammo of all the player's guns. Increases curse by 1.",
-					"Quality": "D",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Upon taking damage, triggers a blank effect and refills 50% of the ammo of all the player's guns. Increases curse by 1."
 				}
 			}
 		},
 		{
 			"name": "Blood Brooch",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Blood_Brooch",
 				"img": {
@@ -3440,16 +3825,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "What Music They Make!",
-					"effect": "Heals the player after dealing 1200 damage to enemies. Increases Curse by 1.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Heals the player after dealing 1200 damage to enemies. Increases Curse by 1."
 				}
 			}
 		},
 		{
 			"name": "Backup Gun",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Backup_Gun",
 				"img": {
@@ -3458,16 +3845,18 @@
 					"height": 20
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Watch Your Back",
-					"effect": "With each shot fired, a second bullet will be fired in the opposite direction that the player is aiming.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "With each shot fired, a second bullet will be fired in the opposite direction that the player is aiming."
 				}
 			}
 		},
 		{
 			"name": "Sunglasses",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Sunglasses",
 				"img": {
@@ -3476,16 +3865,18 @@
 					"height": 9
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Bright Future",
-					"effect": "Slows down time and increases dodge power during explosions. Increases coolness by 2.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Slows down time and increases dodge power during explosions. Increases coolness by 2."
 				}
 			}
 		},
 		{
 			"name": "Mimic Tooth Necklace",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Mimic_Tooth_Necklace",
 				"img": {
@@ -3494,16 +3885,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Chomp",
-					"effect": "Every chest is guaranteed to be a Mimic.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Every chest is guaranteed to be a Mimic."
 				}
 			}
 		},
 		{
 			"name": "Escape Rope",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Escape_Rope",
 				"img": {
@@ -3512,16 +3905,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Works Anywhere!",
-					"effect": "Teleport out of the current room into the shop of the current floor.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Teleport out of the current room into the shop of the current floor."
 				}
 			}
 		},
 		{
 			"name": "Jetpack",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Jetpack",
 				"img": {
@@ -3530,16 +3925,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "To Fly",
-					"effect": "Can be toggled. While active, the player has increased movement speed and flight, but cannot dodge roll. Passing over puddles of oil will set them on fire.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Can be toggled. While active, the player has increased movement speed and flight, but cannot dodge roll. Passing over puddles of oil will set them on fire."
 				}
 			}
 		},
 		{
 			"name": "Wax Wings",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Wax_Wings",
 				"img": {
@@ -3548,16 +3945,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Too Close To The Gun",
-					"effect": "Grants flight.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants flight."
 				}
 			}
 		},
 		{
 			"name": "Cat Bullet King Throne",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v2.1: A Farewell to Arms Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Cat_Bullet_King_Throne",
 				"img": {
@@ -3566,16 +3965,18 @@
 					"height": 25
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "A Cat Throne",
-					"effect": "Shoots miniature bullets upon rolling and grants flight.",
-					"Quality": "B",
-					"Introduced in": "v2.1: A Farewell to Arms Update"
+					"effect": "Shoots miniature bullets upon rolling and grants flight."
 				}
 			}
 		},
 		{
 			"name": "Blast Helmet",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Blast_Helmet",
 				"img": {
@@ -3584,16 +3985,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Duck And Cover",
-					"effect": "Decreases the radius that explosions will hurt the player in. Grants immunity to contact damage.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Decreases the radius that explosions will hurt the player in. Grants immunity to contact damage."
 				}
 			}
 		},
 		{
 			"name": "Lament Configurum",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "B",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Lament_Configurum",
 				"img": {
@@ -3602,16 +4005,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Shellraiser",
-					"effect": "Upon use, spawns several enemies and has a chance to spawn a gun or item. Increases curse by 1 while held.",
-					"Quality": "B",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Upon use, spawns several enemies and has a chance to spawn a gun or item. Increases curse by 1 while held."
 				}
 			}
 		},
 		{
 			"name": "Monster Blood",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Monster_Blood",
 				"img": {
@@ -3620,16 +4025,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Twist To Open",
-					"effect": "Taking damage spawns a pool of poison creep. Grants immunity to poison creep and a heart container.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Taking damage spawns a pool of poison creep. Grants immunity to poison creep and a heart container."
 				}
 			}
 		},
 		{
 			"name": "Nanomachines",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Nanomachines",
 				"img": {
@@ -3638,16 +4045,18 @@
 					"height": 11
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Son",
-					"effect": "Grants two pieces of armor upon pickup. Grants a piece of armor every 4 times damage is taken.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants two pieces of armor upon pickup. Grants a piece of armor every 4 times damage is taken."
 				}
 			}
 		},
 		{
 			"name": "Seven-Leaf Clover",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Seven-Leaf_Clover",
 				"img": {
@@ -3656,16 +4065,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Lucky!",
-					"effect": "Increases the quality of chests found in chest rooms to an equal chance of red or black.",
-					"Quality": "S",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases the quality of chests found in chest rooms to an equal chance of red or black."
 				}
 			}
 		},
 		{
 			"name": "Number 2",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Number_2",
 				"img": {
@@ -3674,16 +4085,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Sidekick No More",
-					"effect": "Boosts stats when alone. Only available in co-op, where The Cultist starts with this item.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Boosts stats when alone. Only available in co-op, where The Cultist starts with this item."
 				}
 			}
 		},
 		{
 			"name": "Gold Ammolet",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Gold_Ammolet",
 				"img": {
@@ -3692,16 +4105,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Blank Damage Up",
-					"effect": "Increases blank damage. Grants an extra blank per floor.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases blank damage. Grants an extra blank per floor."
 				}
 			}
 		},
 		{
 			"name": "Chaos Ammolet",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Chaos_Ammolet",
 				"img": {
@@ -3710,16 +4125,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "What Can Will",
-					"effect": "Blanks have a chance to poison, freeze, and ignite enemies. Grants an extra blank per floor.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Blanks have a chance to poison, freeze, and ignite enemies. Grants an extra blank per floor."
 				}
 			}
 		},
 		{
 			"name": "Lodestone Ammolet",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Lodestone_Ammolet",
 				"img": {
@@ -3728,16 +4145,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Blank Knockback Up",
-					"effect": "Increases the knockback of blanks. Grants an extra blank per floor.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases the knockback of blanks. Grants an extra blank per floor."
 				}
 			}
 		},
 		{
 			"name": "Uranium Ammolet",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Uranium_Ammolet",
 				"img": {
@@ -3746,16 +4165,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Blanks Poison",
-					"effect": "Blanks have a chance to poison enemies. Grants an extra blank per floor.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Blanks have a chance to poison enemies. Grants an extra blank per floor."
 				}
 			}
 		},
 		{
 			"name": "Copper Ammolet",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Copper_Ammolet",
 				"img": {
@@ -3764,16 +4185,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Blanks Ignite",
-					"effect": "Blanks have a chance to ignite enemies. Grants an extra blank per floor.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Blanks have a chance to ignite enemies. Grants an extra blank per floor."
 				}
 			}
 		},
 		{
 			"name": "Frost Ammolet",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Frost_Ammolet",
 				"img": {
@@ -3782,16 +4205,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Chance To Freeze",
-					"effect": "Blanks have a chance to freeze enemies. Grants an extra blank per floor.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Blanks have a chance to freeze enemies. Grants an extra blank per floor."
 				}
 			}
 		},
 		{
 			"name": "Table Tech Sight",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Table_Tech_Sight",
 				"img": {
@@ -3800,16 +4225,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Flip Multiplier",
-					"effect": "Flipping a table briefly slows down time and triple the player's shots.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Flipping a table briefly slows down time and triple the player's shots."
 				}
 			}
 		},
 		{
 			"name": "Table Tech Money",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Table_Tech_Money",
 				"img": {
@@ -3818,16 +4245,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Flip Prosperity",
-					"effect": "Flipping a table flips all other tables in the room, and flipping a table has a chance to spawn money.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Flipping a table flips all other tables in the room, and flipping a table has a chance to spawn money."
 				}
 			}
 		},
 		{
 			"name": "Table Tech Rocket",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Table_Tech_Rocket",
 				"img": {
@@ -3836,16 +4265,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "End Table",
-					"effect": "Flipping a table causes it to launch forward and explode.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Flipping a table causes it to launch forward and explode."
 				}
 			}
 		},
 		{
 			"name": "Table Tech Shotgun",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v2.1: A Farewell to Arms Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Table_Tech_Shotgun",
 				"img": {
@@ -3854,16 +4285,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Flip Out",
-					"effect": "Tables release a homing shotgun blast of bullets when flipped.",
-					"Quality": "D",
-					"Introduced in": "v2.1: A Farewell to Arms Update"
+					"effect": "Tables release a homing shotgun blast of bullets when flipped."
 				}
 			}
 		},
 		{
 			"name": "Table Tech Heat",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v2.1: A Farewell to Arms Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Table_Tech_Heat",
 				"img": {
@@ -3872,16 +4305,18 @@
 					"height": 19
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Hot Flips",
-					"effect": "Flipping a table creates a large area in which all enemies will be set on fire.",
-					"Quality": "D",
-					"Introduced in": "v2.1: A Farewell to Arms Update"
+					"effect": "Flipping a table creates a large area in which all enemies will be set on fire."
 				}
 			}
 		},
 		{
 			"name": "Table Tech Rage",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Table_Tech_Rage",
 				"img": {
@@ -3890,16 +4325,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Flips Of Fury",
-					"effect": "Flipping a table briefly doubles the player's damage.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Flipping a table briefly doubles the player's damage."
 				}
 			}
 		},
 		{
 			"name": "Table Tech Blanks",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Table_Tech_Blanks",
 				"img": {
@@ -3908,16 +4345,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Flip Clarity",
-					"effect": "Flipping a table activates a free blank.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Flipping a table activates a free blank."
 				}
 			}
 		},
 		{
 			"name": "Table Tech Stun",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Table_Tech_Stun",
 				"img": {
@@ -3926,16 +4365,22 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Flip Showmanship",
-					"effect": "Flipping a table briefly stuns nearby enemies.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Flipping a table briefly stuns nearby enemies."
 				}
 			}
 		},
 		{
 			"name": "Heart Holster",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": [
+					"C",
+					"B",
+					"A"
+				],
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Heart_Holster",
 				"img": {
@@ -3944,20 +4389,22 @@
 					"height": 22
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "On Your Sleeve",
-					"effect": "Grants a heart container.",
-					"Quality": [
-						"C",
-						"B",
-						"A"
-					],
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a heart container."
 				}
 			}
 		},
 		{
 			"name": "Heart Lunchbox",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": [
+					"C",
+					"B",
+					"A"
+				],
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Heart_Lunchbox",
 				"img": {
@@ -3966,20 +4413,22 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Healthy Meal",
-					"effect": "Grants a heart container.",
-					"Quality": [
-						"C",
-						"B",
-						"A"
-					],
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a heart container."
 				}
 			}
 		},
 		{
 			"name": "Heart Locket",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": [
+					"C",
+					"B",
+					"A"
+				],
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Heart_Locket",
 				"img": {
@@ -3988,20 +4437,22 @@
 					"height": 23
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Memento Mori",
-					"effect": "Grants a heart container.",
-					"Quality": [
-						"C",
-						"B",
-						"A"
-					],
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a heart container."
 				}
 			}
 		},
 		{
 			"name": "Heart Bottle",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": [
+					"C",
+					"B",
+					"A"
+				],
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Heart_Bottle",
 				"img": {
@@ -4010,20 +4461,22 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Liquid Life",
-					"effect": "Grants a heart container.",
-					"Quality": [
-						"C",
-						"B",
-						"A"
-					],
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a heart container."
 				}
 			}
 		},
 		{
 			"name": "Heart Purse",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": [
+					"C",
+					"B",
+					"A"
+				],
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Heart_Purse",
 				"img": {
@@ -4032,20 +4485,18 @@
 					"height": 25
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Form Begets Function",
-					"effect": "Grants a heart container.",
-					"Quality": [
-						"C",
-						"B",
-						"A"
-					],
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a heart container."
 				}
 			}
 		},
 		{
 			"name": "Ruby Bracelet",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ruby_Bracelet",
 				"img": {
@@ -4054,16 +4505,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Moving Forward",
-					"effect": "Thrown guns will explode. Grants immunity to contact damage. Moving constantly without rolling or taking damage for 4 seconds charges a dodge roll, which will deal 300 damage.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Thrown guns will explode. Grants immunity to contact damage. Moving constantly without rolling or taking damage for 4 seconds charges a dodge roll, which will deal 300 damage."
 				}
 			}
 		},
 		{
 			"name": "Sixth Chamber",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Sixth_Chamber",
 				"img": {
@@ -4072,16 +4525,18 @@
 					"height": 25
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Blessing Of Kaliber",
-					"effect": "Increases Coolness by 2 for each point of Curse the player has. Increases curse by 2 while held. Removes the usual curse penalty towards getting a room clearing reward.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Increases Coolness by 2 for each point of Curse the player has. Increases curse by 2 while held. Removes the usual curse penalty towards getting a room clearing reward."
 				}
 			}
 		},
 		{
 			"name": "Busted Television",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Busted_Television",
 				"img": {
@@ -4090,16 +4545,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Broken And Heavy",
-					"effect": "Upon use, the television is thrown in the direction of the cursor. Dropped upon dodge rolling.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Upon use, the television is thrown in the direction of the cursor. Dropped upon dodge rolling."
 				}
 			}
 		},
 		{
 			"name": "Coolant Leak",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Coolant_Leak",
 				"img": {
@@ -4108,16 +4565,22 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Don't Overheat!",
-					"effect": "Sprays water forward.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Sprays water forward."
 				}
 			}
 		},
 		{
 			"name": "Heart of Ice",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": [
+					"C",
+					"B",
+					"A"
+				],
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Heart_of_Ice",
 				"img": {
@@ -4126,20 +4589,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "That's Cold",
-					"effect": "Grants a heart container. Taking damage releases bouncing ice bullets. Increases coolness by 1.",
-					"Quality": [
-						"C",
-						"B",
-						"A"
-					],
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a heart container. Taking damage releases bouncing ice bullets. Increases coolness by 1."
 				}
 			}
 		},
 		{
 			"name": "Ancient Hero's Bandana",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ancient_Hero%27s_Bandana",
 				"img": {
@@ -4148,16 +4609,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Limitless",
-					"effect": "Quadruples maximum ammo.",
-					"Quality": "S",
-					"Introduced in": "v1.0: Release"
+					"effect": "Quadruples maximum ammo."
 				}
 			}
 		},
 		{
 			"name": "Bloodied Scarf",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Bloodied_Scarf",
 				"img": {
@@ -4166,16 +4629,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Blink Away",
-					"effect": "Replaces the dodge roll with a teleport. Increases reload speed.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Replaces the dodge roll with a teleport. Increases reload speed."
 				}
 			}
 		},
 		{
 			"name": "Muscle Relaxant",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Muscle_Relaxant",
 				"img": {
@@ -4184,16 +4649,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Loosen Up",
-					"effect": "Decreases bullet spread by 66%.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Decreases bullet spread by 66%."
 				}
 			}
 		},
 		{
 			"name": "Hip Holster",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Hip_Holster",
 				"img": {
@@ -4202,16 +4669,18 @@
 					"height": 19
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Quickdraw",
-					"effect": "Reloading a weapon fires it once for free.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Reloading a weapon fires it once for free."
 				}
 			}
 		},
 		{
 			"name": "Clone",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Clone",
 				"img": {
@@ -4220,16 +4689,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "The Real Me",
-					"effect": "Upon death, the player is revived in the starting room of the first floor, retaining all items and guns.",
-					"Quality": "S",
-					"Introduced in": "v1.0: Release"
+					"effect": "Upon death, the player is revived in the starting room of the first floor, retaining all items and guns."
 				}
 			}
 		},
 		{
 			"name": "Sponge",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Sponge",
 				"img": {
@@ -4238,16 +4709,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Godliness",
-					"effect": "Removes all liquids near the player and allows the player to understand Professor Goopton",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Removes all liquids near the player and allows the player to understand Professor Goopton"
 				}
 			}
 		},
 		{
 			"name": "Gas Mask",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Gas_Mask",
 				"img": {
@@ -4256,16 +4729,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Breathe Deep",
-					"effect": "Grants immunity to poison.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants immunity to poison."
 				}
 			}
 		},
 		{
 			"name": "Hazmat Suit",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Hazmat_Suit",
 				"img": {
@@ -4274,16 +4749,18 @@
 					"height": 11
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Safety Protocol",
-					"effect": "Grants immunity to fire, poison, and electricity.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants immunity to fire, poison, and electricity."
 				}
 			}
 		},
 		{
 			"name": "Book of Chest Anatomy",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Book_of_Chest_Anatomy",
 				"img": {
@@ -4292,16 +4769,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Controlled Demolition",
-					"effect": "Improves the contents of broken chests.",
-					"Quality": "C",
-					"Introduced in": "v1.0: Release"
+					"effect": "Improves the contents of broken chests."
 				}
 			}
 		},
 		{
 			"name": "Gun Soul",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Gun_Soul",
 				"img": {
@@ -4310,16 +4789,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "YOU DEFEATED",
-					"effect": "Adds a heart container. Upon death, the player respawns at the start of the current floor with one heart container. All enemies previously killed will respawn, and if the player reaches the location where they died, they will return to normal.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Adds a heart container. Upon death, the player respawns at the start of the current floor with one heart container. All enemies previously killed will respawn, and if the player reaches the location where they died, they will return to normal."
 				}
 			}
 		},
 		{
 			"name": "Shelleton Key",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Shelleton_Key",
 				"img": {
@@ -4328,16 +4809,18 @@
 					"height": 20
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Locks Are Dead To You",
-					"effect": "Allows any chest or lock to be opened without using a key. Increases curse by 1 while held.",
-					"Quality": "S",
-					"Introduced in": "v1.0: Release"
+					"effect": "Allows any chest or lock to be opened without using a key. Increases curse by 1 while held."
 				}
 			}
 		},
 		{
 			"name": "Brick of Cash",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Brick_of_Cash",
 				"img": {
@@ -4346,16 +4829,18 @@
 					"height": 11
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Secrets Of The Masons",
-					"effect": "Reveals secret rooms.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Reveals secret rooms."
 				}
 			}
 		},
 		{
 			"name": "Battle Standard",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Battle_Standard",
 				"img": {
@@ -4364,16 +4849,18 @@
 					"height": 27
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Set Your Own!",
-					"effect": "Increases the damage of companions and charmed enemies.",
-					"Quality": "D",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Increases the damage of companions and charmed enemies."
 				}
 			}
 		},
 		{
 			"name": "Wingman",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Wingman",
 				"img": {
@@ -4382,16 +4869,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Got Your Back",
-					"effect": "Orbits the player, firing rockets at enemies.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Orbits the player, firing rockets at enemies."
 				}
 			}
 		},
 		{
 			"name": "Wolf",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Wolf",
 				"img": {
@@ -4400,16 +4889,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Junior",
-					"effect": "Chases and bites enemies.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Chases and bites enemies."
 				}
 			}
 		},
 		{
 			"name": "Dog",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "D",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Dog",
 				"img": {
@@ -4418,16 +4909,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Junior II",
-					"effect": "Follows the player around, occasionally digs up a pickup upon completing a room, and barks at mimic chests.",
-					"Quality": "D",
-					"Introduced in": "v1.0: Release"
+					"effect": "Follows the player around, occasionally digs up a pickup upon completing a room, and barks at mimic chests."
 				}
 			}
 		},
 		{
 			"name": "Owl",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Owl",
 				"img": {
@@ -4436,16 +4929,18 @@
 					"height": 16
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Hoots And More",
-					"effect": "Follows the player, firing bullets at enemies and occasionally using short-ranged blanks.",
-					"Quality": "S",
-					"Introduced in": "v1.0: Release"
+					"effect": "Follows the player, firing bullets at enemies and occasionally using short-ranged blanks."
 				}
 			}
 		},
 		{
 			"name": "Super Space Turtle",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Super_Space_Turtle",
 				"img": {
@@ -4454,16 +4949,18 @@
 					"height": 8
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Hero From Space",
-					"effect": "Follows the player, firing bullets at enemies.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Follows the player, firing bullets at enemies."
 				}
 			}
 		},
 		{
 			"name": "Junk",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Junk",
 				"img": {
@@ -4472,16 +4969,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Next Time Use A Key",
-					"effect": "Has no effect on its own. Often spawned by destroying chests.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "Has no effect on its own. Often spawned by destroying chests."
 				}
 			}
 		},
 		{
 			"name": "Gold Junk",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Gold_Junk",
 				"img": {
@@ -4490,16 +4989,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "One Man's Trash",
-					"effect": "Grants 500  on pickup.",
-					"Quality": "-",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Grants 500  on pickup."
 				}
 			}
 		},
 		{
 			"name": "Lies",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Lies",
 				"img": {
@@ -4508,16 +5009,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Next Time Tell The Truth",
-					"effect": "No effect.",
-					"Quality": "-",
-					"Introduced in": "v1.0: Release"
+					"effect": "No effect."
 				}
 			}
 		},
 		{
 			"name": "Ser Junkan",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Ser_Junkan",
 				"img": {
@@ -4526,16 +5029,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Next time... who is he?",
-					"effect": "Summons Ser Junkan, who follows the player, attacks enemies, and becomes stronger for each Junk picked up.",
-					"Quality": "C",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Summons Ser Junkan, who follows the player, attacks enemies, and becomes stronger for each Junk picked up."
 				}
 			}
 		},
 		{
 			"name": "R2G2",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/R2G2",
 				"img": {
@@ -4544,16 +5049,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Gunmech Robot",
-					"effect": "Follows the player, firing bullets at enemies.",
-					"Quality": "S",
-					"Introduced in": "v1.0: Release"
+					"effect": "Follows the player, firing bullets at enemies."
 				}
 			}
 		},
 		{
 			"name": "Baby Good Shelleton",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v2.1: A Farewell to Arms Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Baby_Good_Shelleton",
 				"img": {
@@ -4562,16 +5069,18 @@
 					"height": 14
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Grave Lad",
-					"effect": "Follows the player and attacks enemies with a green laser.",
-					"Quality": "S",
-					"Introduced in": "v2.1: A Farewell to Arms Update"
+					"effect": "Follows the player and attacks enemies with a green laser."
 				}
 			}
 		},
 		{
 			"name": "Badge",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Badge",
 				"img": {
@@ -4580,16 +5089,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "By The Book",
-					"effect": "Summons a police officer that follows the player, firing bullets at enemies. Can be talked to. Can die after taking too much damage. Talking to him after he dies increases the player's damage by 20% and curse by 2.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Summons a police officer that follows the player, firing bullets at enemies. Can be talked to. Can die after taking too much damage. Talking to him after he dies increases the player's damage by 20% and curse by 2."
 				}
 			}
 		},
 		{
 			"name": "Chicken Flute",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Chicken_Flute",
 				"img": {
@@ -4598,16 +5109,18 @@
 					"height": 10
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Fowl Play",
-					"effect": "Summons a chicken that follows the player and blocks bullets. After taking a certain amount of damage, it summons an army of chickens to attack enemies.",
-					"Quality": "B",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Summons a chicken that follows the player and blocks bullets. After taking a certain amount of damage, it summons an army of chickens to attack enemies."
 				}
 			}
 		},
 		{
 			"name": "Space Friend",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Space_Friend",
 				"img": {
@@ -4616,16 +5129,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "A Friend From The Space",
-					"effect": "Follows the player, firing lasers at enemies and blocking enemy bullets.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Follows the player, firing lasers at enemies and blocking enemy bullets."
 				}
 			}
 		},
 		{
 			"name": "Pig",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Pig",
 				"img": {
@@ -4634,16 +5149,18 @@
 					"height": 17
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Shifty",
-					"effect": "Upon death, instantly revives the player with full health.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Upon death, instantly revives the player with full health."
 				}
 			}
 		},
 		{
 			"name": "Turkey",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Turkey",
 				"img": {
@@ -4652,16 +5169,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Triple Tap",
-					"effect": "Recovers 1 ammo after landing three sequential hits.",
-					"Quality": "C",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Recovers 1 ammo after landing three sequential hits."
 				}
 			}
 		},
 		{
 			"name": "Turtle Problem",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "C",
+				"Introduced in": "v2.1: A Farewell to Arms Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Turtle_Problem",
 				"img": {
@@ -4670,16 +5189,18 @@
 					"height": 8
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Is This Normal?",
-					"effect": "Clearing a room spawns a turtle companion. Turtles block enemy bullets and die after taking enough damage.",
-					"Quality": "C",
-					"Introduced in": "v2.1: A Farewell to Arms Update"
+					"effect": "Clearing a room spawns a turtle companion. Turtles block enemy bullets and die after taking enough damage."
 				}
 			}
 		},
 		{
 			"name": "Sprun",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v2.1: A Farewell to Arms Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Sprun",
 				"img": {
@@ -4688,16 +5209,18 @@
 					"height": 10
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "The Way of Guns",
-					"effect": "Temporarily transforms into Windgunner under special circumstances.",
-					"Quality": "A",
-					"Introduced in": "v2.1: A Farewell to Arms Update"
+					"effect": "Temporarily transforms into Windgunner under special circumstances."
 				}
 			}
 		},
 		{
 			"name": "Baby Good Mimic",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Baby_Good_Mimic",
 				"img": {
@@ -4706,16 +5229,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Imitation Love",
-					"effect": "If no other familiars are present, follows the player and attacks enemies. If familiars are present, transforms into another one of the player's familiars.",
-					"Quality": "B",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "If no other familiars are present, follows the player and attacks enemies. If familiars are present, transforms into another one of the player's familiars."
 				}
 			}
 		},
 		{
 			"name": "Blank Companion's Ring",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Blank_Companion%27s_Ring",
 				"img": {
@@ -4724,16 +5249,18 @@
 					"height": 23
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "He Tries",
-					"effect": "Activates a blank each time an active item is used.",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Activates a blank each time an active item is used."
 				}
 			}
 		},
 		{
 			"name": "Briefcase of Cash",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "A",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Briefcase_of_Cash",
 				"img": {
@@ -4742,16 +5269,18 @@
 					"height": 13
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Avarice",
-					"effect": "Grants 250  and 3 .",
-					"Quality": "A",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants 250  and 3 ."
 				}
 			}
 		},
 		{
 			"name": "Galactic Medal of Valor",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Galactic_Medal_of_Valor",
 				"img": {
@@ -4760,16 +5289,18 @@
 					"height": 11
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Courage Increased",
-					"effect": "Deal more damage to Bosses.\nIncreases reload speed and accuracy.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Deal more damage to Bosses.\nIncreases reload speed and accuracy."
 				}
 			}
 		},
 		{
 			"name": "Bullet Idol",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Bullet_Idol",
 				"img": {
@@ -4778,16 +5309,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "Vengeful Spirit",
-					"effect": "Deals 45 damage to enemies upon taking damage.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Deals 45 damage to enemies upon taking damage."
 				}
 			}
 		},
 		{
 			"name": "Riddle of Lead",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Riddle_of_Lead",
 				"img": {
@@ -4796,16 +5329,18 @@
 					"height": 18
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "This You Can Trust",
-					"effect": "Grants a heart container, fully heals the player, increases damage by 30%, increases dodge roll speed by 15%, increases movement speed by 10%, and adds a chance to negate damage.",
-					"Quality": "S",
-					"Introduced in": "v1.0: Release"
+					"effect": "Grants a heart container, fully heals the player, increases damage by 30%, increases dodge roll speed by 15%, increases movement speed by 10%, and adds a chance to negate damage."
 				}
 			}
 		},
 		{
 			"name": "Bracket Key",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "S",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Bracket_Key",
 				"img": {
@@ -4814,16 +5349,18 @@
 					"height": 12
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "`debugkill",
-					"effect": "Deals a large amount of damage to all enemies in a room. Increases curse by 1 while held.",
-					"Quality": "S",
-					"Introduced in": "v1.0: Release"
+					"effect": "Deals a large amount of damage to all enemies in a room. Increases curse by 1 while held."
 				}
 			}
 		},
 		{
 			"name": "Elder Blank",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "B",
+				"Introduced in": "v1.0: Release"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Elder_Blank",
 				"img": {
@@ -4832,16 +5369,18 @@
 					"height": 15
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Excommunicate Bullets",
-					"effect": "Activates a blank. Increases curse by 2 while held.",
-					"Quality": "B",
-					"Introduced in": "v1.0: Release"
+					"effect": "Activates a blank. Increases curse by 2 while held."
 				}
 			}
 		},
 		{
 			"name": "Teleporter Prototype",
+			"attrs": {
+				"Type": "Active",
+				"Quality": "B",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Teleporter_Prototype",
 				"img": {
@@ -4850,16 +5389,18 @@
 					"height": 19
 				},
 				"fields": {
-					"Type": "Active",
 					"quote": "Teleport?!",
-					"effect": "Teleports the player to a random room.",
-					"Quality": "B",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Teleports the player to a random room."
 				}
 			}
 		},
 		{
 			"name": "Yellow Chamber",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "S",
+				"Introduced in": "v1.1: Supply Drop Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Yellow_Chamber",
 				"img": {
@@ -4868,16 +5409,18 @@
 					"height": 21
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "\"the jammed thing\"",
-					"effect": "Grants 2 heart containers. Upon entering a room, there is a chance that an enemy will be charmed for the duration of the room. Increases fire rate by 15%. Increase curse by 2 while held.",
-					"Quality": "S",
-					"Introduced in": "v1.1: Supply Drop Update"
+					"effect": "Grants 2 heart containers. Upon entering a room, there is a chance that an enemy will be charmed for the duration of the room. Increases fire rate by 15%. Increase curse by 2 while held."
 				}
 			}
 		},
 		{
 			"name": "Infuriating Note",
+			"attrs": {
+				"Type": "Passive",
+				"Quality": "-",
+				"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+			},
 			"props": {
 				"url": "https://enterthegungeon.fandom.com/wiki/Infuriating_Note",
 				"img": {
@@ -4886,24 +5429,10 @@
 					"height": 19
 				},
 				"fields": {
-					"Type": "Passive",
 					"quote": "You've Been Had...",
-					"effect": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair.",
-					"Quality": "-",
-					"Introduced in": "v2.0: Advanced Gungeons & Draguns Update"
+					"effect": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair."
 				}
 			}
-		}
-	],
-	"attrs": [
-		{
-			"pointer": "/props/fields/Type"
-		},
-		{
-			"pointer": "/props/fields/Quality"
-		},
-		{
-			"pointer": "/props/fields/Introduced in"
 		}
 	]
 }
